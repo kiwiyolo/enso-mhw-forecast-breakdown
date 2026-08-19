@@ -1,7 +1,7 @@
 {
   "release": "enso-mhw-forecast-breakdown",
   "version": "1.0.0",
-  "assembled_utc": "2026-08-19T07:42:54.301687+00:00",
+  "assembled_utc": "2026-08-19T09:46:57.077486+00:00",
   "source_root": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper",
   "policy": "Selected active scripts, lightweight derived products, final figures and companion documentation; raw and licensed model archives are excluded.",
   "files": [
@@ -622,8 +622,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9506,
-      "sha256": "19841e78e45217b76b4e9ccab350382f09f801f8b8836f71c153293118d2a17d"
+      "bytes": 9604,
+      "sha256": "2047809dd6ab0b1a19187c56a8119cef49b94d70892346dd3e2a4f7c26d8a171"
     },
     {
       "path": "environment.yml",

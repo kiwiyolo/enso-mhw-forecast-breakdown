@@ -6,6 +6,8 @@ Code and lightweight derived products supporting the manuscript
 
 Repository: <https://github.com/kiwiyolo/enso-mhw-forecast-breakdown>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22010275.svg)](https://doi.org/10.5281/zenodo.22010275)
+
 This repository contains the active calculation and plotting workflow for
 Figures 1-4 and the associated Figure 1 SEDI/RMSE and Figure 3 method-
 sensitivity supplements. It also contains the compact derived products needed
@@ -213,10 +215,10 @@ These qualifications are also stored in
 
 ## Citation
 
-Please cite the archived software release using the citation generated from
-`CITATION.cff` and the version-specific Zenodo DOI once available. The source
-repository is <https://github.com/kiwiyolo/enso-mhw-forecast-breakdown>. The
-software version in this release is `1.0.0`.
+Please cite the archived software release using `CITATION.cff` and the
+version-specific DOI <https://doi.org/10.5281/zenodo.22010275>. The source
+repository is <https://github.com/kiwiyolo/enso-mhw-forecast-breakdown>, and the
+archived software version is `1.0.0`.
 
 ## License
 
