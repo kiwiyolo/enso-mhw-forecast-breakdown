@@ -4,6 +4,8 @@ Code and lightweight derived products supporting the manuscript
 **"Breakdown of El Nino-enhanced marine heatwave predictability in
 2023-2024"**.
 
+Repository: <https://github.com/kiwiyolo/enso-mhw-forecast-breakdown>
+
 This repository contains the active calculation and plotting workflow for
 Figures 1-4 and the associated Figure 1 SEDI/RMSE and Figure 3 method-
 sensitivity supplements. It also contains the compact derived products needed
@@ -212,8 +214,9 @@ These qualifications are also stored in
 ## Citation
 
 Please cite the archived software release using the citation generated from
-`CITATION.cff` and the version-specific Zenodo DOI once available. The software
-version in this release is `1.0.0`.
+`CITATION.cff` and the version-specific Zenodo DOI once available. The source
+repository is <https://github.com/kiwiyolo/enso-mhw-forecast-breakdown>. The
+software version in this release is `1.0.0`.
 
 ## License
 
