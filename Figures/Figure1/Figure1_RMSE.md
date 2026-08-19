@@ -29,7 +29,6 @@ where w_i is proportional to cos(latitude). Target-month RMSE across lead months
 - Domain weighting: cosine-latitude weighting over valid ocean cells from 60S to 60N.
 - Event windows, Nino3.4 data, historical highlights, colours and regression treatment are identical to main Figure 1a.
 - Source metric table: /data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/output/Figure1/candidate09_metrics/Figure1_candidate09_metrics_by_init_lead.csv.
-- Updated 2002/03 source-field metrics: /data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/derived/figure1_2002_03_current_source_metrics.csv; these 108 target-lead values replace the corresponding cached intensity-RMSE entries.
 - Companion outputs: Figure1_RMSE_source_events.csv and Figure1_RMSE_statistics.json. The monthly and phase-slope tables are retained as audit products but are not displayed in this single-panel SI figure.
 
 ## Interpretation boundary

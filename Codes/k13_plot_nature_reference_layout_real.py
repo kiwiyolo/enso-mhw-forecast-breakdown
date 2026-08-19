@@ -398,13 +398,6 @@ def figure1(output: Path, dpi: int, bootstrap: int, seed: int) -> dict[str, floa
     save(fig, output, "Figure1", dpi)
     events.to_csv(output / "Figure1_source_events.csv", index=False)
     pd.DataFrame(slopes).to_csv(output / "Figure1_phase_slopes.csv", index=False)
-    pd.read_csv(DERIVED / "figure1_2002_03_auc_audit.csv").to_csv(
-        output / "Figure1_2002_03_AUC_audit.csv", index=False
-    )
-    audit = json.loads((DERIVED / "figure1_2002_03_auc_audit.json").read_text())
-    (output / "Figure1_2002_03_AUC_audit.json").write_text(
-        json.dumps(audit, indent=2), encoding="utf-8"
-    )
     result = {
         "r": fit.rvalue,
         "p": fit.pvalue,
@@ -420,8 +413,6 @@ def figure1(output: Path, dpi: int, bootstrap: int, seed: int) -> dict[str, floa
         "la_nina_correlation_p": slope_lookup["La Nina"]["P"],
         "slope_contrast": slope_lookup["El Nino minus La Nina"]["Slope"],
         "slope_contrast_p": slope_lookup["El Nino minus La Nina"]["P"],
-        "event_2002_03_auc": audit["stored_event_mean_auc"],
-        "event_2002_03_raw_max_delta": audit["maximum_absolute_difference_from_raw_recalculation"],
     }
     (output / "Figure1_statistics.json").write_text(json.dumps(result, indent=2), encoding="utf-8")
     write_figure1_doc(output / "Figure1.md", result, len(historical))
@@ -429,21 +420,7 @@ def figure1(output: Path, dpi: int, bootstrap: int, seed: int) -> dict[str, floa
 
 
 def figure1_detailed_metrics() -> pd.DataFrame:
-    detailed = pd.read_csv(FIGURE1_METRICS)
-    current_path = DERIVED / "figure1_2002_03_current_source_metrics.csv"
-    if not current_path.is_file():
-        return detailed
-    current = pd.read_csv(current_path)
-    keys = ["Initialization", "Target_Month", "Lead_Month"]
-    current = current.set_index(keys)
-    selected = detailed.Method.eq("NMME ensemble mean")
-    row_keys = pd.MultiIndex.from_frame(detailed.loc[selected, keys])
-    for metric in ("AUC", "SEDI", "RMSE"):
-        replacements = current[metric].reindex(row_keys)
-        replace = replacements.notna().to_numpy()
-        selected_positions = np.flatnonzero(selected.to_numpy())
-        detailed.loc[selected_positions[replace], metric] = replacements.to_numpy()[replace]
-    return detailed
+    return pd.read_csv(FIGURE1_METRICS)
 
 
 def figure1_sedi_data() -> tuple[pd.DataFrame, pd.DataFrame]:
@@ -2157,15 +2134,13 @@ The main graphic deliberately labels only the two highlighted historical events 
 
 The historical event relationship was `r={result['r']:.3f}` (`P={result['p']:.4f}`). For the 2023-24 amplitude, the historical relationship predicted AUC `{result['expected']:.3f}`, whereas the observed event-window forecast skill was `{result['observed']:.3f}` (residual `{result['residual']:+.3f}`; external predictive `P={result['predictive_p']:.3f}`). Monthly skill rose much more consistently with intensity during El Nino (`r={result['el_nino_correlation']:.3f}`, `P={result['el_nino_correlation_p']:.3g}`) than during La Nina (`r={result['la_nina_correlation']:.3f}`, `P={result['la_nina_correlation_p']:.3g}`). Panel c presents the two relationships directly and does not plot a derived difference bar.
 
-The queried 2002/03 value was independently recomputed from the four raw NMME SST archives. All 108 target-month/lead values matched the stored table exactly (maximum absolute difference `{result['event_2002_03_raw_max_delta']:.1e}`), giving event-mean AUC `{result['event_2002_03_auc']:.6f}`. No manual correction was applied.
-
 ## Methods and sources
 
 - NMME MHW forecasts: four-model ensemble mean, target-aligned lead months 1-9.
 - Verification: ERSST MHW occurrence between 60S and 60N; monthly 90th-percentile threshold using 1985-2014.
 - Nino3.4: newly downloaded NOAA CPC ERSSTv5 index.
 - Comparable-event reference used in subsequent figures: equal mean of 1997/98 and 2015/16.
-- Derived tables: `Figure1_source_events.csv`, `Figure1_phase_slopes.csv`, `Figure1_2002_03_AUC_audit.csv`, `Figure1_statistics.json`.
+- Derived tables: `Figure1_source_events.csv`, `Figure1_phase_slopes.csv` and `Figure1_statistics.json`.
 - Download provenance: `{(PAPER_DIR / 'Data/Nature_real_rebuild/raw/download_manifest.json').resolve()}`.
 """, encoding="utf-8")
 
@@ -2199,7 +2174,6 @@ Rates are clipped to [1e-6, 1-1e-6] before taking logarithms. SEDI ranges from -
 - Domain weighting: cosine-latitude weighting over valid ocean cells from 60S to 60N.
 - Event windows, Nino3.4 data, historical highlights, colours and regression treatment are identical to main Figure 1a.
 - Source metric table: {FIGURE1_METRICS.resolve()}.
-- Updated 2002/03 source-field metrics: {(DERIVED / 'figure1_2002_03_current_source_metrics.csv').resolve()}; these 108 target-lead values replace the corresponding cached SEDI entries.
 - Companion outputs: Figure1_SEDI_source_events.csv and Figure1_SEDI_statistics.json. The monthly and phase-slope tables are retained as audit products but are not displayed in this single-panel SI figure.
 
 ## Interpretation boundary
@@ -2240,7 +2214,6 @@ where w_i is proportional to cos(latitude). Target-month RMSE across lead months
 - Domain weighting: cosine-latitude weighting over valid ocean cells from 60S to 60N.
 - Event windows, Nino3.4 data, historical highlights, colours and regression treatment are identical to main Figure 1a.
 - Source metric table: {FIGURE1_METRICS.resolve()}.
-- Updated 2002/03 source-field metrics: {(DERIVED / 'figure1_2002_03_current_source_metrics.csv').resolve()}; these 108 target-lead values replace the corresponding cached intensity-RMSE entries.
 - Companion outputs: Figure1_RMSE_source_events.csv and Figure1_RMSE_statistics.json. The monthly and phase-slope tables are retained as audit products but are not displayed in this single-panel SI figure.
 
 ## Interpretation boundary

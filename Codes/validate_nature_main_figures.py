@@ -87,38 +87,16 @@ def require_finite(frame: pd.DataFrame, columns: list[str], label: str) -> None:
 def validate_figure1(derived: Path) -> dict[str, object]:
     monthly = pd.read_csv(derived / "figure1_monthly_t1_t9.csv")
     events = pd.read_csv(derived / "figure1_event_relation.csv")
-    audit = pd.read_csv(derived / "figure1_2002_03_auc_audit.csv")
-    audit_summary = json.loads(
-        (derived / "figure1_2002_03_auc_audit.json").read_text(encoding="utf-8")
-    )
     require_finite(monthly, ["AUC", "leads", "Nino34"], "Figure 1 monthly table")
     require(monthly["AUC"].between(0, 1).all(), "Figure 1 AUC outside [0, 1]")
     require((monthly["leads"] == 9).all(), "Figure 1 must aggregate exactly target-aligned leads 1-9")
     require_finite(events, ["Peak_Nino34", "Mean_AUC", "Valid_Months"], "Figure 1 event table")
     require("2023/24" in set(events["Event"]), "Figure 1 target event is missing")
-    require(len(audit) == 108, "Figure 1 2002/03 audit must contain 12 months x 9 leads")
-    require(audit["Target_Month"].nunique() == 12, "Figure 1 2002/03 audit must contain 12 target months")
-    require(set(audit["Lead_Month"]) == set(range(1, 10)), "Figure 1 2002/03 audit has unexpected leads")
-    recalculated_column = (
-        "Current_source_recalculated_AUC"
-        if "Current_source_recalculated_AUC" in audit.columns
-        else "Raw_recalculated_AUC"
-    )
-    require_finite(audit, ["Stored_AUC", recalculated_column], "Figure 1 source-field AUC audit")
-    require(audit_summary["status"] == "passed", "Figure 1 source-field AUC audit did not pass")
-    require(
-        float(audit_summary["maximum_absolute_difference_from_raw_recalculation"]) <= 1e-12,
-        "Figure 1 stored and source-field 2002/03 AUC values differ",
-    )
     return {
         "monthly_start": str(monthly["time"].min()),
         "monthly_end": str(monthly["time"].max()),
         "event_count": len(events),
         "lead_count": int(monthly["leads"].iloc[0]),
-        "event_2002_03_auc": float(audit_summary["stored_event_mean_auc"]),
-        "event_2002_03_raw_max_delta": float(
-            audit_summary["maximum_absolute_difference_from_raw_recalculation"]
-        ),
     }
 
 

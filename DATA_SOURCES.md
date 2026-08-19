@@ -57,8 +57,10 @@ the spatial fields used by Figures 2 and 3.
 
 - Provider data retain their original licenses and citation requirements.
 - The repository license covers code and original documentation only.
-- The current NMME source state used for Figure 1 is identified by the checksum
-  manifest under
-  `Experiments/2002_03_NMME_phase_space_correction/results/`.
+- All ENSO events in Figure 1 are evaluated from the same target-aligned NMME
+  metric table and the same `t+1` to `t+9` aggregation workflow.
+- The included metric table is the canonical release snapshot for exact figure
+  reproduction. Source-field recalculation depends on the locally available
+  NMME archive and provider versions, which are not redistributed here.
 - The release does not claim that association-based driver classes are causal
   heat-budget attribution.

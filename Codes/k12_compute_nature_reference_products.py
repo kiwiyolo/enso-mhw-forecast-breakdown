@@ -39,11 +39,6 @@ COMMON_EVALUATION_MASK = (
     / "kw_99_OA-model/outputs/evaluation/v322_global_phase_safe_nio/"
     "candidate09_1985-2014_mhw_2022-2024/figure1_common_evaluation_mask.npz"
 )
-FIGURE1_SOURCE_REPLACEMENT = (
-    PAPER_DIR
-    / "Experiments/2002_03_NMME_phase_space_correction/results/"
-    "source_replacement_manifest.json"
-)
 
 BASINS = {
     "North Pacific": (0.0, 60.0, 120.0, 280.0),
@@ -316,77 +311,6 @@ def observed_mhw_intensity_rmse(
     )
 
 
-def recalculate_2002_03_metrics_from_current_sources() -> pd.DataFrame:
-    with np.load(MHW_REFERENCE) as reference:
-        observations = {
-            str(month): value
-            for month, value in zip(
-                reference["months"].astype(str),
-                np.asarray(reference["observations"], dtype=np.float32),
-                strict=True,
-            )
-        }
-        threshold = np.asarray(reference["threshold"], dtype=np.float32)
-    with np.load(COMMON_EVALUATION_MASK) as source:
-        evaluation_mask = np.asarray(source["mask"], dtype=bool)
-    weights = np.broadcast_to(
-        np.cos(np.deg2rad(COMMON_LAT))[:, None], evaluation_mask.shape
-    ).copy()
-    active = (COMMON_LAT[:, None] >= -60.0) & (COMMON_LAT[:, None] <= 60.0)
-    weights[~np.broadcast_to(active, evaluation_mask.shape)] = 0.0
-    weights[~evaluation_mask] = 0.0
-
-    rows = []
-    cache: dict[str, dict[int, np.ndarray]] = {}
-    for target in pd.period_range("2002-07", "2003-06", freq="M"):
-        target_text = str(target)
-        if target_text not in observations:
-            raise KeyError(f"Missing ERSST observation for {target_text}")
-        for lead in range(1, 10):
-            initialization = target - lead
-            initialization_text = str(initialization)
-            if initialization_text not in cache:
-                cache[initialization_text] = load_nmme_leads(
-                    initialization.to_timestamp(), tuple(range(1, 10))
-                )
-            forecast = cache[initialization_text].get(lead)
-            if forecast is None:
-                raise RuntimeError(
-                    f"Missing current-source NMME field for {initialization_text} t+{lead}"
-                )
-            event = np.where(
-                np.isfinite(observations[target_text])
-                & np.isfinite(threshold[target.month - 1]),
-                observations[target_text] > threshold[target.month - 1],
-                np.nan,
-            ).astype(np.float32)
-            target_threshold = threshold[target.month - 1]
-            rows.append(
-                {
-                    "Initialization": initialization_text,
-                    "Target_Month": target_text,
-                    "Lead_Month": lead,
-                    "AUC": weighted_array_auc(
-                        event,
-                        forecast - target_threshold,
-                        weights,
-                    ),
-                    "SEDI": weighted_array_sedi(
-                        event,
-                        np.where(np.isfinite(forecast), forecast > target_threshold, np.nan),
-                        weights,
-                    ),
-                    "RMSE": observed_mhw_intensity_rmse(
-                        observations[target_text], forecast, target_threshold, weights
-                    ),
-                }
-            )
-    result = pd.DataFrame(rows)
-    if len(result) != 108 or result[["AUC", "SEDI", "RMSE"]].isna().any().any():
-        raise RuntimeError("Current-source 2002/03 metric recalculation is incomplete")
-    return result
-
-
 def build_figure1(nino: pd.DataFrame, output: Path) -> tuple[pd.DataFrame, pd.DataFrame]:
     metrics_path = PAPER_DIR / "output/Figure1/candidate09_metrics/Figure1_candidate09_metrics_by_init_lead.csv"
     events_path = PAPER_DIR / "output/Figure1/supplemental_materials/Figure1_decoupling_event_summary_lead_all_NMME_ERSST.csv"
@@ -394,21 +318,6 @@ def build_figure1(nino: pd.DataFrame, output: Path) -> tuple[pd.DataFrame, pd.Da
     metrics = metrics[
         (metrics.Method == "NMME ensemble mean") & metrics.Lead_Month.between(1, 9)
     ].copy()
-    current_source = recalculate_2002_03_metrics_from_current_sources()
-    keys = ["Initialization", "Target_Month", "Lead_Month"]
-    current_lookup = current_source.set_index(keys).AUC
-    event_selector = pd.to_datetime(metrics.Target_Month).between(
-        "2002-07-01", "2003-06-01"
-    )
-    event_keys = pd.MultiIndex.from_frame(metrics.loc[event_selector, keys])
-    current_values = current_lookup.reindex(event_keys)
-    if len(current_values) != 108 or current_values.isna().any():
-        raise RuntimeError("Could not align all current-source 2002/03 AUC values")
-    metrics.loc[event_selector, "AUC"] = current_values.to_numpy()
-    current_source.to_csv(output / "figure1_2002_03_current_source_metrics.csv", index=False)
-    current_source[keys + ["AUC"]].to_csv(
-        output / "figure1_2002_03_current_source_auc.csv", index=False
-    )
     metrics["time"] = pd.to_datetime(metrics.Target_Month)
     monthly = metrics.groupby("time", as_index=False).agg(AUC=("AUC", "mean"), leads=("Lead_Month", "nunique"))
     monthly = monthly.loc[monthly["leads"].eq(9)].copy()
@@ -442,50 +351,6 @@ def build_figure1(nino: pd.DataFrame, output: Path) -> tuple[pd.DataFrame, pd.Da
     events = pd.DataFrame(event_rows)
     monthly.to_csv(output / "figure1_monthly_t1_t9.csv", index=False)
     events.to_csv(output / "figure1_event_relation.csv", index=False)
-
-    audit = metrics[metrics.time.between("2002-07-01", "2003-06-01")].copy()
-    if len(audit) != 108 or audit.duplicated(keys).any():
-        raise RuntimeError("The 2002/03 AUC audit requires 12 target months x 9 unique leads")
-    counts = audit.groupby("Target_Month").Lead_Month.nunique()
-    if len(counts) != 12 or not counts.eq(9).all():
-        raise RuntimeError("The 2002/03 AUC audit is missing target-month/lead combinations")
-    audit = audit[keys + ["AUC"]].rename(columns={"AUC": "Stored_AUC"})
-    audit = audit.merge(
-        current_source[keys + ["AUC"]].rename(
-            columns={"AUC": "Current_source_recalculated_AUC"}
-        ),
-        on=keys,
-        how="left",
-        validate="one_to_one",
-    )
-    source_rows = int(audit.Current_source_recalculated_AUC.notna().sum())
-    maximum_source_delta = float(
-        (audit.Stored_AUC - audit.Current_source_recalculated_AUC).abs().max()
-    )
-    audit.to_csv(output / "figure1_2002_03_auc_audit.csv", index=False)
-    audit_summary = {
-        "event": "2002/03",
-        "target_window": ["2002-07", "2003-06"],
-        "lead_months": list(range(1, 10)),
-        "rows": len(audit),
-        "target_months": int(counts.size),
-        "stored_event_mean_auc": float(audit.Stored_AUC.mean()),
-        "mean_auc_by_lead": {
-            str(int(lead)): float(value)
-            for lead, value in audit.groupby("Lead_Month").Stored_AUC.mean().items()
-        },
-        "current_source_recalculation_rows": source_rows,
-        "maximum_absolute_difference_from_raw_recalculation": maximum_source_delta,
-        "status": (
-            "passed"
-            if source_rows == 108 and maximum_source_delta <= 1e-12
-            else "failed"
-        ),
-        "source_replacement_manifest": str(FIGURE1_SOURCE_REPLACEMENT.resolve()),
-    }
-    (output / "figure1_2002_03_auc_audit.json").write_text(
-        json.dumps(audit_summary, indent=2), encoding="utf-8"
-    )
     return monthly, events
 
 

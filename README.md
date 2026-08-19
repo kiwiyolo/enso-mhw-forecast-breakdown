@@ -54,8 +54,6 @@ the diagnostic interpretation are recorded under [Scientific boundaries](#scient
 |   |-- Figure4/
 |   |-- figure_manifest.json
 |   `-- validation_report.json
-|-- Experiments/2002_03_NMME_phase_space_correction/results/
-|   `-- source_replacement_manifest.json
 |-- tools/validate_release.py
 |-- run_plotting.sh
 |-- run_full_pipeline.sh
@@ -192,11 +190,10 @@ interpretation:
 - Figure 4 allocates the Figure 1 expected-minus-observed AUC residual by
   association and cross-validated reconstruction. It is diagnostic accounting,
   not a causal intervention analysis.
-- Exact Figure 1 source-field reconstruction depends on the NMME archive state
-  recorded in
-  `Experiments/2002_03_NMME_phase_space_correction/results/source_replacement_manifest.json`.
-  The release does not redistribute those large forecast files. Independent
-  downloads can differ unless their versions and checksums match the manifest.
+- Exact figure reproduction uses the included, target-aligned metric snapshot.
+  Full source-field reconstruction follows the same lead treatment for every
+  event but additionally depends on the locally available NMME archive and
+  provider versions, which are not redistributed here.
 
 These qualifications are also stored in
 `Data/Nature_real_rebuild/derived/calculation_provenance.json`.

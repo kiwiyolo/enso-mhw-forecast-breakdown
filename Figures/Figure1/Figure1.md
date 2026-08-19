@@ -17,13 +17,11 @@ The main figure uses a restrained Nature-style information hierarchy: no in-figu
 
 The historical event relationship was `r=0.940` (`P=0.0002`). For the 2023-24 amplitude, the historical relationship predicted AUC `0.705`, whereas the observed event-window forecast skill was `0.596` (residual `-0.109`; external predictive `P=0.010`). Monthly skill rose much more consistently with intensity during El Nino (`r=0.601`, `P=4.66e-11`) than during La Nina (`r=0.153`, `P=0.0863`). Panel c presents the two relationships directly and does not plot a derived difference bar.
 
-The queried 2002/03 value was independently recomputed from the four raw NMME SST archives. All 108 target-month/lead values matched the stored table exactly (maximum absolute difference `0.0e+00`), giving event-mean AUC `0.608530`. No manual correction was applied.
-
 ## Methods and sources
 
 - NMME MHW forecasts: four-model ensemble mean, target-aligned lead months 1-9.
 - Verification: ERSST MHW occurrence between 60S and 60N; monthly 90th-percentile threshold using 1985-2014.
 - Nino3.4: newly downloaded NOAA CPC ERSSTv5 index.
 - Comparable-event reference used in subsequent figures: equal mean of 1997/98 and 2015/16.
-- Derived tables: `Figure1_source_events.csv`, `Figure1_phase_slopes.csv`, `Figure1_2002_03_AUC_audit.csv`, `Figure1_statistics.json`.
+- Derived tables: `Figure1_source_events.csv`, `Figure1_phase_slopes.csv`, `Figure1_statistics.json`.
 - Download provenance: `/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/raw/download_manifest.json`.

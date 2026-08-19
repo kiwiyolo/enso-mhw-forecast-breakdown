@@ -12,7 +12,5 @@
   "la_nina_correlation": 0.15344219880909962,
   "la_nina_correlation_p": 0.08627324554372157,
   "slope_contrast": 0.06164515317692951,
-  "slope_contrast_p": 0.08278344331133773,
-  "event_2002_03_auc": 0.6085299391882203,
-  "event_2002_03_raw_max_delta": 0.0
+  "slope_contrast_p": 0.08278344331133773
 }

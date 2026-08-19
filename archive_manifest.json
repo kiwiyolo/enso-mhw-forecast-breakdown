@@ -1,7 +1,7 @@
 {
   "release": "enso-mhw-forecast-breakdown",
   "version": "1.0.0",
-  "assembled_utc": "2026-08-19T09:46:57.077486+00:00",
+  "assembled_utc": "2026-08-19T11:20:55.909208+00:00",
   "source_root": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper",
   "policy": "Selected active scripts, lightweight derived products, final figures and companion documentation; raw and licensed model archives are excluded.",
   "files": [
@@ -22,8 +22,8 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 862,
-      "sha256": "abe2f9441a89cadb60caaa93a746cd79937876fcd566cf3bb98fa1866d16341b"
+      "bytes": 966,
+      "sha256": "600bb334381848128e3bc726f20f309c0ebcea0e4391f7de44b480abf097f60c"
     },
     {
       "path": "Codes/k11_download_nature_reference_data.py",
@@ -32,13 +32,13 @@
     },
     {
       "path": "Codes/k12_compute_nature_reference_products.py",
-      "bytes": 83131,
-      "sha256": "18dc8b068062083aa67a89a582f7afb08edd72595dbf8278e55b1735203b6e31"
+      "bytes": 77087,
+      "sha256": "056f629b1ce9fec88411e6217cc224bf5fcec6203c8f2105baf09558dbef4390"
     },
     {
       "path": "Codes/k13_plot_nature_reference_layout_real.py",
-      "bytes": 117379,
-      "sha256": "3dbc4d383a0f82f43888980839466bdf50bf8439b0fe901f59ea7f2c8fd2935d"
+      "bytes": 115412,
+      "sha256": "4ccba9a2c005ed568de25d4183e2f9326d1398ca8b51dd545721470fb975e9e6"
     },
     {
       "path": "Codes/k18_plot_figure3_driver_method_sensitivity.py",
@@ -47,38 +47,18 @@
     },
     {
       "path": "Codes/validate_nature_main_figures.py",
-      "bytes": 25622,
-      "sha256": "ba659956a896b8f836aeb085f16bd3d3959bb06bb4b0f780ee6bdef7d6c55a00"
+      "bytes": 24369,
+      "sha256": "a516fe300554311dcaf48d93f98b9df447b2d0326a86163ae09841a25939197e"
     },
     {
       "path": "DATA_SOURCES.md",
-      "bytes": 2645,
-      "sha256": "3d95da0cee8d3ea2e41b0d838acfcfa398ecf1197bf7cd20653df64f18e97746"
+      "bytes": 2856,
+      "sha256": "d7c84cc9b2108c6e7c2d0c62640940a8c42f31296028fa2822492eb71a7c66b5"
     },
     {
       "path": "Data/Nature_real_rebuild/derived/calculation_provenance.json",
       "bytes": 2003,
       "sha256": "4cc0aa62fc68e6de5ea11e0d73ea495e7daa5a5e12e5911d14df140bdf5455eb"
-    },
-    {
-      "path": "Data/Nature_real_rebuild/derived/figure1_2002_03_auc_audit.csv",
-      "bytes": 6122,
-      "sha256": "a3cd128f663a00a99427715e0fb71428d39a651cbca8631f753a519d500ee75c"
-    },
-    {
-      "path": "Data/Nature_real_rebuild/derived/figure1_2002_03_auc_audit.json",
-      "bytes": 834,
-      "sha256": "2b4229a49423e0535a7556c95277aab38d87edc36eb063e6023547cc1941ddb4"
-    },
-    {
-      "path": "Data/Nature_real_rebuild/derived/figure1_2002_03_current_source_auc.csv",
-      "bytes": 4035,
-      "sha256": "db340ad7e436cc694ba26baab81bca706c58ac216f4191c643eafdb286e1d4f4"
-    },
-    {
-      "path": "Data/Nature_real_rebuild/derived/figure1_2002_03_current_source_metrics.csv",
-      "bytes": 8315,
-      "sha256": "0753bc4f53ffc9ed35daaa352ae2f7a356a22c9f1a17d169c2e2c031195b3fe8"
     },
     {
       "path": "Data/Nature_real_rebuild/derived/figure1_event_relation.csv",
@@ -226,19 +206,14 @@
       "sha256": "29aba1dcda53431717b0d4fdb0614b6138a63e4ad33a888947db887dcf6a8797"
     },
     {
-      "path": "Experiments/2002_03_NMME_phase_space_correction/results/source_replacement_manifest.json",
-      "bytes": 63561,
-      "sha256": "2d58f3445f38a4d11cf60295df069a8f79d64ee158a068d2dfbddc412b89d86e"
-    },
-    {
       "path": "Figure2_ENSO-forecast/k01_cal_source_region_prediction_errors.py",
       "bytes": 32195,
       "sha256": "dd8424c90ede6780c6ae2d08e5c6be5a06ffe544ac8840a5005e9c30d25e31f2"
     },
     {
       "path": "Figures/Figure1/Figure1.md",
-      "bytes": 3458,
-      "sha256": "7cfce399b1b51e42dff590d6862d97954e9c5636682a17a7c0e25abf2516ab3f"
+      "bytes": 3157,
+      "sha256": "8b3af9ee8739aab963a4668c42530177c002a1f15c3231a725a359bf963dd472"
     },
     {
       "path": "Figures/Figure1/Figure1.pdf",
@@ -251,19 +226,9 @@
       "sha256": "d90919e4dc6eb29eb7a2bc9350bfff8b2dc756dd3fe5fd845a907b6d92e69702"
     },
     {
-      "path": "Figures/Figure1/Figure1_2002_03_AUC_audit.csv",
-      "bytes": 6106,
-      "sha256": "1a1c5bbaa438cb402bb3ff3218523ccf00432a5c96b88c1fd14a94b7c252e831"
-    },
-    {
-      "path": "Figures/Figure1/Figure1_2002_03_AUC_audit.json",
-      "bytes": 834,
-      "sha256": "2b4229a49423e0535a7556c95277aab38d87edc36eb063e6023547cc1941ddb4"
-    },
-    {
       "path": "Figures/Figure1/Figure1_RMSE.md",
-      "bytes": 3601,
-      "sha256": "26791d0de46464b3a927845cec1748c9b877f3a3c199258b4ab9f81b376acd08"
+      "bytes": 3351,
+      "sha256": "44bd0dbb35c1525d7f02ef5e7e0e70449bf36e4ab0b76b5204cb9b4ffdd57432"
     },
     {
       "path": "Figures/Figure1/Figure1_RMSE.pdf",
@@ -297,8 +262,8 @@
     },
     {
       "path": "Figures/Figure1/Figure1_SEDI.md",
-      "bytes": 3258,
-      "sha256": "8af9e557f35cac5145b5614257967bf185c96007a5a5d7d7a060295a84199397"
+      "bytes": 3018,
+      "sha256": "a3513429c830d2c73a074cb6c3e06a3abb6fdcf14ab66d852ea0c4e47631df48"
     },
     {
       "path": "Figures/Figure1/Figure1_SEDI.pdf",
@@ -342,8 +307,8 @@
     },
     {
       "path": "Figures/Figure1/Figure1_statistics.json",
-      "bytes": 633,
-      "sha256": "ae2b1c1e7b56d502d8679b81c54b480b1f5a481dfe08bbb65c9741eeccde106f"
+      "bytes": 553,
+      "sha256": "5d90d72dd178177ea67e1fa91513a8e32d984292316850b1385fc53313d1cf7f"
     },
     {
       "path": "Figures/Figure2/Figure2.md",
@@ -607,13 +572,13 @@
     },
     {
       "path": "Figures/figure_manifest.json",
-      "bytes": 4939,
-      "sha256": "986b05a795ef8c19ddcc8695f871061c8c8837542cfc5dac853876a4e5982dde"
+      "bytes": 4851,
+      "sha256": "c2de6759ebfee01ec4f8ac9014792ea8043f6c4cadafa6de5bd476b3144d0c66"
     },
     {
       "path": "Figures/validation_report.json",
-      "bytes": 3567,
-      "sha256": "e061ae136f9bea6f91213a9ebd1f5d96318c00b50a99d9f6a1fa0016150191be"
+      "bytes": 3483,
+      "sha256": "83257b28f19231930e848cfaa2e2b2a3c6291e335e5eef5222fa2d1dff205ec9"
     },
     {
       "path": "LICENSE",
@@ -622,8 +587,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9604,
-      "sha256": "2047809dd6ab0b1a19187c56a8119cef49b94d70892346dd3e2a4f7c26d8a171"
+      "bytes": 9446,
+      "sha256": "d6d5473ea77e65725be1dffe277ac8f7d72306b0236ba683e84b23293021879f"
     },
     {
       "path": "environment.yml",
@@ -632,8 +597,8 @@
     },
     {
       "path": "output/Figure1/candidate09_metrics/Figure1_candidate09_metrics_by_init_lead.csv",
-      "bytes": 1359216,
-      "sha256": "7fc46d0de3122d75dbf012477cf360927a808b85ca5bc4bf38eedeafb3b1e230"
+      "bytes": 1359176,
+      "sha256": "1199708a35d877431cae54a972a6fcbe83c3d04dd48c0846bde7d45908658a49"
     },
     {
       "path": "requirements.txt",
