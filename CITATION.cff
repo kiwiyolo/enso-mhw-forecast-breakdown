@@ -5,7 +5,7 @@ version: 1.0.0
 date-released: 2026-08-19
 type: software
 license: MIT
-doi: 10.5281/zenodo.22010275
+doi: 10.5281/zenodo.22010274
 repository-code: "https://github.com/kiwiyolo/enso-mhw-forecast-breakdown"
 authors:
   - family-names: Luo
