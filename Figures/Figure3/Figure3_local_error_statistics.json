@@ -1,0 +1,24 @@
+{
+  "sample_count": 24,
+  "basin_count": 6,
+  "lead_months": [
+    1,
+    3,
+    6,
+    9
+  ],
+  "local_dominated_basins": [
+    "Indian Ocean",
+    "North Atlantic",
+    "North Pacific",
+    "South Atlantic",
+    "South Pacific",
+    "Tropical Atlantic"
+  ],
+  "pearson_r": 0.528747620805906,
+  "ordinary_p": 0.007897841289074078,
+  "basin_block_permutation_p": 0.15117891816920942,
+  "basin_block_bootstrap_ci_low": -0.09497492201167411,
+  "basin_block_bootstrap_ci_high": 0.9836053107415167,
+  "definition": "Target minus historical canonical mean of 1-r between forecast and observed SST threshold-excess patterns; skill loss is historical mean AUC minus target AUC for the same basin and lead."
+}

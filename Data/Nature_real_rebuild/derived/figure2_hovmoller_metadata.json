@@ -1,0 +1,13 @@
+{
+  "historical_strong_events": [
+    "1982/83 (peak 1983-01)",
+    "1987/88 (peak 1987-08)",
+    "1991/92 (peak 1992-01)",
+    "1997/98 (peak 1997-12)",
+    "2009/10 (peak 2009-12)",
+    "2015/16 (peak 2015-12)"
+  ],
+  "target_peak": "2023-12",
+  "equatorial_band": "5S-5N",
+  "climatology": "1985-01 to 2014-12"
+}

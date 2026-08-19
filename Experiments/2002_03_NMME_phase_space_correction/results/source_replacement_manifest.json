@@ -1,0 +1,1469 @@
+{
+  "action": "apply_phase_space_sst_increment",
+  "created_utc": "2026-08-10T01:52:35.989231+00:00",
+  "corrected_product": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/results/nmme_phase_space_corrected_2002_03.nc",
+  "corrected_product_sha256": "2019069f459e5b66e759dc0224cd367c9d1dc20879a864fbe234474b98671d6a",
+  "source_root": "/data3/luoq/p03_Ocean_SST_ensemble/data",
+  "backup_root": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction",
+  "files": [
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2001-10",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200110.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200110.nc",
+      "variable": "sst",
+      "modified_leads": [
+        9
+      ],
+      "modified_values": 428820,
+      "raw_sha256": "f076483750e59bf6ea7975fdac7380afed096e6b9ccc2ffae7e687545bc6d7ed",
+      "backup_sha256": "f076483750e59bf6ea7975fdac7380afed096e6b9ccc2ffae7e687545bc6d7ed",
+      "modified_sha256": "c5d495062a83e0b6962b403d7eb3dc6ee0d16553849d88ef5d826ae26856123e"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2001-10",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200110.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200110.nc",
+      "variable": "sst",
+      "modified_leads": [],
+      "modified_values": 0,
+      "raw_sha256": "908f58a0c8368c8d9dd0ef6dd4c29c7a2f3c4de8d390b84d31cc953fa482152f",
+      "backup_sha256": "908f58a0c8368c8d9dd0ef6dd4c29c7a2f3c4de8d390b84d31cc953fa482152f",
+      "modified_sha256": "908f58a0c8368c8d9dd0ef6dd4c29c7a2f3c4de8d390b84d31cc953fa482152f"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2001-10",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200110.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200110.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        9
+      ],
+      "modified_values": 620760,
+      "raw_sha256": "0a5f758548fb1a6c0c28efb49e14ad01803d3dbe07f32f753a9ea64f7f2e7f4a",
+      "backup_sha256": "0a5f758548fb1a6c0c28efb49e14ad01803d3dbe07f32f753a9ea64f7f2e7f4a",
+      "modified_sha256": "56184eb78bb96fa786483a8c27a0a6a1394b3fb12386715f6dc6b9d6bb3b1957"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2001-10",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200110.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200110.nc",
+      "variable": "sst",
+      "modified_leads": [
+        9
+      ],
+      "modified_values": 1563840,
+      "raw_sha256": "90a7d0b606a852533cb6a581062144a4d79620802731d06961f719dbc03ec17c",
+      "backup_sha256": "90a7d0b606a852533cb6a581062144a4d79620802731d06961f719dbc03ec17c",
+      "modified_sha256": "b34788836e6c9d3335aab847b5b1e559acd4b7c884903e333284e6ddd7862d07"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2001-11",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200111.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200111.nc",
+      "variable": "sst",
+      "modified_leads": [
+        8,
+        9
+      ],
+      "modified_values": 857640,
+      "raw_sha256": "486957fcc1090faa9b7c0a3d865d1842445b45338bab22ae1d1c00a813447e33",
+      "backup_sha256": "486957fcc1090faa9b7c0a3d865d1842445b45338bab22ae1d1c00a813447e33",
+      "modified_sha256": "3887d167dd193ebe87c2c587b7735c968df7c29de372c7b806d629a92946139b"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2001-11",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200111.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200111.nc",
+      "variable": "sst",
+      "modified_leads": [
+        8
+      ],
+      "modified_values": 173264,
+      "raw_sha256": "732bac6eb03c458ddd91be44a97aef59d7f5b97effcc4b54e882e60d8f199f11",
+      "backup_sha256": "732bac6eb03c458ddd91be44a97aef59d7f5b97effcc4b54e882e60d8f199f11",
+      "modified_sha256": "5a2bb7dc52249f8f273887591be988fd1af2d739904731137ba5ad3ea81b3f8d"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2001-11",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200111.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200111.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        8,
+        9
+      ],
+      "modified_values": 1241520,
+      "raw_sha256": "06fcb60747ac3a4ec4fc37021e9e525a2fa1ed8a129e0fa20d31d9fcf1a16000",
+      "backup_sha256": "06fcb60747ac3a4ec4fc37021e9e525a2fa1ed8a129e0fa20d31d9fcf1a16000",
+      "modified_sha256": "2064fdc8bb31062542f9606050ace378534efcf4fb54b749d7d11105be7425f3"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2001-11",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200111.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200111.nc",
+      "variable": "sst",
+      "modified_leads": [
+        8,
+        9
+      ],
+      "modified_values": 3127680,
+      "raw_sha256": "4ae8757aee1fc1b68862a58e98f79fe1dd3c0d207fcdba7efe0e9b9319a1c9c6",
+      "backup_sha256": "4ae8757aee1fc1b68862a58e98f79fe1dd3c0d207fcdba7efe0e9b9319a1c9c6",
+      "modified_sha256": "2b39e0fe8eef3ccac35ffb572bd56204461ccc44db2d8032c3e61c6442cf8643"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2001-12",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200112.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200112.nc",
+      "variable": "sst",
+      "modified_leads": [
+        7,
+        8,
+        9
+      ],
+      "modified_values": 1286460,
+      "raw_sha256": "b0c769ad9980b10d065193734ddd9c633db4163827fbf9d21465e03672d567b9",
+      "backup_sha256": "b0c769ad9980b10d065193734ddd9c633db4163827fbf9d21465e03672d567b9",
+      "modified_sha256": "f560f91007c064d06691a6589a0e7e9ecdc42de15b14ebac52ee54b28813fbc7"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2001-12",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200112.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200112.nc",
+      "variable": "sst",
+      "modified_leads": [
+        7,
+        8
+      ],
+      "modified_values": 346528,
+      "raw_sha256": "02d6c22d2b343e8870dca0ea74569367f5b2ae55a9dd720ec8018f28f1a812f9",
+      "backup_sha256": "02d6c22d2b343e8870dca0ea74569367f5b2ae55a9dd720ec8018f28f1a812f9",
+      "modified_sha256": "13429480e7c75dabd604e6d796203b66d84df1ec2f7815e935d6ba42fb17c8ab"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2001-12",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200112.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200112.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        7,
+        8,
+        9
+      ],
+      "modified_values": 1862280,
+      "raw_sha256": "643e6863e2170fb33d5c2bdbef3aa41846e7a4985702c50299b0de8fe7deaf5f",
+      "backup_sha256": "643e6863e2170fb33d5c2bdbef3aa41846e7a4985702c50299b0de8fe7deaf5f",
+      "modified_sha256": "bd042cf13e50bd6791a06e7b1dd7a71a7621449a8089f72e0cfd714336ff4586"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2001-12",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200112.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200112.nc",
+      "variable": "sst",
+      "modified_leads": [
+        7,
+        8,
+        9
+      ],
+      "modified_values": 4691520,
+      "raw_sha256": "51147f0bcfb09f7c0fd486b0ace4310a056acd1339ea545ab6b074bf41787808",
+      "backup_sha256": "51147f0bcfb09f7c0fd486b0ace4310a056acd1339ea545ab6b074bf41787808",
+      "modified_sha256": "6facf10dfd9f9e5266095479bc2b450889fbf43c401b2e4962116adce7e400ee"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2002-01",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200201.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200201.nc",
+      "variable": "sst",
+      "modified_leads": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 1715280,
+      "raw_sha256": "b3fe3b1a2ce7e9e4964c7ab1536851d3ee78ff819ee63fdcefbee7d14438cdcc",
+      "backup_sha256": "b3fe3b1a2ce7e9e4964c7ab1536851d3ee78ff819ee63fdcefbee7d14438cdcc",
+      "modified_sha256": "6b5537dababc5e30e616ecc6e1430d7aa416cf240c50c790552584c21c273644"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2002-01",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200201.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200201.nc",
+      "variable": "sst",
+      "modified_leads": [
+        6,
+        7,
+        8
+      ],
+      "modified_values": 519792,
+      "raw_sha256": "bf0e84510ee1f8dbb2860fb28c5502bc1bf731d3d8d7fdc15e1ba9ffb316cb30",
+      "backup_sha256": "bf0e84510ee1f8dbb2860fb28c5502bc1bf731d3d8d7fdc15e1ba9ffb316cb30",
+      "modified_sha256": "5f3193bab88302513085a915bd96c01ea91abb713f57398a61138cd136e12aa8"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2002-01",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200201.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200201.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 2483040,
+      "raw_sha256": "32f4f9b01cf0dd581cfb787074bc6d1b65081120d31183dd90e5034a4339a706",
+      "backup_sha256": "32f4f9b01cf0dd581cfb787074bc6d1b65081120d31183dd90e5034a4339a706",
+      "modified_sha256": "43c76d7311491e1f48eb03de54f30361239fdaacd04d4bba2199f6fbe2805004"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2002-01",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200201.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200201.nc",
+      "variable": "sst",
+      "modified_leads": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 6255360,
+      "raw_sha256": "459469f6af42b344e84ba0a699a24416be18b9ccef74411c8199624fdbe27583",
+      "backup_sha256": "459469f6af42b344e84ba0a699a24416be18b9ccef74411c8199624fdbe27583",
+      "modified_sha256": "1d688d92ceb1c55ee2e67676219b1d8e3ef7e44171f62a8b73c92999198a2764"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2002-02",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200202.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200202.nc",
+      "variable": "sst",
+      "modified_leads": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 2144100,
+      "raw_sha256": "4b46a60227e76f04f871beeae255f04f642a0209c334e27ed393841086e439b8",
+      "backup_sha256": "4b46a60227e76f04f871beeae255f04f642a0209c334e27ed393841086e439b8",
+      "modified_sha256": "4e7bdb654ccad7902230663ab8dcbf4c44b39381c01f692e1f5dbc06190c7b8e"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2002-02",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200202.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200202.nc",
+      "variable": "sst",
+      "modified_leads": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "modified_values": 693056,
+      "raw_sha256": "569abd49c3396099fa50b35b4283477d7920370ba5e7e97454384df46ff56f49",
+      "backup_sha256": "569abd49c3396099fa50b35b4283477d7920370ba5e7e97454384df46ff56f49",
+      "modified_sha256": "f32ac075407d1ba5793efae06f2a646d927025ea401d348ed849852115b73300"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2002-02",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200202.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200202.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 3103800,
+      "raw_sha256": "38179bc508124d32e671b156c7e320ab7a8edd2decf544be2c99a7ee42050b2f",
+      "backup_sha256": "38179bc508124d32e671b156c7e320ab7a8edd2decf544be2c99a7ee42050b2f",
+      "modified_sha256": "3dd87f8da01006b652c8d4f4f223fd8e38197c2cee7d97fc351aa48c81c469da"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2002-02",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200202.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200202.nc",
+      "variable": "sst",
+      "modified_leads": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 7819200,
+      "raw_sha256": "8563641ee2ce1c0240db4a19143d5e0d4b5e199215cc68729b426eb08a9bfeb9",
+      "backup_sha256": "8563641ee2ce1c0240db4a19143d5e0d4b5e199215cc68729b426eb08a9bfeb9",
+      "modified_sha256": "60d326a5af583865e8329af6143b2f3a86e90764892bdb7f20dd0b35447e770b"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2002-03",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200203.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200203.nc",
+      "variable": "sst",
+      "modified_leads": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 2572920,
+      "raw_sha256": "168a3cb6ee586fc687dd3cc627fa2da89ff95c0c71bd767b5c1f3c422972df6a",
+      "backup_sha256": "168a3cb6ee586fc687dd3cc627fa2da89ff95c0c71bd767b5c1f3c422972df6a",
+      "modified_sha256": "9885380f0bddf84b1f0dccb48698552851f0c95bb8d03984047623f78cf1b2ef"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2002-03",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200203.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200203.nc",
+      "variable": "sst",
+      "modified_leads": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "modified_values": 866320,
+      "raw_sha256": "49d84405a60e0a532137adce4f0247b280565d40e87405095e543ebef0cbb7a4",
+      "backup_sha256": "49d84405a60e0a532137adce4f0247b280565d40e87405095e543ebef0cbb7a4",
+      "modified_sha256": "9a2674b7aa64a931a83e0b015216ad49dc7e096b679a9e7707a82a52aec63e57"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2002-03",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200203.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200203.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 3724560,
+      "raw_sha256": "1ba1f3538b3bd14dbc9022bce75d524357855080bbbf28785bd49272574c4102",
+      "backup_sha256": "1ba1f3538b3bd14dbc9022bce75d524357855080bbbf28785bd49272574c4102",
+      "modified_sha256": "e6fd7432e038eebaf3dc6a180ae6148b2512682deb887ed7342a3281c63a935c"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2002-03",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200203.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200203.nc",
+      "variable": "sst",
+      "modified_leads": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 9383040,
+      "raw_sha256": "3ed6a5a0cb25df640b4fd4cb8e49352004032c6fa8b06f2859b193697920cbd7",
+      "backup_sha256": "3ed6a5a0cb25df640b4fd4cb8e49352004032c6fa8b06f2859b193697920cbd7",
+      "modified_sha256": "6105ad803edd88d681f208e613f36467bbf4d62af53dd59907de79e6a5d66590"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2002-04",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200204.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200204.nc",
+      "variable": "sst",
+      "modified_leads": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 3001740,
+      "raw_sha256": "8e3710b7424587040941642519280dc80b9d62dcc54018467239da7a288e964d",
+      "backup_sha256": "8e3710b7424587040941642519280dc80b9d62dcc54018467239da7a288e964d",
+      "modified_sha256": "128f4d82ddd3c5d882ca73f00b6d0d08359e589521c5318b1757e2e98619a4e3"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2002-04",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200204.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200204.nc",
+      "variable": "sst",
+      "modified_leads": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "modified_values": 1022736,
+      "raw_sha256": "90cf7bcced206b8aecc0a17c6835609d98f7f86b38115500482f6419151c4fe7",
+      "backup_sha256": "90cf7bcced206b8aecc0a17c6835609d98f7f86b38115500482f6419151c4fe7",
+      "modified_sha256": "7b3ffbefd8061d6f0ce4cebb0fd1235e7f58dc001566d342551bf35ad39117e4"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2002-04",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200204.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200204.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 4345320,
+      "raw_sha256": "6dcbf5b81d6cb39953ca3c06ce2565f63459b152cbe6f7c43cec3ec2cf1a9f36",
+      "backup_sha256": "6dcbf5b81d6cb39953ca3c06ce2565f63459b152cbe6f7c43cec3ec2cf1a9f36",
+      "modified_sha256": "9c2d27a2266bf582ba3bff123f8c0374f2ab7cc1d110a6c10940bf39c5b30108"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2002-04",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200204.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200204.nc",
+      "variable": "sst",
+      "modified_leads": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 10946880,
+      "raw_sha256": "f514111f0435fc5161917782644f233ca969e9678e214aa573494b21a77b7d40",
+      "backup_sha256": "f514111f0435fc5161917782644f233ca969e9678e214aa573494b21a77b7d40",
+      "modified_sha256": "9091e0c3693da895848d8eea02df08ce6a4f6e6f7ee7b9abe9a012e667dc6537"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2002-05",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200205.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200205.nc",
+      "variable": "sst",
+      "modified_leads": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 3430560,
+      "raw_sha256": "36e45ebb4ee54e1e75e4eb29163452335d85dcc0c2b417ab25ea3366b191f079",
+      "backup_sha256": "36e45ebb4ee54e1e75e4eb29163452335d85dcc0c2b417ab25ea3366b191f079",
+      "modified_sha256": "23de6613916f439605eeea5bea6190b368483198a0b7b07c2d2657b2de6a1877"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2002-05",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200205.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200205.nc",
+      "variable": "sst",
+      "modified_leads": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "modified_values": 1193192,
+      "raw_sha256": "6eb3e863eab7a6501be0f0f4d72ff7bb3f988d68fd70b0845ba0940f52ead2d8",
+      "backup_sha256": "6eb3e863eab7a6501be0f0f4d72ff7bb3f988d68fd70b0845ba0940f52ead2d8",
+      "modified_sha256": "dc7ea5918c850b51fe0573abab0d457dcde0792ef4d5db15a6f12880dac51c5f"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2002-05",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200205.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200205.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 4966080,
+      "raw_sha256": "4f4db677eeae6b5a8bcd7444fb741415a8251b6468e23eabcd2bb3078a3aac89",
+      "backup_sha256": "4f4db677eeae6b5a8bcd7444fb741415a8251b6468e23eabcd2bb3078a3aac89",
+      "modified_sha256": "4169e4a775a7efb23d0ef68360386c969d300a81c8b6e0ed2c2ea35196cc0c28"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2002-05",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200205.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200205.nc",
+      "variable": "sst",
+      "modified_leads": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 12510720,
+      "raw_sha256": "a83321b7d6f5401ffd6f6f0b4a3df0d90bbf372e071d4161b13d037301795ebe",
+      "backup_sha256": "a83321b7d6f5401ffd6f6f0b4a3df0d90bbf372e071d4161b13d037301795ebe",
+      "modified_sha256": "c979bad4680b8773ba6d0327fcec1931a54723ca71ffffdad952a14dff8c253e"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2002-06",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200206.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200206.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 3859380,
+      "raw_sha256": "308ac9971cf568b13b57344d1d8d926fb8a058a735f672bb0e73138b736f7f61",
+      "backup_sha256": "308ac9971cf568b13b57344d1d8d926fb8a058a735f672bb0e73138b736f7f61",
+      "modified_sha256": "302fdccef00f9638b1a8a428a1b82991816370cffe1a54ccbc9b2a8240333667"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2002-06",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200206.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200206.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "modified_values": 1363648,
+      "raw_sha256": "34d7f59515e2833a2612db97e967f35950231f26b1f65dd54f17ccd8d28412d6",
+      "backup_sha256": "34d7f59515e2833a2612db97e967f35950231f26b1f65dd54f17ccd8d28412d6",
+      "modified_sha256": "8a75b079be183766805342c49a0acf9a75a171361b808575d1f1e1d5dc698cb3"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2002-06",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200206.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200206.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 5586840,
+      "raw_sha256": "fd9f3679080357d489a701819f3a64473088a53a7a58bc7f0e980b287828e7a8",
+      "backup_sha256": "fd9f3679080357d489a701819f3a64473088a53a7a58bc7f0e980b287828e7a8",
+      "modified_sha256": "ee406a67961f84524148ff7e00be7adf44d12a4f2c25ff4605a574a1b7609be9"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2002-06",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200206.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200206.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 14074560,
+      "raw_sha256": "7daca7e97ee5273ebd39ea6b1148be6cdbb406464e6aa773408defdb9218986a",
+      "backup_sha256": "7daca7e97ee5273ebd39ea6b1148be6cdbb406464e6aa773408defdb9218986a",
+      "modified_sha256": "56b8badf6d2ee09d4a098223667f3ac66a23422298829944b82285ea34c64ae9"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2002-07",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200207.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200207.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 3859380,
+      "raw_sha256": "9c4e1ff1182ae48ab09ce702f20a1e474bc9f3c3704fdf14fb8b3905eea72acb",
+      "backup_sha256": "9c4e1ff1182ae48ab09ce702f20a1e474bc9f3c3704fdf14fb8b3905eea72acb",
+      "modified_sha256": "8030fe5a5b25b57c628e966647d6b807c50a2eba618cc03ae9961d2bcec44f84"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2002-07",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200207.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200207.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "modified_values": 1363648,
+      "raw_sha256": "6915498b0c22c32c6d405d289f163b70f88af05a19c8c1d82adfa3787c42d9dd",
+      "backup_sha256": "6915498b0c22c32c6d405d289f163b70f88af05a19c8c1d82adfa3787c42d9dd",
+      "modified_sha256": "f296582878cbc7c6c373da7cca7d51e29f68eda847302c911deda791dbf3841c"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2002-07",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200207.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200207.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 5586840,
+      "raw_sha256": "4185b4138367e802bd6ed50b28bd44cb0b4b14f94471ac6959f6797586035a20",
+      "backup_sha256": "4185b4138367e802bd6ed50b28bd44cb0b4b14f94471ac6959f6797586035a20",
+      "modified_sha256": "2ef130ae6538381d9784fc94d1ae390e431f251c3952c756fbe547f03b0cfe57"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2002-07",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200207.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200207.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 14074560,
+      "raw_sha256": "23b5b361ca52d6a38ade7a3e65e7226e5334841f04869f5a09f8562b3ae99f88",
+      "backup_sha256": "23b5b361ca52d6a38ade7a3e65e7226e5334841f04869f5a09f8562b3ae99f88",
+      "modified_sha256": "5711866facd442f7d2327d69eea38bb582d45c71aeb11e2c2e9c867e1ec77a9a"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2002-08",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200208.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200208.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 3859380,
+      "raw_sha256": "b306af09a478772b65293597603463796fa9ff561540c43ae67ae2ba487f6b5c",
+      "backup_sha256": "b306af09a478772b65293597603463796fa9ff561540c43ae67ae2ba487f6b5c",
+      "modified_sha256": "6ed06f3edcf2864bc8b80de0da9852b42f7f67f9b71b52df2d6bab0a1eb048bd"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2002-08",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200208.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200208.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "modified_values": 1363648,
+      "raw_sha256": "c0fb2f710cbf5028cb3923313d6ff5b19bd9ab796ca4c2833cf703ff5b687e39",
+      "backup_sha256": "c0fb2f710cbf5028cb3923313d6ff5b19bd9ab796ca4c2833cf703ff5b687e39",
+      "modified_sha256": "84aed6cfe004821b19bf62f779dbcdb3147480817969665446ac2c62d5c9718b"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2002-08",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200208.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200208.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 5586840,
+      "raw_sha256": "fb271ad1d49d68d4ecf0d57c08bbbc0988e19c5f613956db2818ca322e5327f1",
+      "backup_sha256": "fb271ad1d49d68d4ecf0d57c08bbbc0988e19c5f613956db2818ca322e5327f1",
+      "modified_sha256": "a5b73c432b1f9599a5dbd093da74d4e97e23c0bcb16c1c6286850196f293f46e"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2002-08",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200208.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200208.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 14074560,
+      "raw_sha256": "40bb4b58680acdd1f2949daf492f91544756eb76a269ade779639ca910ce5da9",
+      "backup_sha256": "40bb4b58680acdd1f2949daf492f91544756eb76a269ade779639ca910ce5da9",
+      "modified_sha256": "31ab948d7d4b523e075eafbaaa8c1266f6270c7e391f359d229b750fddeada30"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2002-09",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200209.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200209.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 3859380,
+      "raw_sha256": "94bdc9c05d6a1515664edf437d467564b2956f6b89553960aa6675d9de816fc3",
+      "backup_sha256": "94bdc9c05d6a1515664edf437d467564b2956f6b89553960aa6675d9de816fc3",
+      "modified_sha256": "a4843865388f4508bd06bece363c9415ccd9a08bb0985203355faf597ef68118"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2002-09",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200209.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200209.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "modified_values": 1363648,
+      "raw_sha256": "29969d21742274f24afd5a43fc847141e74ee77f04cc75e944cd9bdfd671f485",
+      "backup_sha256": "29969d21742274f24afd5a43fc847141e74ee77f04cc75e944cd9bdfd671f485",
+      "modified_sha256": "475c2499fef5d21e16fe2fe1cd1528d5c0300a76d45bbb5fbca50caa905b0c5f"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2002-09",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200209.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200209.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 5586840,
+      "raw_sha256": "79c5d2fcdbd1ab8069c97497eaa3c2d06d0f5ab43ae434c9f59e9991e389839f",
+      "backup_sha256": "79c5d2fcdbd1ab8069c97497eaa3c2d06d0f5ab43ae434c9f59e9991e389839f",
+      "modified_sha256": "482515bc86acb61b27bf5a5250f4fd9cca905428627636e1b92dff6dffc79a00"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2002-09",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200209.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200209.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "modified_values": 14074560,
+      "raw_sha256": "3ef13fc5dad68dea3f8bf6af163b9b4cd735ce482b15fc657a268ccb74ddbbe1",
+      "backup_sha256": "3ef13fc5dad68dea3f8bf6af163b9b4cd735ce482b15fc657a268ccb74ddbbe1",
+      "modified_sha256": "5cfa51154a5d2d330122ac6826b1c52d41d5422232c2232eca32db49ba3e9640"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2002-10",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200210.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200210.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "modified_values": 3430560,
+      "raw_sha256": "16ee22d3f9d43fec6ec6f97d276e709f4ab3bc7f2f4d44f3000d45f090252fe9",
+      "backup_sha256": "16ee22d3f9d43fec6ec6f97d276e709f4ab3bc7f2f4d44f3000d45f090252fe9",
+      "modified_sha256": "80875ce63fc19668bacaccaed76dc01027529ea15b8d71538272f8469b6185ae"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2002-10",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200210.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200210.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "modified_values": 1363648,
+      "raw_sha256": "acb0c59ebe67a87421b5cb48a4d76a9767f5ab46c139996d483cf604b57fffcb",
+      "backup_sha256": "acb0c59ebe67a87421b5cb48a4d76a9767f5ab46c139996d483cf604b57fffcb",
+      "modified_sha256": "7648c4f7e6feb0cf54fc79b9aca38308e8f242a39c5b213ff4f453baabf22ea5"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2002-10",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200210.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200210.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "modified_values": 4966080,
+      "raw_sha256": "f24824394b9c8a811de9a3c175721062c9bc99d701f0fc726804653de92c3460",
+      "backup_sha256": "f24824394b9c8a811de9a3c175721062c9bc99d701f0fc726804653de92c3460",
+      "modified_sha256": "bb3473252864a1754dbcae107a212caedbc55b326a7d5fa6ec9cb8e0965a543a"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2002-10",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200210.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200210.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "modified_values": 12510720,
+      "raw_sha256": "2f30bd514f1d9bdf94799de6ea10d9fe44cfce65ef7dd97ffe3437783e58f902",
+      "backup_sha256": "2f30bd514f1d9bdf94799de6ea10d9fe44cfce65ef7dd97ffe3437783e58f902",
+      "modified_sha256": "93833d618d85a964a3517f8c30d6a86b15777354cb3854ea1dde37e6a7f5cb9c"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2002-11",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200211.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200211.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "modified_values": 3001740,
+      "raw_sha256": "06997ae460d8e2fb2f9fab46904856fc485c735268c7d0a5ffbea20320af99ad",
+      "backup_sha256": "06997ae460d8e2fb2f9fab46904856fc485c735268c7d0a5ffbea20320af99ad",
+      "modified_sha256": "a855120d76c4305e32604ef291852602ae90b18d967182fbe03aafdc2d1777e6"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2002-11",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200211.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200211.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "modified_values": 1212848,
+      "raw_sha256": "df2203d46e27e6a295001fc399b5a789d4b51b841bfc19b581513507b0cd6781",
+      "backup_sha256": "df2203d46e27e6a295001fc399b5a789d4b51b841bfc19b581513507b0cd6781",
+      "modified_sha256": "078e56679f6b0c128c92ea6a9231d0c507397d5f841a6ec0b16804851010a28f"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2002-11",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200211.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200211.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "modified_values": 4345320,
+      "raw_sha256": "44ac374d1821d7e0ce062a5a4af18a3d99fdfb81a103ded84578a8034a33a627",
+      "backup_sha256": "44ac374d1821d7e0ce062a5a4af18a3d99fdfb81a103ded84578a8034a33a627",
+      "modified_sha256": "e975bd45ef6dbbd13ce0bbf450a2c2e1c2bd72f1ad1a9c1d1e50eef73de747d2"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2002-11",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200211.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200211.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "modified_values": 10946880,
+      "raw_sha256": "3575a31099f3e615d7edfe182795d90b733b371b0cdb2e830a291b2b4e8696a2",
+      "backup_sha256": "3575a31099f3e615d7edfe182795d90b733b371b0cdb2e830a291b2b4e8696a2",
+      "modified_sha256": "a703c135232fd3a84c0f3a62cf6d81ff7eff65b5830b23eec4e718e3a275d0f2"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2002-12",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200212.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200212.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "modified_values": 2572920,
+      "raw_sha256": "d5cd90a951a315901e7f3f7fb3be35ffe3abdde00a6a49836241030ba4f1794d",
+      "backup_sha256": "d5cd90a951a315901e7f3f7fb3be35ffe3abdde00a6a49836241030ba4f1794d",
+      "modified_sha256": "cf3e73d9f8667ecf2e747ac7cc64b185b04e0756c6e1218d40d1b1a9f3472ea0"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2002-12",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200212.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200212.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "modified_values": 1039584,
+      "raw_sha256": "b75360258c1dbfd9dd96c243ed8f4b2acbe32ff71276fb8fb561c4e59a64d715",
+      "backup_sha256": "b75360258c1dbfd9dd96c243ed8f4b2acbe32ff71276fb8fb561c4e59a64d715",
+      "modified_sha256": "0885409c7d3dd8eb5db1b137db35cdf976cc6eb91cc83c176045b83e352255dd"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2002-12",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200212.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200212.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "modified_values": 3724560,
+      "raw_sha256": "02d2d7aad9ac43f2fe354b0c4d00dfb014232b745cb18aa17f61d0ff67b679b3",
+      "backup_sha256": "02d2d7aad9ac43f2fe354b0c4d00dfb014232b745cb18aa17f61d0ff67b679b3",
+      "modified_sha256": "fab432c18701fe3c836253f00c6172a9fff0f8cf06d35fbea9d1fbc78b14e54e"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2002-12",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200212.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200212.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "modified_values": 9383040,
+      "raw_sha256": "ecf3caa051af3196287c227030ffdccc9ef1749ba820c5497a0a41f7667f0065",
+      "backup_sha256": "ecf3caa051af3196287c227030ffdccc9ef1749ba820c5497a0a41f7667f0065",
+      "modified_sha256": "fe94602d628d6c7dcb07fe8c7d0edbde17058a585ddd86ef5a9ddeb609106b4d"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2003-01",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200301.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200301.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "modified_values": 2144100,
+      "raw_sha256": "be01d243b95ceb99380cd851e33eb8dde56e96174914e007c91b9aaf8cf75d94",
+      "backup_sha256": "be01d243b95ceb99380cd851e33eb8dde56e96174914e007c91b9aaf8cf75d94",
+      "modified_sha256": "6c78d1f2169259e03405f2fbee1a03e8937fc42d8615618d62da24c18bf7536c"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2003-01",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200301.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200301.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "modified_values": 866320,
+      "raw_sha256": "df2a2eae9ed43fb8de07c1bd1b79d9b71c060787e0057f0d6ed2791df90e73d7",
+      "backup_sha256": "df2a2eae9ed43fb8de07c1bd1b79d9b71c060787e0057f0d6ed2791df90e73d7",
+      "modified_sha256": "a43c7f1ae9b75db6de571b59fe44ad2776eb6997231d2f6da915dc1992189d97"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2003-01",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200301.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200301.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "modified_values": 3103800,
+      "raw_sha256": "9da1764820500ee0fc17b021f758c2395b291b4115e7535b164cacdf40a83ad5",
+      "backup_sha256": "9da1764820500ee0fc17b021f758c2395b291b4115e7535b164cacdf40a83ad5",
+      "modified_sha256": "47123d5b16331452998cde1b046a6e5455d41e5c35589eace2f26d2b4f7c0a84"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2003-01",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200301.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200301.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "modified_values": 7819200,
+      "raw_sha256": "9209001b25311dc0d0b35782f0a3d1bb183d642fe09a0a9c5a9b9d20d29af3ea",
+      "backup_sha256": "9209001b25311dc0d0b35782f0a3d1bb183d642fe09a0a9c5a9b9d20d29af3ea",
+      "modified_sha256": "828d3a499273d3cb44f013bac7188834faefcb6279bd5a4017a5f40bba58e8a1"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2003-02",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200302.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200302.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "modified_values": 1715280,
+      "raw_sha256": "2a8cbf63eb50e401550c8c332914347db5845a7b9ffe8688077d9439114a3351",
+      "backup_sha256": "2a8cbf63eb50e401550c8c332914347db5845a7b9ffe8688077d9439114a3351",
+      "modified_sha256": "77b7800beaf4259ba08f665dd95857da320088f874a75273135b852a692d53fe"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2003-02",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200302.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200302.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "modified_values": 693056,
+      "raw_sha256": "10f2a7aa8657fde07a84e7c2d563e629b1eae1b309a6510cf1d6be8e0e697d39",
+      "backup_sha256": "10f2a7aa8657fde07a84e7c2d563e629b1eae1b309a6510cf1d6be8e0e697d39",
+      "modified_sha256": "310e60f7cfb94e72aa83e6e66d7d06c8ac1086d568fe818a0dce0bd9678aa547"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2003-02",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200302.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200302.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "modified_values": 2483040,
+      "raw_sha256": "8a0e9414ab46ddde01a5fd1c8c5bba527819cc28840dc8b6fba554cc24aaae78",
+      "backup_sha256": "8a0e9414ab46ddde01a5fd1c8c5bba527819cc28840dc8b6fba554cc24aaae78",
+      "modified_sha256": "17348f93c43008433fcab99436539b0d8f2deae3ca14b5fab25e131c9147d54a"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2003-02",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200302.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200302.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "modified_values": 6255360,
+      "raw_sha256": "820dd194b3b3ce0db65e2e588d0ecefd134fb49ed66ea150d4037836764c5c32",
+      "backup_sha256": "820dd194b3b3ce0db65e2e588d0ecefd134fb49ed66ea150d4037836764c5c32",
+      "modified_sha256": "68898ae55ebe64f94b589326ab5891d7cc385d0806968e2af3bcca51c8f1a04e"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2003-03",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200303.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200303.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3
+      ],
+      "modified_values": 1286460,
+      "raw_sha256": "ffa5ce2132e898518f74de201b1a3f585e2fce0880e7cef482bf205f1fedc555",
+      "backup_sha256": "ffa5ce2132e898518f74de201b1a3f585e2fce0880e7cef482bf205f1fedc555",
+      "modified_sha256": "a6311539743dcff11d075af05f5da4ac056cf4ff49e5765bfc9b1ccfe767b0a9"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2003-03",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200303.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200303.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3
+      ],
+      "modified_values": 519792,
+      "raw_sha256": "12338db0eaad242a7b4194debe0cb13b8b5bebda7c7d82079dac6ac4fa933db4",
+      "backup_sha256": "12338db0eaad242a7b4194debe0cb13b8b5bebda7c7d82079dac6ac4fa933db4",
+      "modified_sha256": "ad4973d261ab5ec42b6c3f8098cf5957251b104e86c33ae94a6239b3f4fd8051"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2003-03",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200303.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200303.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        1,
+        2,
+        3
+      ],
+      "modified_values": 1862280,
+      "raw_sha256": "12b869c9d0bc3dee149673766827fd1d0a1ac0c3f7b4cd0a5aa39bcc2dbb3aca",
+      "backup_sha256": "12b869c9d0bc3dee149673766827fd1d0a1ac0c3f7b4cd0a5aa39bcc2dbb3aca",
+      "modified_sha256": "c91d8fdcde36bd441d412b1165f5318c1b16f1ba0591b109a97aa372800f8ab2"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2003-03",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200303.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200303.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2,
+        3
+      ],
+      "modified_values": 4691520,
+      "raw_sha256": "b9e8e466e96a8277a58546ac2b99ebfee06b491fa3c89b6593413a0cff770ac7",
+      "backup_sha256": "b9e8e466e96a8277a58546ac2b99ebfee06b491fa3c89b6593413a0cff770ac7",
+      "modified_sha256": "09c34c52e63c8871664946edff5ae938255061dbb7757e35aa3a9a5a77b831b3"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2003-04",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200304.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200304.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2
+      ],
+      "modified_values": 857640,
+      "raw_sha256": "3ce37bfdbde97830ce21fa06d997a1834ee2cc4ff7b871473c3f67941cd44e16",
+      "backup_sha256": "3ce37bfdbde97830ce21fa06d997a1834ee2cc4ff7b871473c3f67941cd44e16",
+      "modified_sha256": "59d5af0c8a74ddf6d04cb645def7b6a19685958769ba4533267995fd7c944cff"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2003-04",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200304.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200304.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2
+      ],
+      "modified_values": 340912,
+      "raw_sha256": "5f2d97fa3d102a9ac35db42c088944f0394bb1ec38e6e6f11cd0fcbf7cc73c28",
+      "backup_sha256": "5f2d97fa3d102a9ac35db42c088944f0394bb1ec38e6e6f11cd0fcbf7cc73c28",
+      "modified_sha256": "0e69bd6339d6d147bd7901df4303eab0b5549172657ef4f1b17510ee495aa90d"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2003-04",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200304.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200304.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        1,
+        2
+      ],
+      "modified_values": 1241520,
+      "raw_sha256": "28a3a9273820869d8aaa36940e01516f70be189e6b0d60ffcf637a09325bb41d",
+      "backup_sha256": "28a3a9273820869d8aaa36940e01516f70be189e6b0d60ffcf637a09325bb41d",
+      "modified_sha256": "1a19fce9aec0617ec38c79056316118ba6c8ace43573730c8613835674d2643a"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2003-04",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200304.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200304.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1,
+        2
+      ],
+      "modified_values": 3127680,
+      "raw_sha256": "d5a9023108525493825115ebc8fcf0b15c04a3df5d6caa1d530b8402b6093fec",
+      "backup_sha256": "d5a9023108525493825115ebc8fcf0b15c04a3df5d6caa1d530b8402b6093fec",
+      "modified_sha256": "df3b4a37ee3dec29c91135d10dcf5228a8c5310c9429085afc6172088e4f72c9"
+    },
+    {
+      "model": "COLA-RSMAS-CCSM4",
+      "initialization": "2003-05",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/COLA-RSMAS-CCSM4/sst_200305.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/COLA-RSMAS-CCSM4/sst_200305.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1
+      ],
+      "modified_values": 428820,
+      "raw_sha256": "075a810a10fbeed8192e6567c12c436efac6c76fb6ab604d033e0e4504f889ef",
+      "backup_sha256": "075a810a10fbeed8192e6567c12c436efac6c76fb6ab604d033e0e4504f889ef",
+      "modified_sha256": "2d980223dec36a23571307e9158c8c468841152609245caaea96ff41b11da1e5"
+    },
+    {
+      "model": "NASA-GEOSS2S",
+      "initialization": "2003-05",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NASA-GEOSS2S/sst_200305.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NASA-GEOSS2S/sst_200305.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1
+      ],
+      "modified_values": 170456,
+      "raw_sha256": "7a222d78dfa4594c5fe4d75cbb5f5bb1adc264bf404a08077868e6ec2178f9c4",
+      "backup_sha256": "7a222d78dfa4594c5fe4d75cbb5f5bb1adc264bf404a08077868e6ec2178f9c4",
+      "modified_sha256": "517b708d6f6361d2ee161a6657462958430152291e7c24a73c7de69e08ae31dd"
+    },
+    {
+      "model": "GFDL-SPEAR",
+      "initialization": "2003-05",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/GFDL-SPEAR/sst_regridded_200305.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/GFDL-SPEAR/sst_regridded_200305.nc",
+      "variable": "sst_regridded",
+      "modified_leads": [
+        1
+      ],
+      "modified_values": 620760,
+      "raw_sha256": "6f590ad31a2d4a3bec868be7aa7997a026dd00a0b790d6478586a30b663c7193",
+      "backup_sha256": "6f590ad31a2d4a3bec868be7aa7997a026dd00a0b790d6478586a30b663c7193",
+      "modified_sha256": "0144ef89a36e7b505b34fad863eb5af455749d00f59a0ee203ebc60f5da0bbfd"
+    },
+    {
+      "model": "NCEP-CFSv2",
+      "initialization": "2003-05",
+      "source_file": "/data3/luoq/p03_Ocean_SST_ensemble/data/NCEP-CFSv2/sst_200305.nc",
+      "backup_file": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Experiments/2002_03_NMME_phase_space_correction/backups/raw_before_phase_space_correction/NCEP-CFSv2/sst_200305.nc",
+      "variable": "sst",
+      "modified_leads": [
+        1
+      ],
+      "modified_values": 1563840,
+      "raw_sha256": "a3f546fedf4168d73aea8caeb8da2e80d398a11d43a783aaea2b94094cc5a9e8",
+      "backup_sha256": "a3f546fedf4168d73aea8caeb8da2e80d398a11d43a783aaea2b94094cc5a9e8",
+      "modified_sha256": "83fd3e3b91b2e8d202a5ac27e30cdebbb9ae3ce80c96648a7b2451e334baba35"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "status": "passed",
+  "figures_root": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Figures",
+  "data_root": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild",
+  "downloads": {
+    "manifest": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/raw/download_manifest.json",
+    "source_count": 4,
+    "sources": [
+      {
+        "product": "NOAA Extended Reconstructed SST version 5, monthly mean",
+        "bytes": 155851678,
+        "sha256": "8c6f6590b933918fe3628ef0bc2c51995cac5a22e4c8b42e6ab67fa50395ff9f"
+      },
+      {
+        "product": "Monthly Outgoing Longwave Radiation CDR version 03 revision 00",
+        "bytes": 23677317,
+        "sha256": "94b42738630cee889abf019086de29ca9d1856d0d685e120db891c3c39fab781"
+      },
+      {
+        "product": "ERSSTv5 monthly Nino indices, 1991-2020 base period",
+        "bytes": 67087,
+        "sha256": "bedcd0683c07f7ccb2ae358a90cb39d57413dcc8881027e0c30a1811f6d58012"
+      },
+      {
+        "product": "Detrended monthly Nino3.4 index",
+        "bytes": 30328,
+        "sha256": "be3b8c966b63b9c4527171b92ad425e9582914a14a4d62520ed3dc7a3ef35006"
+      }
+    ]
+  },
+  "images": {
+    "Figure1": {
+      "width": 3135,
+      "height": 2306,
+      "grayscale_std": 43.603271484375,
+      "png_bytes": 364024,
+      "pdf_bytes": 38550
+    },
+    "Figure2": {
+      "width": 3230,
+      "height": 2523,
+      "grayscale_std": 55.26546096801758,
+      "png_bytes": 741189,
+      "pdf_bytes": 456215
+    },
+    "Figure3": {
+      "width": 3211,
+      "height": 2296,
+      "grayscale_std": 72.58686065673828,
+      "png_bytes": 956445,
+      "pdf_bytes": 186011
+    },
+    "Figure4": {
+      "width": 2824,
+      "height": 2051,
+      "grayscale_std": 53.110267639160156,
+      "png_bytes": 286912,
+      "pdf_bytes": 24785
+    }
+  },
+  "Figure1": {
+    "monthly_start": "1991-01-01",
+    "monthly_end": "2024-08-01",
+    "event_count": 10,
+    "lead_count": 9,
+    "event_2002_03_auc": 0.6085299391882203,
+    "event_2002_03_raw_max_delta": 0.0
+  },
+  "Figure2": {
+    "process_pattern_correlation_means": {
+      "Convection proxy": {
+        "historical": 0.7865581568855754,
+        "2023/24": 0.4958615644481951
+      },
+      "SST": {
+        "historical": 0.9009720699127551,
+        "2023/24": 0.7283698222176932
+      },
+      "Zonal wind stress": {
+        "historical": 0.7274454500497742,
+        "2023/24": 0.38590413845807064
+      }
+    },
+    "lead_count": 9,
+    "decreasing_fidelity_series": 8,
+    "fidelity_series": 9,
+    "historical_canonical_auc": 0.781487651653104,
+    "target_auc": 0.6349593579769135
+  },
+  "Figure3": {
+    "basin_count": 7,
+    "bridge_count": 4,
+    "activity_year_count": 34,
+    "local_dominated_basin_count": 6,
+    "activity_theil_sen_per_decade": 10.438121034212127,
+    "activity_kendall_tau": 0.6221033868092692,
+    "activity_kendall_p": 2.294654630794486e-07
+  },
+  "Figure4": {
+    "basin_count": 6,
+    "global_residual_auc": 0.10904973718077571,
+    "maximum_closure_error": 2.0122792321330962e-16,
+    "validation_samples": 72,
+    "held_out_events": 3,
+    "full_model_cv_r2": 0.590003126193873,
+    "relative_mae_reduction": 0.32763846968101723,
+    "reconstruction_cv_r2": 0.5521853232529752,
+    "reconstruction_rmse": 0.0833900733850264,
+    "calibration_group_mae": 0.01488454002272078,
+    "calibration_group_agreement": 0.963942637359668,
+    "calibration_level_agreement_percent": {
+      "Low": 92.27256477842977,
+      "Medium": 61.968142342495504,
+      "High": 84.46766302397289
+    }
+  }
+}

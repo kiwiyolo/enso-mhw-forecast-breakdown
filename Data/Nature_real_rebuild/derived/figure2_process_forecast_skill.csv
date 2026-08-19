@@ -1,0 +1,82 @@
+Process,Event,Lead,Pattern_correlation,NMME_L_months,Mean_model_count,Member_month_count,Group
+Convection proxy,1997/98,1,0.9303401909921085,1.5,,,Comparable events
+Convection proxy,1997/98,2,0.9130742177660807,2.5,,,Comparable events
+Convection proxy,1997/98,3,0.8968148083834303,3.5,,,Comparable events
+Convection proxy,1997/98,4,0.8874303897744071,4.5,,,Comparable events
+Convection proxy,1997/98,5,0.8777814580259317,5.5,,,Comparable events
+Convection proxy,1997/98,6,0.8848165522644544,6.5,,,Comparable events
+Convection proxy,1997/98,7,0.8799093077382155,7.5,,,Comparable events
+Convection proxy,1997/98,8,0.8741686970922572,8.5,,,Comparable events
+Convection proxy,1997/98,9,0.8641836178946984,9.5,,,Comparable events
+Convection proxy,2015/16,1,0.8310096402367886,1.5,,,Comparable events
+Convection proxy,2015/16,2,0.7664734300755297,2.5,,,Comparable events
+Convection proxy,2015/16,3,0.7833171638828046,3.5,,,Comparable events
+Convection proxy,2015/16,4,0.7381391078233748,4.5,,,Comparable events
+Convection proxy,2015/16,5,0.6694699511322787,5.5,,,Comparable events
+Convection proxy,2015/16,6,0.6325667655560268,6.5,,,Comparable events
+Convection proxy,2015/16,7,0.6042101075008262,7.5,,,Comparable events
+Convection proxy,2015/16,8,0.5692226271570745,8.5,,,Comparable events
+Convection proxy,2015/16,9,0.555118790644067,9.5,,,Comparable events
+Convection proxy,2023/24,1,0.6793786949801891,1.5,,,2023/24
+Convection proxy,2023/24,2,0.6715094369811964,2.5,,,2023/24
+Convection proxy,2023/24,3,0.6115235450837455,3.5,,,2023/24
+Convection proxy,2023/24,4,0.5354964625196805,4.5,,,2023/24
+Convection proxy,2023/24,5,0.45618374938566425,5.5,,,2023/24
+Convection proxy,2023/24,6,0.4164997549421938,6.5,,,2023/24
+Convection proxy,2023/24,7,0.35084936291761715,7.5,,,2023/24
+Convection proxy,2023/24,8,0.368757503181905,8.5,,,2023/24
+Convection proxy,2023/24,9,0.3725555700415645,9.5,,,2023/24
+SST,1997/98,1,0.9259715986871785,1.5,4.0,159.0,Comparable events
+SST,1997/98,2,0.9173736729996553,2.5,4.0,159.0,Comparable events
+SST,1997/98,3,0.9113803721248562,3.5,4.0,159.0,Comparable events
+SST,1997/98,4,0.9260042101430127,4.5,4.0,159.0,Comparable events
+SST,1997/98,5,0.9186547084111019,5.5,4.0,159.0,Comparable events
+SST,1997/98,6,0.9186583684082922,6.5,4.0,159.0,Comparable events
+SST,1997/98,7,0.9140691285396249,7.5,4.0,159.0,Comparable events
+SST,1997/98,8,0.9157284073786992,8.5,4.0,159.0,Comparable events
+SST,1997/98,9,0.8954928605305963,9.5,3.0,147.0,Comparable events
+SST,2015/16,1,0.8758891173023842,1.5,4.0,183.0,Comparable events
+SST,2015/16,2,0.8679351531046454,2.5,4.0,183.0,Comparable events
+SST,2015/16,3,0.8613402486085454,3.5,4.0,183.0,Comparable events
+SST,2015/16,4,0.9017311864582059,4.5,4.0,183.0,Comparable events
+SST,2015/16,5,0.9056018531940072,5.5,4.0,183.0,Comparable events
+SST,2015/16,6,0.8958087805911534,6.5,4.0,183.0,Comparable events
+SST,2015/16,7,0.8939677536399541,7.5,4.0,183.0,Comparable events
+SST,2015/16,8,0.8928836985865793,8.5,4.0,183.0,Comparable events
+SST,2015/16,9,0.8790061397210991,9.5,3.0,171.0,Comparable events
+SST,2023/24,1,0.7888128981170025,1.5,3.0,156.0,2023/24
+SST,2023/24,2,0.7632857140928738,2.5,3.0,156.0,2023/24
+SST,2023/24,3,0.764644494821738,3.5,3.0,156.0,2023/24
+SST,2023/24,4,0.72426679582644,4.5,3.0,156.0,2023/24
+SST,2023/24,5,0.6916686491684457,5.5,3.0,156.0,2023/24
+SST,2023/24,6,0.6885788435162864,6.5,3.0,156.0,2023/24
+SST,2023/24,7,0.6976793058714434,7.5,3.0,156.0,2023/24
+SST,2023/24,8,0.7199082091229413,8.5,3.0,156.0,2023/24
+SST,2023/24,9,0.7164834894220673,9.5,2.0,126.0,2023/24
+Zonal wind stress,1997/98,1,0.8273330647897831,1.5,,,Comparable events
+Zonal wind stress,1997/98,2,0.8526017576626254,2.5,,,Comparable events
+Zonal wind stress,1997/98,3,0.7900910540880707,3.5,,,Comparable events
+Zonal wind stress,1997/98,4,0.7589725992425017,4.5,,,Comparable events
+Zonal wind stress,1997/98,5,0.7981563100715544,5.5,,,Comparable events
+Zonal wind stress,1997/98,6,0.8121808603562674,6.5,,,Comparable events
+Zonal wind stress,1997/98,7,0.751837637873183,7.5,,,Comparable events
+Zonal wind stress,1997/98,8,0.7101711639939774,8.5,,,Comparable events
+Zonal wind stress,1997/98,9,0.7093741813343547,9.5,,,Comparable events
+Zonal wind stress,2015/16,1,0.8326351739086411,1.5,,,Comparable events
+Zonal wind stress,2015/16,2,0.7981028283404182,2.5,,,Comparable events
+Zonal wind stress,2015/16,3,0.7775599723461245,3.5,,,Comparable events
+Zonal wind stress,2015/16,4,0.7004993627891555,4.5,,,Comparable events
+Zonal wind stress,2015/16,5,0.6737163815805559,5.5,,,Comparable events
+Zonal wind stress,2015/16,6,0.6225041108852444,6.5,,,Comparable events
+Zonal wind stress,2015/16,7,0.589426878631259,7.5,,,Comparable events
+Zonal wind stress,2015/16,8,0.537019453960496,8.5,,,Comparable events
+Zonal wind stress,2015/16,9,0.5518353090417221,9.5,,,Comparable events
+Zonal wind stress,2023/24,1,0.447050127208615,1.5,,,2023/24
+Zonal wind stress,2023/24,2,0.5067998748696861,2.5,,,2023/24
+Zonal wind stress,2023/24,3,0.4543669478588508,3.5,,,2023/24
+Zonal wind stress,2023/24,4,0.357891119508812,4.5,,,2023/24
+Zonal wind stress,2023/24,5,0.4827683789358437,5.5,,,2023/24
+Zonal wind stress,2023/24,6,0.38139346283559583,6.5,,,2023/24
+Zonal wind stress,2023/24,7,0.2978059410795346,7.5,,,2023/24
+Zonal wind stress,2023/24,8,0.280106038405576,8.5,,,2023/24
+Zonal wind stress,2023/24,9,0.26495535542012183,9.5,,,2023/24

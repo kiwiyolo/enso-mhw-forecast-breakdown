@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release."
+title: "Code for Breakdown of El Nino-enhanced marine heatwave predictability in 2023-2024"
+version: 1.0.0
+date-released: 2026-08-19
+type: software
+license: MIT
+authors:
+  - family-names: Luo
+    given-names: Qun
+  - family-names: Zhang
+    given-names: Meng
+  - family-names: Zhao
+    given-names: Yanan
+  - family-names: Jin
+    given-names: Yubin
+  - family-names: Jiang
+    given-names: Xin
+  - family-names: Zeng
+    given-names: Zhenzhong
+keywords:
+  - marine heatwave
+  - seasonal prediction
+  - ENSO
+  - NMME
+  - forecast skill
+  - teleconnection
+abstract: >-
+  Calculation, diagnostic and plotting code for the manuscript Breakdown of
+  El Nino-enhanced marine heatwave predictability in 2023-2024, together with
+  lightweight derived products and final figures.

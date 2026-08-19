@@ -1,0 +1,26 @@
+{
+  "title": "Code for Breakdown of El Nino-enhanced marine heatwave predictability in 2023-2024",
+  "upload_type": "software",
+  "description": "Calculation, diagnostic and plotting code for Figures 1-4 and supporting analyses in the manuscript Breakdown of El Nino-enhanced marine heatwave predictability in 2023-2024. The release includes lightweight derived products, provenance records and final figures; large third-party forecast and reanalysis archives are documented but not redistributed.",
+  "creators": [
+    {"name": "Luo, Qun"},
+    {"name": "Zhang, Meng"},
+    {"name": "Zhao, Yanan"},
+    {"name": "Jin, Yubin"},
+    {"name": "Jiang, Xin"},
+    {"name": "Zeng, Zhenzhong"}
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-08-19",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "keywords": [
+    "marine heatwave",
+    "seasonal prediction",
+    "ENSO",
+    "NMME",
+    "forecast skill",
+    "teleconnection"
+  ]
+}

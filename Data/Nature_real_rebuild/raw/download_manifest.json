@@ -1,0 +1,38 @@
+{
+  "created_utc": "2026-08-01T03:21:57.819401+00:00",
+  "policy": "Files are immutable inputs; rerun with --force to refresh from the recorded URLs.",
+  "sources": [
+    {
+      "url": "https://downloads.psl.noaa.gov/Datasets/noaa.ersst.v5/sst.mnmean.nc",
+      "provider": "NOAA Physical Sciences Laboratory",
+      "product": "NOAA Extended Reconstructed SST version 5, monthly mean",
+      "path": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/raw/noaa_ersstv5_sst_monthly.nc",
+      "bytes": 155851678,
+      "sha256": "8c6f6590b933918fe3628ef0bc2c51995cac5a22e4c8b42e6ab67fa50395ff9f"
+    },
+    {
+      "url": "https://archive.data.noaa.gov/climatedatarecords/UMD_ESSIC/OLR_CDR/Monthly/OLR-M-CDR_01B-06/OLR-Monthly_v03r00_s197901_e202606.nc",
+      "provider": "NOAA National Centers for Environmental Information",
+      "product": "Monthly Outgoing Longwave Radiation CDR version 03 revision 00",
+      "path": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/raw/noaa_olr_monthly_v03r00_197901_202606.nc",
+      "bytes": 23677317,
+      "sha256": "94b42738630cee889abf019086de29ca9d1856d0d685e120db891c3c39fab781"
+    },
+    {
+      "url": "https://www.cpc.ncep.noaa.gov/data/indices/ersst5.nino.mth.91-20.ascii",
+      "provider": "NOAA Climate Prediction Center",
+      "product": "ERSSTv5 monthly Nino indices, 1991-2020 base period",
+      "path": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/raw/cpc_ersst5_nino_monthly_1991_2020_base.txt",
+      "bytes": 67087,
+      "sha256": "bedcd0683c07f7ccb2ae358a90cb39d57413dcc8881027e0c30a1811f6d58012"
+    },
+    {
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/detrend.nino34.ascii.txt",
+      "provider": "NOAA Climate Prediction Center",
+      "product": "Detrended monthly Nino3.4 index",
+      "path": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/raw/cpc_nino34_detrended.txt",
+      "bytes": 30328,
+      "sha256": "be3b8c966b63b9c4527171b92ad425e9582914a14a4d62520ed3dc7a3ef35006"
+    }
+  ]
+}

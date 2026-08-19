@@ -1,0 +1,57 @@
+{
+  "title": "Figure 4 | Multiple pathway failures underpinned the 2023-2024 MHW forecast-skill breakdown",
+  "global_skill_loss": 0.1090497371807758,
+  "cross_validation": "leave-one-event-out with basin and forecast-range controls",
+  "samples": 72,
+  "events": 3,
+  "basins": 6,
+  "leads": [
+    1,
+    3,
+    6,
+    9
+  ],
+  "full_model_cv_r2": 0.590003126193873,
+  "full_model_cv_rmse": 0.0833900733850264,
+  "baseline_cv_mae": 0.09122292897706398,
+  "full_model_cv_mae": 0.061334788127198614,
+  "relative_mae_reduction": 0.32763846968101723,
+  "relative_mae_reduction_ci": [
+    0.015541337930974624,
+    0.5430058537993355
+  ],
+  "allocation_sensitivity": {
+    "Pacific_source_signal_percent": {
+      "primary_percent": 30.515226220514073,
+      "alternative_min_percent": 26.213638386802725,
+      "alternative_max_percent": 34.4853826689676
+    },
+    "Atmospheric_pathway_percent": {
+      "primary_percent": 21.947200042466644,
+      "alternative_min_percent": 15.252654337923655,
+      "alternative_max_percent": 30.02363861021186
+    },
+    "Regional_process_signal_percent": {
+      "primary_percent": 23.297027019310118,
+      "alternative_min_percent": 17.803819251578584,
+      "alternative_max_percent": 29.63743654256564
+    }
+  },
+  "reconstruction_cv_r2": 0.5521853232529752,
+  "reconstruction_rmse": 0.0833900733850264,
+  "reconstruction_slope": 0.82007304302391,
+  "calibration_group_mae": 0.01488454002272078,
+  "calibration_group_agreement": 0.963942637359668,
+  "calibration_level_agreement_percent": {
+    "Low": 92.27256477842977,
+    "Medium": 61.968142342495504,
+    "High": 84.46766302397289
+  },
+  "mechanism_percent": {
+    "ENSO_source_linked": 30.515226220513725,
+    "Teleconnection_fidelity": 21.94720004246628,
+    "Regional_process_signal": 23.297027019309837,
+    "Unresolved": 24.24054671770905
+  },
+  "interpretation": "Panel a is diagnostic accounting constrained to the Figure 1 residual. Panel b is a structured reference-event and lead sensitivity analysis. Panel c groups independent leave-one-event-out predictions into equal-sized inferred-loss thirds and compares their means with actual losses; it is not normalized to close the global residual."
+}

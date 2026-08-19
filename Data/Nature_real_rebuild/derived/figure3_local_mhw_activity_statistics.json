@@ -1,0 +1,22 @@
+{
+  "year_start": 1991,
+  "year_end": 2024,
+  "year_count": 34,
+  "local_dominated_basins": [
+    "North Pacific",
+    "South Pacific",
+    "Indian Ocean",
+    "North Atlantic",
+    "Tropical Atlantic",
+    "South Atlantic"
+  ],
+  "linear_slope_C_days_per_decade": 15.348755415510398,
+  "pearson_r": 0.695009087914068,
+  "linear_p": 5.087942101943957e-06,
+  "kendall_tau": 0.6221033868092692,
+  "kendall_p": 2.294654630794486e-07,
+  "theil_sen_slope_C_days_per_decade": 10.438121034212127,
+  "theil_sen_ci_low_C_days_per_decade": 5.6435286521531625,
+  "theil_sen_ci_high_C_days_per_decade": 15.286384365724421,
+  "definition": "For each local-dominated basin, monthly area-weighted positive SST excess above the local 1985-2014 calendar-month 90th percentile is multiplied by calendar-month days and summed by year. The plotted multi-basin series is the equal-basin mean."
+}

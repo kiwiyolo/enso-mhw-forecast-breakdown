@@ -1,0 +1,16 @@
+Event,Metric,Value
+1997/98,Nino3.4 peak intensity error (C),0.0845608115196227
+1997/98,Peak timing error (months),0.25
+1997/98,SST pattern error (1-r),0.084074074752998
+1997/98,Wind-stress pattern error (1-r),0.2210312633986313
+1997/98,Convection pattern error* (1-r),0.1101645288964907
+2015/16,Nino3.4 peak intensity error (C),0.1027835011482238
+2015/16,Peak timing error (months),0.75
+2015/16,SST pattern error (1-r),0.1139817854214917
+2015/16,Wind-stress pattern error (1-r),0.3240778365018203
+2015/16,Convection pattern error* (1-r),0.3167191573323589
+2023/24,Nino3.4 peak intensity error (C),0.7467306405305862
+2023/24,Peak timing error (months),1.5
+2023/24,SST pattern error (1-r),0.2716301777823068
+2023/24,Wind-stress pattern error (1-r),0.6140958615419294
+2023/24,Convection pattern error* (1-r),0.5041384355518048

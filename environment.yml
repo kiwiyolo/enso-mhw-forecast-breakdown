@@ -1,0 +1,15 @@
+name: enso-mhw-figures
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - cartopy=0.25.0
+  - h5netcdf=1.8.1
+  - matplotlib=3.10.8
+  - netcdf4=1.7.4
+  - numpy=2.2.5
+  - pandas=2.3.3
+  - pillow=12.0.0
+  - scipy=1.15.3
+  - tqdm=4.67.3
+  - xarray=2025.6.1

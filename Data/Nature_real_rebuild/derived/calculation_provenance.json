@@ -1,0 +1,45 @@
+{
+  "created_by": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Codes/k12_compute_nature_reference_products.py",
+  "climatology": "1985-01 to 2014-12",
+  "lead_aggregation": "target-aligned NMME lead months 1-9 for Figure 1",
+  "download_manifest": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/raw/download_manifest.json",
+  "local_archives": {
+    "ORAS5": "/data3/luoq/p03_Ocean_SST_ensemble/data/ORAS5",
+    "ERA5": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/teleconnection_data/observations/ERA5",
+    "NMME": "/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/teleconnection_data/NMME"
+  },
+  "figure2_process_forecast_skill": {
+    "metric": "area-weighted forecast-observation anomaly-pattern correlation",
+    "domain": "10S-10N, 120E-80W",
+    "comparison_label": "Comparable events",
+    "comparison_events_documentation_only": [
+      "1997/98",
+      "2015/16"
+    ],
+    "target_event": "2023/24",
+    "lead_months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "map_aggregation": "equal mean of target-aligned NMME lead months 1-9",
+    "forecast_absolute_sst_validity_floor_C": 10.0,
+    "forecast_minimum_NMME_sources_per_cell": 4,
+    "convection_proxy": "NMME precipitation; archived 2023 NMME OLR is unavailable"
+  },
+  "important_boundaries": [
+    "Figure 2 NMME convection error uses precipitation because the archived 2023 NMME OLR field is all missing.",
+    "Figure 2 source-region process maps and pattern correlations use the equal mean of target-aligned leads 1-9.",
+    "Figure 3 driver classes are association-based statistical regimes, not a closed mixed-layer heat budget.",
+    "Figure 3 annual MHW activity is a monthly-resolution threshold-excess proxy combining affected area, intensity and persistence.",
+    "Figure 4 allocates the Figure 1 expected-minus-observed AUC residual by association; it is not causal identification."
+  ],
+  "bootstrap_iterations": 4000,
+  "seed": 20260801
+}

@@ -1,0 +1,116 @@
+{
+  "metric": "area-weighted forecast-observation anomaly-pattern correlation",
+  "domain": "20S-20N, 140E-100W",
+  "map_domain": "25S-25N, 140E-100W",
+  "domain_reference": "Peng et al. (2025), Nature Geoscience, Fig. 1",
+  "comparison_label": "Comparable events",
+  "comparison_events_documentation_only": [
+    "1997/98",
+    "2015/16"
+  ],
+  "target_event": "2023/24",
+  "lead_months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "lead_contract": "NMME L=0.5 is the initialization month; t+1...t+9 use L=1.5...9.5",
+  "map_aggregation": "forecast minus observation, equal mean across target-aligned t+1...t+9, then equal event mean",
+  "forecast_absolute_sst_validity_floor_C": 10.0,
+  "forecast_minimum_NMME_sources_per_cell": 2,
+  "forecast_start_coordinate_check": "internal S must match the YYYYMM file name",
+  "known_rejected_source": "GFDL-SPEAR SST files from 2021 onward have S=731 and are rejected when the file-name month differs",
+  "sst_source_audit_rows": 324,
+  "sst_source_audit_rejected_start_mismatch": 27,
+  "sst_source_audit_lead_unavailable": 9,
+  "convection_proxy": "NMME precipitation; archived 2023 NMME OLR is unavailable",
+  "fidelity_lead_audit": [
+    {
+      "Process": "Convection proxy",
+      "Event": "1997/98",
+      "Linear_slope_per_month": -0.006962794886858217,
+      "Pearson_r_lead_vs_fidelity": -0.9239143832192115,
+      "Spearman_rho_lead_vs_fidelity": -0.9500000000000001,
+      "Spearman_p": 8.762523965086177e-05,
+      "Decreases_with_lead": true
+    },
+    {
+      "Process": "Convection proxy",
+      "Event": "2015/16",
+      "Linear_slope_per_month": -0.03598503770262595,
+      "Pearson_r_lead_vs_fidelity": -0.9841930162008948,
+      "Spearman_rho_lead_vs_fidelity": -0.9833333333333333,
+      "Spearman_p": 1.9361963037459243e-06,
+      "Decreases_with_lead": true
+    },
+    {
+      "Process": "Convection proxy",
+      "Event": "2023/24",
+      "Linear_slope_per_month": -0.04626488955103527,
+      "Pearson_r_lead_vs_fidelity": -0.9586637583908594,
+      "Spearman_rho_lead_vs_fidelity": -0.9333333333333332,
+      "Spearman_p": 0.00023589981215941676,
+      "Decreases_with_lead": true
+    },
+    {
+      "Process": "SST",
+      "Event": "1997/98",
+      "Linear_slope_per_month": -0.002146984639906341,
+      "Pearson_r_lead_vs_fidelity": -0.646774666389037,
+      "Spearman_rho_lead_vs_fidelity": -0.5166666666666667,
+      "Spearman_p": 0.1543901209862251,
+      "Decreases_with_lead": true
+    },
+    {
+      "Process": "SST",
+      "Event": "2015/16",
+      "Linear_slope_per_month": 0.0024441055052737714,
+      "Pearson_r_lead_vs_fidelity": 0.4315702020562905,
+      "Spearman_rho_lead_vs_fidelity": 0.3666666666666667,
+      "Spearman_p": 0.33173980143301507,
+      "Decreases_with_lead": false
+    },
+    {
+      "Process": "SST",
+      "Event": "2023/24",
+      "Linear_slope_per_month": -0.009817807998338021,
+      "Pearson_r_lead_vs_fidelity": -0.7496817834225117,
+      "Spearman_rho_lead_vs_fidelity": -0.6833333333333333,
+      "Spearman_p": 0.04244227208707231,
+      "Decreases_with_lead": true
+    },
+    {
+      "Process": "Zonal wind stress",
+      "Event": "1997/98",
+      "Linear_slope_per_month": -0.015373764769061118,
+      "Pearson_r_lead_vs_fidelity": -0.8406217578000318,
+      "Spearman_rho_lead_vs_fidelity": -0.8333333333333333,
+      "Spearman_p": 0.005265691029161748,
+      "Decreases_with_lead": true
+    },
+    {
+      "Process": "Zonal wind stress",
+      "Event": "2015/16",
+      "Linear_slope_per_month": -0.03934518369901808,
+      "Pearson_r_lead_vs_fidelity": -0.9864456826389226,
+      "Spearman_rho_lead_vs_fidelity": -0.9833333333333333,
+      "Spearman_p": 1.9361963037459243e-06,
+      "Decreases_with_lead": true
+    },
+    {
+      "Process": "Zonal wind stress",
+      "Event": "2023/24",
+      "Linear_slope_per_month": -0.028301337779635855,
+      "Pearson_r_lead_vs_fidelity": -0.8481119865541231,
+      "Spearman_rho_lead_vs_fidelity": -0.7999999999999999,
+      "Spearman_p": 0.00962792472537983,
+      "Decreases_with_lead": true
+    }
+  ]
+}

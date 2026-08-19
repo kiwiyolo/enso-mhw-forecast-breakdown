@@ -1,0 +1,18 @@
+{
+  "metric": "MHW intensity RMSE",
+  "r": 0.7930107114571887,
+  "p": 0.010778639448973646,
+  "expected": 0.39003558524473914,
+  "observed": 0.5913816496133144,
+  "residual": 0.20134606436857527,
+  "predictive_p": 0.010465080413194393,
+  "el_nino_slope": 0.10543658686875405,
+  "la_nina_slope": -0.03579619311384969,
+  "slope_contrast": 0.14123277998260375,
+  "slope_contrast_p": 0.00599880023995201,
+  "historical_events": 9,
+  "monthly_samples": 404,
+  "lead_months": "1-9",
+  "mhw_climatology": "1985-2014 calendar-month 90th percentile",
+  "lower_is_better": true
+}

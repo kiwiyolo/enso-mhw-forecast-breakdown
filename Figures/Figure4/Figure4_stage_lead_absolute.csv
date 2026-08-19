@@ -1,0 +1,25 @@
+Stage,Lead,Event,Value
+Source SST pattern,1,Historical canonical,0.5380196379019893
+Source SST pattern,1,2023/24,0.1097017416355675
+Source SST pattern,3,Historical canonical,0.522294854322664
+Source SST pattern,3,2023/24,0.1741326627730366
+Source SST pattern,6,Historical canonical,0.5146836346063213
+Source SST pattern,6,2023/24,0.2077259138781402
+Source SST pattern,9,Historical canonical,0.5363142039457681
+Source SST pattern,9,2023/24,0.1525381328457886
+Z200 teleconnection,1,Historical canonical,0.8383358882648795
+Z200 teleconnection,1,2023/24,0.7498586626082137
+Z200 teleconnection,3,Historical canonical,0.7291999888707161
+Z200 teleconnection,3,2023/24,0.44124944918805475
+Z200 teleconnection,6,Historical canonical,0.686076567204738
+Z200 teleconnection,6,2023/24,0.27035980543921295
+Z200 teleconnection,9,Historical canonical,0.6618322033786213
+Z200 teleconnection,9,2023/24,0.18328116438533804
+Global MHW AUC,1,Historical canonical,0.831345553983327
+Global MHW AUC,1,2023/24,0.6304261227724158
+Global MHW AUC,3,Historical canonical,0.7877127857755392
+Global MHW AUC,3,2023/24,0.5897596657804322
+Global MHW AUC,6,Historical canonical,0.7591803738969312
+Global MHW AUC,6,2023/24,0.6111998274877061
+Global MHW AUC,9,Historical canonical,0.6922538880500274
+Global MHW AUC,9,2023/24,0.5608684904901793

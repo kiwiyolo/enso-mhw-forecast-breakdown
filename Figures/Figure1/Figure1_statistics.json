@@ -1,0 +1,18 @@
+{
+  "r": 0.9401333668735914,
+  "p": 0.0001629789781335609,
+  "expected": 0.7050185254528283,
+  "observed": 0.5959687882720525,
+  "residual": -0.10904973718077582,
+  "predictive_p": 0.009894646203301322,
+  "el_nino_slope": 0.0947594273267521,
+  "la_nina_slope": 0.0331142741498226,
+  "el_nino_correlation": 0.6013291518667561,
+  "el_nino_correlation_p": 4.6558738869209e-11,
+  "la_nina_correlation": 0.15344219880909962,
+  "la_nina_correlation_p": 0.08627324554372157,
+  "slope_contrast": 0.06164515317692951,
+  "slope_contrast_p": 0.08278344331133773,
+  "event_2002_03_auc": 0.6085299391882203,
+  "event_2002_03_raw_max_delta": 0.0
+}

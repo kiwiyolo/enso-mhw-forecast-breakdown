@@ -1,0 +1,17 @@
+{
+  "metric": "SEDI",
+  "r": 0.891605083043444,
+  "p": 0.0012399095628023353,
+  "expected": 0.34714705425922326,
+  "observed": 0.1933236163868396,
+  "residual": -0.15382343787238367,
+  "predictive_p": 0.15100123255891965,
+  "el_nino_slope": 0.23765864257772995,
+  "la_nina_slope": 0.02541195092555504,
+  "slope_contrast": 0.2122466916521749,
+  "slope_contrast_p": 0.003599280143971206,
+  "historical_events": 9,
+  "monthly_samples": 404,
+  "lead_months": "1-9",
+  "mhw_climatology": "1985-2014 calendar-month 90th percentile"
+}

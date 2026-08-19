@@ -1,0 +1,32 @@
+# Figure 2
+
+## Caption
+
+**Weakened source-region predictable signals accompanied lower source-region MHW forecast skill during 2023-24.** **a**, Tropical-Pacific relative forecast errors for three source-region fields displayed over 25S-25N, 140E-100W. For each event and field, relative error is `100 x (forecast anomaly - observed anomaly) / RMS(observed anomaly)`, where the denominator is the cosine-latitude-weighted spatial RMS over the fixed 20S-20N, 140E-100W analysis domain used for pattern fidelity. The left and middle columns use identical extents and show the equal mean across target-aligned lead months t+1 to t+9 for the comparable events and 2023/24, respectively; comparable-event maps are formed by averaging event-normalized errors with equal event weight. The right column compares forecast-observation spatial-pattern correlation for 2023/24 against the comparable-event mean and range at every lead. Rows show SST, zonal wind stress and convection represented by precipitation. The underlying anomaly units are degrees C, N m-2 and mm day-1, respectively; the plotted maps are dimensionless percentages of the observed-pattern RMS. **b**, Percentage departure of each source-process error from its diagnostic-specific overall mean across the three underlying events. Cell labels and colours encode the same percentage; red denotes above-average error and blue denotes below-average error. **c**, Source-region MHW AUC for 2023/24 against the comparable-event mean and range; the arrow reports the absolute decline.
+
+## Information moved from the figure
+
+Per-process linear and rank-correlation lead slopes are retained in `Figure2_pattern_fidelity_lead_audit.csv` rather than repeated inside each of the three fidelity panels. Physical normalization scales are in `Figure2_relative_error_scales.csv`; exact physical source-error values, overall means, plotted percentage departures and event-level AUC values are in `Figure2_source_signal_errors.csv` and `Figure2_source_mhw_skill.csv`. For diagnostic `m` and displayed group `g`, panel b uses
+
+\[
+R_{g,m}=100\times\frac{E_{g,m}-\overline{E}_m}{\overline{E}_m}.
+\]
+
+Here, `E[g,m]` is the group-mean error and the denominator is the equal-event mean across 1997/98, 2015/16 and 2023/24, rather than an unweighted mean of the two displayed rows; the comparable-event row is itself the equal mean of its two events. Exact event-level physical errors are retained in `Figure2_source_signal_errors_by_event.csv`. Panel c displays only the two AUC values and their absolute difference; the percentage decline is reported below.
+
+## Visual design
+
+The main figure uses a restrained Nature-style information hierarchy: no in-figure headline, short panel titles, a shared mechanism palette, direct labelling only where it carries the central result, and detailed statistical or methodological annotation in this companion document. The visual benchmark was the main-figure treatment in England et al., *Nature* (2025), https://www.nature.com/articles/s41586-025-08903-5, and Peng et al., *Nature Geoscience* (2025), https://www.nature.com/articles/s41561-025-01700-9. This is a design reference only; all plotted values are generated from the data and methods documented here.
+
+
+## Real-data result
+
+Source-region AUC was `0.635` in 2023/24 and `0.781` for the comparable-event mean, a decline of `0.147` AUC (`18.7%`). In panel b, comparable-event errors ranged from `-69.9%` to `-29.5%` relative to the diagnostic-specific all-event mean, whereas 2023/24 errors ranged from `+58.9%` to `+139.8%`. Across t+1 to t+9, comparable-event versus 2023/24 mean pattern correlations were `0.901` versus `0.728` for SST, `0.727` versus `0.386` for zonal wind stress, and `0.787` versus `0.496` for precipitation. The lead audit found negative linear fidelity slopes in `8` of `9` process-event series. These are descriptive event comparisons rather than formal event-level significance tests.
+
+## Comparable-event definition
+
+The figure deliberately uses the collective label **comparable events**. The local NMME process archive supports the 1997/98 and 2015/16 events with complete common-variable coverage, and these two events receive equal weight. Peng et al. also include 1982/83, but it is not silently mixed into this forecast comparison because the required local NMME atmospheric-process archive does not cover that event consistently. Event identities are documented here rather than annotated separately in the figure.
+
+## Interpretation boundary
+
+Observed SST is ERSST; observed zonal stress and precipitation are ERA5. NMME `L=0.5` verifies the initialization month, so the displayed future leads t+1 to t+9 use `L=1.5` to `L=9.5` and initialization month `target-lead`. This corrects the former one-month offset. The relative-error denominator is a single observed-pattern RMS for each event and process, not a grid-cell percentage; this avoids singular and visually dominant ratios where the observed anomaly is near zero. The physical RMS scales used for normalization are retained in `/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/derived/figure2_relative_error_scales.csv`. Each field uses the available NMME models at each lead; SST requires at least two valid models per cell. Files whose internal `S` coordinate disagrees with their YYYYMM name are rejected. In particular, the local GFDL-SPEAR SST files from 2021 onward report `S=731` and are excluded from the affected 2023/24 SST composites; NASA does not provide t+9, so that lead uses the remaining valid sources. Absolute forecast SST below 10 degrees C is treated as a land/coastal remapping value. Precipitation is used as the convection proxy because the archived 2023 NMME OLR field is unavailable. Pattern correlation diagnoses spatial fidelity and is not forced to be monotonic; the lead slopes are audited in `/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/derived/figure2_pattern_fidelity_lead_audit.csv`. The exact event-month-lead source decisions are in `/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/derived/figure2_nmme_sst_start_coordinate_audit.csv`. Source files, units and checksums are recorded in `/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/derived/calculation_provenance.json` and `/data3/luoq/p03_Ocean_SST_ensemble/kw_99_paper/Data/Nature_real_rebuild/derived/figure2_process_forecast_skill_metadata.json`.

@@ -1,0 +1,20 @@
+{
+  "spearman_rho_across_10x20_degree_blocks": 0.3416182299720934,
+  "spearman_p": 1.5029443526986165e-06,
+  "spatial_blocks": 189,
+  "valid_grid_cells": 8079,
+  "bootstrap_iterations": 2000,
+  "baseline_source_case": "Current broad",
+  "baseline_maximum_threshold": 0.5,
+  "baseline_margin_threshold": 0.15,
+  "source_cases": [
+    "Current broad",
+    "Equatorial",
+    "Central-east",
+    "Nino3.4"
+  ],
+  "threshold_combinations": 25,
+  "minimum_threshold_agreement": 0.7227423787117004,
+  "median_threshold_agreement": 0.8807337284088135,
+  "minimum_source_box_regime_agreement": 0.9985421299934387
+}

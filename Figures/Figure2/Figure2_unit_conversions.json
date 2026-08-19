@@ -1,0 +1,7 @@
+{
+  "ERA5_ewss_to_N_m-2": "divide accumulated N m-2 s by 86400 s",
+  "ERA5_tp_to_mm_day-1": "multiply daily accumulated m by 1000",
+  "NMME_stress": "already N m-2",
+  "NMME_precipitation": "already mm day-1",
+  "OLR_exclusion": "The archived NMME lead-9 OLR composite has no finite 2023/24 values; precipitation is therefore used as the fully observed convection proxy."
+}

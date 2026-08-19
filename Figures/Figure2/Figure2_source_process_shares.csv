@@ -1,0 +1,17 @@
+Phase,Group,Component,Share
+Development,Historical canonical events,Ocean dynamics,0.243475922617121
+Development,Historical canonical events,Surface heat flux,0.1713764854326423
+Development,Historical canonical events,Zonal advection,0.2356470193308696
+Development,Historical canonical events,Thermocline proxy,0.349500572619367
+Development,2023/24,Ocean dynamics,0.1953997152152801
+Development,2023/24,Surface heat flux,0.1767266185038088
+Development,2023/24,Zonal advection,0.1467749498457161
+Development,2023/24,Thermocline proxy,0.481098716435195
+Mature,Historical canonical events,Ocean dynamics,0.174271663834404
+Mature,Historical canonical events,Surface heat flux,0.2681834941133335
+Mature,Historical canonical events,Zonal advection,0.3899290930304895
+Mature,Historical canonical events,Thermocline proxy,0.1676157490217729
+Mature,2023/24,Ocean dynamics,0.098673307655266
+Mature,2023/24,Surface heat flux,0.2261161777482963
+Mature,2023/24,Zonal advection,0.2362317364545267
+Mature,2023/24,Thermocline proxy,0.4389787781419109

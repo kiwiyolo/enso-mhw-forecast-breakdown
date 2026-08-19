@@ -1,0 +1,24 @@
+{
+  "expected_global_auc_from_figure1_relationship": 0.7050185254528283,
+  "observed_2023_24_global_auc": 0.5959687882720525,
+  "figure1_residual": -0.10904973718077582,
+  "allocated_loss_magnitude": 0.10904973718077582,
+  "path_model_r2_used_for_resolved_fraction": 0.7575945328229078,
+  "explained_association_fraction": 0.7575945328229078,
+  "unresolved_fraction": 0.2424054671770922,
+  "mechanism_percent": {
+    "ENSO_source_error": 30.515226220514048,
+    "Teleconnection_error": 21.94720004246663,
+    "Basin_local_error": 23.297027019310093,
+    "Irreducible": 24.24054671770922
+  },
+  "basin_percent": {
+    "North Pacific": 17.81399042474476,
+    "South Pacific": 19.16961650078059,
+    "Indian Ocean": 8.697497725394586,
+    "North Atlantic": 29.5675471897715,
+    "Tropical Atlantic": 13.278567022809101,
+    "South Atlantic": 11.472781136499465
+  },
+  "interpretation": "Association-based allocation. Basin weights use positive comparable-event minus 2023/24 basin AUC deficits; mechanism weights use independently computed source, teleconnection and local-process forecast deficits. The descriptive path-model R2 sets the resolved fraction; one minus R2 is retained as unresolved."
+}
