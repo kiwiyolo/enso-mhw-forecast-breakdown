@@ -1,5 +1,23 @@
 # ENSO-MHW forecast-skill breakdown
 
+## Current manuscript release - 12 November 2026
+
+**Unexpectedly low marine heatwave forecast skill during the 2023-2024 El Niño**
+
+The current code, derived data, four main figures and all 17 supplementary figures are in
+[releases/20261112](releases/20261112). Start with that directory's README and validation records.
+The manuscript authors are Qun Luo and Zhenzhong Zeng. Original contributor credits and
+the September release remain in the repository history and historical products.
+
+The November snapshot contains portable figure-reproduction code and the original
+calculation provenance. The archived SST selection limitation remains documented;
+the release is not a declaration of scientific submission clearance.
+
+**The repository-root workflow described below is historical (v1.0.0); do not mix its
+statistics with the November snapshot.**
+
+## Historical release documentation
+
 Code and lightweight derived products supporting the manuscript
 **"Breakdown of El Nino-enhanced marine heatwave predictability in
 2023-2024"**.

@@ -1,0 +1,17 @@
+{
+  "status": "active user-requested revision; exploratory global-reference interpretation",
+  "request": "Add explicit Positive / Negative nodes between Regions and Drivers in Figure4b; restore reference legend position and names; preserve current map and all numerical content",
+  "archetype": "asymmetric_mixed",
+  "keep": ["Figure1a and b exact vectors", "Figure2 and Figure3", "Figure4a historical association bars and intervals", "previous figure versions", "local AUC grid/support/lead/window", "map colour limits -1 to 1"],
+  "benchmark": "Historical nine-event ENSO intensity versus global AUC regression; exclude 2023/24; reproduce 0.7050185254528283",
+  "map": "D_g = global expected AUC - lead-mean local AUC for April2023-September2024, leads1-9, fixed11-degree neighbourhoods",
+  "regions": "WOA major basins with +/-23.5-degree grid-centre division, identical Fig3/Fig4 rule; retain uncovered marginal seas as Other seas",
+  "area_weights": "cos(latitude) on native 1-degree centres; normalize over all common-valid mapped cells",
+  "positive_shortfall": "L_b = sum_{g in b} normalized_area_g max(D_g,0); displayed percentage +100 L_b/N where N=sum_b(L_b-H_b); sign selection AFTER lead averaging",
+  "above_benchmark": "H_b = sum_{g in b} normalized_area_g max(-D_g,0); displayed percentage -100 H_b/N; N=0.10651437039268086 AUC",
+  "sankey": "Net-normalized labels: +120.790563% and -20.790563% sum to100%; all regional, driver and local-component labels share N; raw amounts, hierarchy, layout and ribbon-width ratios unchanged; association accounting, not causal effects",
+  "missing": "Retain original 1297 undefined cells, never fill with zero; report regional valid coverage",
+  "uncertainty": "Original year-block bootstrap intervals preserved on historical associations; new map shares are descriptive, no independent-cell significance or artificial CI; export lead sensitivity separately",
+  "boundaries": ["Global benchmark is uniform, not locally calibrated expected skill", "Local18-month AUC differs from original12-month global AUC estimator", "New integrated local shortfall is not the0.109 global AUC gap", "Inherited archive initialization-coordinate limitations unresolved", "Historical associations are not independently measured process-specific forecast-error effects"],
+  "deliverables": ["Figure1 without c", "updated Figure4", "unchanged Figure2 and3 copies", "four-page PDF", "2x2 review PDF", "source tables", "caption", "validation"]
+}

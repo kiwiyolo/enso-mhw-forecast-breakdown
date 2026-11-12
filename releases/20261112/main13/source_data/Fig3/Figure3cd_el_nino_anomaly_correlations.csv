@@ -1,0 +1,13 @@
+band,anchor,target,r,n_grid_cells,reference_winters,status,field_type
+NH,forecast_2023,other_el_nino,0.7466726446671115,8091,6,defined,DJF_seasonal_mean_Z200_anomaly
+NH,forecast_2023,observed_canonical,0.4532382794439693,8091,2,defined,DJF_seasonal_mean_Z200_anomaly
+NH,forecast_2023,observed_2023,0.6612609389598143,8091,1,defined,DJF_seasonal_mean_Z200_anomaly
+NH,forecast_canonical,other_el_nino,0.6679844022912633,8091,6,defined,DJF_seasonal_mean_Z200_anomaly
+NH,forecast_canonical,observed_canonical,0.853645070790621,8091,2,defined,DJF_seasonal_mean_Z200_anomaly
+NH,forecast_canonical,observed_2023,0.7269461208553705,8091,1,defined,DJF_seasonal_mean_Z200_anomaly
+SH,forecast_2023,other_el_nino,0.034183125393199384,5481,6,defined,DJF_seasonal_mean_Z200_anomaly
+SH,forecast_2023,observed_canonical,0.3145719045723375,5481,2,defined,DJF_seasonal_mean_Z200_anomaly
+SH,forecast_2023,observed_2023,0.5292845759858976,5481,1,defined,DJF_seasonal_mean_Z200_anomaly
+SH,forecast_canonical,other_el_nino,0.15642966567772665,5481,6,defined,DJF_seasonal_mean_Z200_anomaly
+SH,forecast_canonical,observed_canonical,0.7413668621576313,5481,2,defined,DJF_seasonal_mean_Z200_anomaly
+SH,forecast_canonical,observed_2023,0.3979960915552301,5481,1,defined,DJF_seasonal_mean_Z200_anomaly

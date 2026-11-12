@@ -1,0 +1,13 @@
+band,latitude_min,latitude_max,longitude_start,longitude_end_unwrapped,anchor,target,r,n_grid_cells,status,field_type,weight,temporal_aggregation
+NH,30,60,120,380,forecast_2023,climatology,,8091,undefined_zero_climatology_anomaly,DJF_seasonal_mean_Z200_anomaly,cos(latitude),DJF mean before spatial correlation
+NH,30,60,120,380,forecast_2023,observed_canonical,0.4532382794439693,8091,defined,DJF_seasonal_mean_Z200_anomaly,cos(latitude),DJF mean before spatial correlation
+NH,30,60,120,380,forecast_2023,observed_2023,0.6612609389598143,8091,defined,DJF_seasonal_mean_Z200_anomaly,cos(latitude),DJF mean before spatial correlation
+NH,30,60,120,380,forecast_canonical,climatology,,8091,undefined_zero_climatology_anomaly,DJF_seasonal_mean_Z200_anomaly,cos(latitude),DJF mean before spatial correlation
+NH,30,60,120,380,forecast_canonical,observed_canonical,0.8536450707906208,8091,defined,DJF_seasonal_mean_Z200_anomaly,cos(latitude),DJF mean before spatial correlation
+NH,30,60,120,380,forecast_canonical,observed_2023,0.7269461208553705,8091,defined,DJF_seasonal_mean_Z200_anomaly,cos(latitude),DJF mean before spatial correlation
+SH,-60,-40,120,380,forecast_2023,climatology,,5481,undefined_zero_climatology_anomaly,DJF_seasonal_mean_Z200_anomaly,cos(latitude),DJF mean before spatial correlation
+SH,-60,-40,120,380,forecast_2023,observed_canonical,0.3145719045723375,5481,defined,DJF_seasonal_mean_Z200_anomaly,cos(latitude),DJF mean before spatial correlation
+SH,-60,-40,120,380,forecast_2023,observed_2023,0.5292845759858976,5481,defined,DJF_seasonal_mean_Z200_anomaly,cos(latitude),DJF mean before spatial correlation
+SH,-60,-40,120,380,forecast_canonical,climatology,,5481,undefined_zero_climatology_anomaly,DJF_seasonal_mean_Z200_anomaly,cos(latitude),DJF mean before spatial correlation
+SH,-60,-40,120,380,forecast_canonical,observed_canonical,0.7413668621576313,5481,defined,DJF_seasonal_mean_Z200_anomaly,cos(latitude),DJF mean before spatial correlation
+SH,-60,-40,120,380,forecast_canonical,observed_2023,0.3979960915552301,5481,defined,DJF_seasonal_mean_Z200_anomaly,cos(latitude),DJF mean before spatial correlation

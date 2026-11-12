@@ -1,0 +1,77 @@
+{
+  "sample_rows": 144,
+  "independent_events": 3,
+  "common_leads": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "missing_leads": [
+    9
+  ],
+  "pooled_r_descriptive": 0.6247027689295895,
+  "pooled_slope": 2.212706479799072,
+  "event_permutation_p_two_sided": 0.16666666666666666,
+  "permutation_values": [
+    0.6247027689295898,
+    0.032292219892954596,
+    0.5591680940231124,
+    -0.3963721679263884,
+    -0.11354791827824853,
+    -0.4766776311911142
+  ],
+  "bootstrap_samples_exact": 27,
+  "bootstrap_limitation": "only three event clusters; descriptive envelope, not a reliable population CI",
+  "event_omission": [
+    {
+      "omitted_event": "1997/98",
+      "slope": 1.8270225122702985,
+      "intercept": 0.0005886305590231761,
+      "r": 0.49277592741803616
+    },
+    {
+      "omitted_event": "2015/16",
+      "slope": 2.570462866461047,
+      "intercept": -0.2613978032631647,
+      "r": 0.7804678584374954
+    },
+    {
+      "omitted_event": "2023/24",
+      "slope": 1.2157096560203262,
+      "intercept": 0.02615675496447335,
+      "r": 0.1974041263723721
+    }
+  ],
+  "mean_errors_by_event": {
+    "1997/98": {
+      "Rain_error": 0.16284261945732828,
+      "Z200_error": 0.14378508233686893
+    },
+    "2015/16": {
+      "Rain_error": 0.18581305098530385,
+      "Z200_error": 0.332392492775426
+    },
+    "2023/24": {
+      "Rain_error": 0.34470711280697547,
+      "Z200_error": 0.6380570508044402
+    }
+  },
+  "negative_cells": 42,
+  "positive_cells": 6,
+  "valid_heatmap_cells": 48,
+  "missing_heatmap_cells": 6,
+  "delta_min": -1.014513866904706,
+  "delta_max": 0.4551271258332169,
+  "source_domain": "Pacific ocean mask between -23.5 and +23.5 latitude; not the old +/-20 TP mask",
+  "recipient_domain": "Fig4 major-basin identity repartitioned at +/-23.5 degrees; land excluded",
+  "model_counts": {
+    "COLA-RSMAS-CCSM4": 10,
+    "NASA-GEOSS2S": 4,
+    "GFDL-SPEAR": 15
+  }
+}

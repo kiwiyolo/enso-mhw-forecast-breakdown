@@ -1,0 +1,85 @@
+{
+  "layout_revision": {
+    "canvas_mm": [
+      180,
+      178
+    ],
+    "inset_backplate_alpha": 0.62,
+    "insets": 7,
+    "map_requested_mm": [
+      138,
+      51.5
+    ],
+    "map_resolution_smoothing_colour_range": "inherited exactly from global-reference Fig1c map; limits [-1,1]",
+    "inset_overlap": "map fringes only; bars and error bars remain opaque",
+    "map_actual_mm": [
+      138.0,
+      51.41608586260384
+    ],
+    "inset_map_overlap_mm2": [
+      109.44758845817101,
+      112.40563138947296,
+      112.40563138947296,
+      163.7412879390575,
+      169.19933087035938,
+      169.19933087035932,
+      136.45107328254795
+    ]
+  },
+  "signed_regional_accounting": {
+    "denominator": "net area-weighted mapped shortfall (positive minus higher-skill magnitude)",
+    "denominator_auc": 0.10651437039268086,
+    "net_total_pct": 99.99999999999953,
+    "lower_total_pct": 120.79056301494236,
+    "higher_total_pct": -20.790563014942823,
+    "hierarchy": [
+      "Regions",
+      "Positive / Negative",
+      "Drivers",
+      "Local components"
+    ],
+    "all_sign_nodes_conserve_magnitude": true,
+    "regions": {
+      "TP": {
+        "lower_pct": 16.208278483512593,
+        "higher_pct": -10.024684581431487
+      },
+      "NP": {
+        "lower_pct": 23.556149524557775,
+        "higher_pct": -0.09780824915770313
+      },
+      "SP": {
+        "lower_pct": 12.68522265894094,
+        "higher_pct": -1.168427692072772
+      },
+      "TA": {
+        "lower_pct": 16.536897447247547,
+        "higher_pct": -2.6212906371492153
+      },
+      "NA": {
+        "lower_pct": 16.89889733964159,
+        "higher_pct": -0.9037863194306456
+      },
+      "SA": {
+        "lower_pct": 12.159296680950794,
+        "higher_pct": -0.41084593844313844
+      },
+      "IO": {
+        "lower_pct": 21.898508225388227,
+        "higher_pct": -5.509647626952823
+      },
+      "Other seas": {
+        "lower_pct": 0.8473126547028963,
+        "higher_pct": -0.054071970305041614
+      }
+    }
+  },
+  "Figure4": {
+    "width_mm": 180.0,
+    "height_mm": 178.0,
+    "font": "Liberation Sans",
+    "minimum_rendered_text_pt": 6.3,
+    "outside_canvas_text": [],
+    "axes": 10
+  }
+}

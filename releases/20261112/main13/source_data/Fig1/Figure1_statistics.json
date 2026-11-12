@@ -1,0 +1,20 @@
+{
+  "r": 0.9401333668735911,
+  "p": 0.00016297897813356393,
+  "expected": 0.7050185254528283,
+  "observed": 0.5959687882720525,
+  "residual": -0.10904973718077582,
+  "absolute_residual": 0.10904973718077582,
+  "predictive_p": 0.009894646203301329,
+  "target_event_ci_low": 0.5418694837896468,
+  "target_event_ci_high": 0.6415426876320082,
+  "historical_prediction_low_at_target": 0.631498107736669,
+  "historical_prediction_high_at_target": 0.7785389431689875,
+  "target_errorbar_outside_prediction_interval_fraction": 0.8992248717997949,
+  "target_errorbar_outside_prediction_interval_percent": 89.9224871799795,
+  "uncertainty_method": "95% circular 3-month block bootstrap interval for each 12-month event mean",
+  "el_nino_correlation": 0.6013291518667562,
+  "el_nino_correlation_p": 4.655873886920899e-11,
+  "la_nina_correlation": 0.15344219880909957,
+  "la_nina_correlation_p": 0.08627324554372155
+}

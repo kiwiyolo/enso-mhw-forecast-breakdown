@@ -1,0 +1,1422 @@
+[
+  {
+    "test": "S1c seven regions and 63 lead values",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S04 1997/98 12 months",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S04 2015/16 12 months",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S04 2023/24 12 months",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S08 RMSE >= abs bias",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S09 all 144 points",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S12 shares close to 100",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2003 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2003 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2003 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2003 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2003 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2003 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2003 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2009 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2009 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2009 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2009 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2009 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2009 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2009 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2015 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2015 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2015 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2015 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2015 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2015 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TP 2015 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2003 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2003 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2003 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2003 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2003 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2003 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2003 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2009 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2009 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2009 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2009 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2009 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2009 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2009 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2015 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2015 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2015 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2015 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2015 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2015 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NP 2015 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2003 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2003 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2003 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2003 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2003 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2003 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2003 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2009 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2009 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2009 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2009 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2009 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2009 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2009 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2015 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2015 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2015 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2015 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2015 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2015 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SP 2015 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2003 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2003 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2003 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2003 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2003 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2003 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2003 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2009 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2009 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2009 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2009 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2009 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2009 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2009 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2015 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2015 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2015 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2015 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2015 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2015 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD TA 2015 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2003 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2003 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2003 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2003 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2003 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2003 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2003 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2009 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2009 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2009 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2009 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2009 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2009 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2009 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2015 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2015 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2015 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2015 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2015 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2015 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD NA 2015 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2003 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2003 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2003 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2003 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2003 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2003 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2003 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2009 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2009 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2009 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2009 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2009 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2009 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2009 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2015 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2015 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2015 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2015 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2015 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2015 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD SA 2015 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2003 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2003 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2003 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2003 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2003 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2003 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2003 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2009 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2009 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2009 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2009 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2009 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2009 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2009 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2015 Climate modes only",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2015 All information",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2015 No prior thermal state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2015 No surface heating",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2015 No horizontal advection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2015 No ENSO",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S13 finite training SD IO 2015 No other modes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971TPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971TPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971NPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971NPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971SPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971SPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971TAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971TAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971NAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971NAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971SAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971SAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971IOZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19971IOQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973TPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973TPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973NPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973NPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973SPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973SPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973TAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973TAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973NAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973NAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973SAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973SAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973IOZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19973IOQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976TPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976TPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976NPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976NPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976SPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976SPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976TAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976TAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976NAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976NAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976SAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976SAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976IOZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 19976IOQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151TPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151TPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151NPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151NPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151SPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151SPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151TAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151TAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151NAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151NAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151SAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151SAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151IOZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20151IOQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153TPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153TPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153NPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153NPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153SPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153SPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153TAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153TAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153NAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153NAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153SAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153SAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153IOZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20153IOQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156TPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156TPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156NPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156NPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156SPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156SPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156TAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156TAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156NAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156NAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156SAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156SAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156IOZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20156IOQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231TPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231TPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231NPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231NPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231SPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231SPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231TAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231TAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231NAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231NAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231SAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231SAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231IOZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20231IOQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233TPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233TPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233NPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233NPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233SPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233SPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233TAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233TAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233NAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233NAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233SAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233SAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233IOZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20233IOQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236TPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236TPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236NPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236NPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236SPZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236SPQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236TAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236TAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236NAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236NAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236SAZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236SAQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236IOZ200",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S14 finite 20236IOQnet",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S15 map net denominator",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S15 regional signed percentages close",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S15 component positive closure",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "test": "S15 component negative closure",
+    "passed": true,
+    "detail": ""
+  }
+]

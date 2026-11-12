@@ -1,0 +1,13 @@
+band,latitude_min,latitude_max,longitude_start,longitude_end_unwrapped,anchor,target,r,n_grid_cells,field_type,weight
+NH,30,60,120,380,forecast_2023,climatology,0.9986989584364644,8091,complete_climatology_adjusted_Z200,cos(latitude)
+NH,30,60,120,380,forecast_2023,observed_canonical,0.9880031055091157,8091,complete_climatology_adjusted_Z200,cos(latitude)
+NH,30,60,120,380,forecast_2023,observed_2023,0.9937042178647247,8091,complete_climatology_adjusted_Z200,cos(latitude)
+NH,30,60,120,380,forecast_canonical,climatology,0.9908681769147198,8091,complete_climatology_adjusted_Z200,cos(latitude)
+NH,30,60,120,380,forecast_canonical,observed_canonical,0.9964708644924114,8091,complete_climatology_adjusted_Z200,cos(latitude)
+NH,30,60,120,380,forecast_canonical,observed_2023,0.9948831907313894,8091,complete_climatology_adjusted_Z200,cos(latitude)
+SH,-60,-40,120,380,forecast_2023,climatology,0.9987642075855289,5481,complete_climatology_adjusted_Z200,cos(latitude)
+SH,-60,-40,120,380,forecast_2023,observed_canonical,0.9894077525431255,5481,complete_climatology_adjusted_Z200,cos(latitude)
+SH,-60,-40,120,380,forecast_2023,observed_2023,0.9932129639114837,5481,complete_climatology_adjusted_Z200,cos(latitude)
+SH,-60,-40,120,380,forecast_canonical,climatology,0.9935432679302248,5481,complete_climatology_adjusted_Z200,cos(latitude)
+SH,-60,-40,120,380,forecast_canonical,observed_canonical,0.9954643916267075,5481,complete_climatology_adjusted_Z200,cos(latitude)
+SH,-60,-40,120,380,forecast_canonical,observed_2023,0.9907671246994674,5481,complete_climatology_adjusted_Z200,cos(latitude)

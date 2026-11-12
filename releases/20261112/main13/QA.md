@@ -1,0 +1,3 @@
+# QA — label-only revision v7
+
+316/316 automated checks passed. Fig.2 and Fig.3 previews inspected: labels are readable, centred, unclipped and clear of adjacent axes. Numeric/layout report fields are unchanged except text-specific records. Fig.1 PDF/SVG/PNG hashes match v6 exactly. The caption explicitly retains the original RMS normalization and expands 200-hPa geopotential height. Native maps, colour ranges, error bars, vectors, statistical definitions and scientific limitations remain unchanged. The embedded Liberation Sans fallback remains disclosed in README. Presentation/data-preservation checks are not a new scientific validation.

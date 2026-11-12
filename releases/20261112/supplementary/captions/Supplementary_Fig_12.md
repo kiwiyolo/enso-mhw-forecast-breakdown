@@ -1,0 +1,5 @@
+# Supplementary Fig. 12 | Historical SST variance associated with climate modes and local processes
+
+a, Allocation of historical regional SST variance among ENSO, other climate modes, prior ocean thermal state, surface heating, horizontal advection and an unresolved fraction. The denominator is total SST variance. b, The three local components divided by their combined share, so the denominator is the local-group allocation, not total variance. Prior thermal state comprises SST and mixed-layer temperature one month earlier. Other modes comprise IOD, PDO, NAO and SAM indices. Both panels use 432 monthly records per region during 1985–2020, with the ±23.5° masks of main Fig. 4. Seasonal means and a linear trend are removed before group-respecting variance allocation. Shared explanatory information is averaged over predictor-group orders, with nested ordering within the local group.
+
+These are statistical SST associations, not heat-budget fractions or measured contributions of process-specific forecast errors in 2023–2024. Their connection to main Fig. 4b is the explicitly defined weighting rule in Supplementary Methods.

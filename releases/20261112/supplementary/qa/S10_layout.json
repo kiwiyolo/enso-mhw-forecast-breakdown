@@ -1,0 +1,32 @@
+{
+  "panels": [
+    {
+      "label": "a",
+      "axes_bounds": [
+        0.08621450617283946,
+        0.6,
+        0.875,
+        0.30999999999999994
+      ]
+    },
+    {
+      "label": "b",
+      "axes_bounds": [
+        0.08621450617283946,
+        0.2,
+        0.37,
+        0.27
+      ]
+    },
+    {
+      "label": "c",
+      "axes_bounds": [
+        0.5912145061728394,
+        0.2,
+        0.37,
+        0.27
+      ]
+    }
+  ],
+  "changes": "labels/layout only; data and limits unchanged"
+}

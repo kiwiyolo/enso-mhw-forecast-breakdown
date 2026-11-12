@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v15/source_data/pattern_correlations.csv",
+    "sha256": "4ff01722b78818d98b87a40fb5808249bc2d40c078ceca9b1bb42e8796fb6246",
+    "bytes": 5374
+  },
+  {
+    "path": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v15/figures/Figure2.pdf",
+    "sha256": "384453bd92f47bbb273e582951cedf70ddb8430accc536590b50ae501c1deae6",
+    "bytes": 1214628
+  },
+  {
+    "path": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v15/MANIFEST.json",
+    "sha256": "51111b4a2a8723a8b000ed409526e871c23975cf1dccbda589abad243c3b7ad5",
+    "bytes": 4540
+  },
+  {
+    "path": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Revised_20260921/Figure3/Figure3_process_forecast_skill.csv",
+    "sha256": "4ff01722b78818d98b87a40fb5808249bc2d40c078ceca9b1bb42e8796fb6246",
+    "bytes": 5374
+  }
+]

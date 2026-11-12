@@ -1,0 +1,5 @@
+# Supplementary Fig. 10 | Circulation pattern similarity, amplitude and error relative to climatology
+
+a, Global anomaly correlations of the 2023–2024 forecast (red) and the forecast composite of the two earlier strong events (dark grey) against each of six other El Niño winters, identified by start year. These are events in the main Fig. 1 list within the historical-reference window 1992–1993 to 2021–2022, excluding 1997–1998 and 2015–2016; 1991–1992 is outside that window. b, Forecast-to-observed spatial standard-deviation ratio of height anomalies. c, Skill against a zero-anomaly forecast, defined as 1 − MSE_forecast/MSE_zero-anomaly. Values above zero indicate lower error than climatology. Panels b,c use 30°–60°N and 40°–60°S along the sector from 120°E eastward to 20°E. The dashed line in b marks equal forecast and observed amplitude.
+
+Individual-event correlations are not equivalent to correlation with the averaged observed field. A smaller forecast anomaly amplitude does not by itself establish better or worse forecast skill. No confidence intervals are estimated for these deterministic comparisons.

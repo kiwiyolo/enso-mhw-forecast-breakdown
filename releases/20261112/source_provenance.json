@@ -1,0 +1,1622 @@
+[
+  {
+    "file": "main13/Captions.md",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/Captions.md",
+    "sha256": "d5a1aac06f807779f0f37f09d02b964b781bc1f9583166fc84b49fc427b0a1ed"
+  },
+  {
+    "file": "main13/QA.md",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/QA.md",
+    "sha256": "931a5ceb610207d98a40793186f993c1f28a3eb502bcff42ef626f4e49db70e5"
+  },
+  {
+    "file": "main13/README.md",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/README.md",
+    "sha256": "2f6901add2793ae7977f0c2be61c641ebe692c20b2ac001480383e67e6ebd2f9"
+  },
+  {
+    "file": "main13/figures/Figure1.pdf",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/figures/Figure1.pdf",
+    "sha256": "3e220784fa5413b6ff89497d42f19c2b051c65239db4169b7eb67b2af0f4c4b6"
+  },
+  {
+    "file": "main13/figures/Figure2.pdf",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/figures/Figure2.pdf",
+    "sha256": "5c71157b07abd513a2292b071a29a2d38b9c554664197929fd46187c61190189"
+  },
+  {
+    "file": "main13/figures/Figure3.pdf",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/figures/Figure3.pdf",
+    "sha256": "595531eb036ae6138c1c7aa6f7621bf95fbcb03d5d4f9ad51a39153a3016dfe6"
+  },
+  {
+    "file": "main13/figures/Figures1-3.pdf",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/figures/Figures1-3.pdf",
+    "sha256": "0d752f75adc0ba250e70f84f6bdbd8f669adfb20d5174cc39ba1149a54934735"
+  },
+  {
+    "file": "main13/fonts/LICENSE.txt",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/fonts/LICENSE.txt",
+    "sha256": "e4593eea6be55531c930388446f950ce97b5c730f5bc5dfd0167489402e91de4"
+  },
+  {
+    "file": "main13/fonts/LiberationSans-Bold.ttf",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/fonts/LiberationSans-Bold.ttf",
+    "sha256": "ba0e0dc3f7aca5b0afbc31e800531ee43be3aa79ae35b2ef1f6470a9547765c4"
+  },
+  {
+    "file": "main13/fonts/LiberationSans-BoldItalic.ttf",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/fonts/LiberationSans-BoldItalic.ttf",
+    "sha256": "15c1068175252e4adee6d3721bf74064ffe437f679d9dbaeacd03fa7711a041b"
+  },
+  {
+    "file": "main13/fonts/LiberationSans-Italic.ttf",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/fonts/LiberationSans-Italic.ttf",
+    "sha256": "01f559e5c501d3d5777647c6a92b3ff37a4523bcf4f3b6e97ae052af567618b1"
+  },
+  {
+    "file": "main13/fonts/LiberationSans-Regular.ttf",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/fonts/LiberationSans-Regular.ttf",
+    "sha256": "8d91388f1d3604b3b8ae0e3ee2d140e50cd6122f9214514f4aca772540a4076d"
+  },
+  {
+    "file": "main13/manifest.json",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/manifest.json",
+    "sha256": "ae8fda05379a5fb4346ce3917ca9dee8ee9cba9926f2f7bb2c55239c8527763d"
+  },
+  {
+    "file": "main13/provenance/original_Figure1_plot.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/provenance/original_Figure1_plot.py",
+    "sha256": "02d3b7e0506c383b7fd6b545f1fa13ac811b86a72fc4617b2406e42e184af6c2"
+  },
+  {
+    "file": "main13/provenance/original_Figure2_plot.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/provenance/original_Figure2_plot.py",
+    "sha256": "002da530c11f8a9c470d6cb2eb0ae2eef2f70b9c311ba5034e0f0979dc57f0a8"
+  },
+  {
+    "file": "main13/provenance/original_Figure3_plot.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/provenance/original_Figure3_plot.py",
+    "sha256": "d3918b4534810165b245022a82841f4948bc576314d6e5efd42f2b4d77b4fe90"
+  },
+  {
+    "file": "main13/provenance/parent_v1_render.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/provenance/parent_v1_render.py",
+    "sha256": "9d6abe2ab1f8cef688ce11235afabaed4e0c3d3bd1fefb565007efbd08283eb7"
+  },
+  {
+    "file": "main13/provenance/parent_v2_render.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/provenance/parent_v2_render.py",
+    "sha256": "ce713c045d80d6f5b2440c5914a6a876972fb810a6a0a289b130670895585557"
+  },
+  {
+    "file": "main13/provenance/parent_v3_render.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/provenance/parent_v3_render.py",
+    "sha256": "5a3a3749619e4558cb3bb5813d0185bcb14674215add3ecf2d49823e893a2e0f"
+  },
+  {
+    "file": "main13/provenance/parent_v4_render.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/provenance/parent_v4_render.py",
+    "sha256": "776fcf5dc3e19e07e6d01a5c8553c7eb6d70364bc82eb2a465470ada1f8817c6"
+  },
+  {
+    "file": "main13/publication.json",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/publication.json",
+    "sha256": "a68b2bedd9e6c14938f28ef7cbddf907d150251fd49b17e925019999a114ba38"
+  },
+  {
+    "file": "main13/render.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/render.py",
+    "sha256": "e5c9f491c0029efc51da8f01e2f1b3366b24513bcd74112c20eb0380b0229da5"
+  },
+  {
+    "file": "main13/render_QA.json",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/render_QA.json",
+    "sha256": "d7a44b89441e6814ce12b56f5fb262b140aa760fd64435f44edfef86266516ea"
+  },
+  {
+    "file": "main13/source_data/Fig1/Figure1_event_uncertainty.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig1/Figure1_event_uncertainty.csv",
+    "sha256": "4f5d944f0f8af58ec26f7f81d77aa90c6b288d76259e60a6ac964a27f75a6f9b"
+  },
+  {
+    "file": "main13/source_data/Fig1/Figure1_monthly_t1_t9.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig1/Figure1_monthly_t1_t9.csv",
+    "sha256": "7821b0c602eb830b076f5920302effdbe39134c6651b9fa9046a5af198041c90"
+  },
+  {
+    "file": "main13/source_data/Fig1/Figure1_source_events.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig1/Figure1_source_events.csv",
+    "sha256": "e09be55d40af257734e404e2fe1f92077a8ed6bac8a2b105cc5456aacbbc088a"
+  },
+  {
+    "file": "main13/source_data/Fig1/Figure1_statistics.json",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig1/Figure1_statistics.json",
+    "sha256": "e1a58fc4d1137e81c9491f2d0e77ad1397307e141a2b59e3c54bdccfb807d75f"
+  },
+  {
+    "file": "main13/source_data/Fig1/Figure1a_regression_prediction_band.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig1/Figure1a_regression_prediction_band.csv",
+    "sha256": "d7f6ae24b409b53f932b6b5f590082179357f2b19ec5b924e5cac5c78c61967b"
+  },
+  {
+    "file": "main13/source_data/Fig2/Figure3_model_sign_agreement.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig2/Figure3_model_sign_agreement.nc",
+    "sha256": "2dd67bb454916a4308a3bae64806dd13f56af8d683a5c3dcf3fb2c659f241e14"
+  },
+  {
+    "file": "main13/source_data/Fig2/Figure3_source_process_maps_t1_t9.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig2/Figure3_source_process_maps_t1_t9.nc",
+    "sha256": "78cb5eb9ff608c26454db2deb3afc08da177052b983ff92a3824953b650a47b6"
+  },
+  {
+    "file": "main13/source_data/Fig2/historical_reference_sensitivity.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig2/historical_reference_sensitivity.csv",
+    "sha256": "46ac61b05f75f776edb0f81093ed9550f96a607b351d608172527b430d5760a2"
+  },
+  {
+    "file": "main13/source_data/Fig2/input_lineage.json",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig2/input_lineage.json",
+    "sha256": "b680a61fec7110881d5e29e7f2872d215936a21349b282960091327d3fd9de75"
+  },
+  {
+    "file": "main13/source_data/Fig2/pattern_correlations.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig2/pattern_correlations.csv",
+    "sha256": "4ff01722b78818d98b87a40fb5808249bc2d40c078ceca9b1bb42e8796fb6246"
+  },
+  {
+    "file": "main13/source_data/Fig2/plotted_b_curves.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig2/plotted_b_curves.csv",
+    "sha256": "4fb89009d9ddd8dfb7d22cb9414a82411d96512edb49cc5d7e72e3432cdb572d"
+  },
+  {
+    "file": "main13/source_data/Fig2/plotted_bars.json",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig2/plotted_bars.json",
+    "sha256": "289752a44b9617015275d084214c5ac9d7c5294f01ca0c513c1b30e1a4e5e23a"
+  },
+  {
+    "file": "main13/source_data/Fig2/plotted_reference_points.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig2/plotted_reference_points.csv",
+    "sha256": "e26f06370ad96b347b6a73376e9e26850b4a86637faa6d3d19da73a7d0826b24"
+  },
+  {
+    "file": "main13/source_data/Fig2/relative_loss_by_lead.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig2/relative_loss_by_lead.csv",
+    "sha256": "03b697d4f4d1ab1d3a83982df3301108e08e76975f0a34ac767bd331abe59067"
+  },
+  {
+    "file": "main13/source_data/Fig2/relative_loss_summary.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig2/relative_loss_summary.csv",
+    "sha256": "bce665087512ba926767c387ec2c296c34380e2fbb097e2a8388d57befc5e1a9"
+  },
+  {
+    "file": "main13/source_data/Fig3/ERA5_source_audit.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/ERA5_source_audit.csv",
+    "sha256": "7fb0293f7e64d078de656b453a596ec5a9ba20ef0de6209194208a3a4bf3df0f"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure1_source_events.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure1_source_events.csv",
+    "sha256": "e09be55d40af257734e404e2fe1f92077a8ed6bac8a2b105cc5456aacbbc088a"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3_Z200_fields.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3_Z200_fields.nc",
+    "sha256": "b055dd8f4014fdce52d1678e0bef7a88ca49354279f2c3ac2e3f6757da519265"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3_geostrophic_and_height_fields.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3_geostrophic_and_height_fields.nc",
+    "sha256": "b76d2b532c4a30ef3c563ed058e63b96da063957adaf21dfa4ab1013e671289d"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3_precipitation_fields.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3_precipitation_fields.nc",
+    "sha256": "88db03701f980bf959b4ba9ea985192c8ab330f5f139fa15e262a533713350a0"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3b_all_samples.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3b_all_samples.csv",
+    "sha256": "a55ce7b44016f3b1f98634130a313750ddc20313d06ba2034be9b552e37e7c5b"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3b_event_bootstrap_envelope.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3b_event_bootstrap_envelope.csv",
+    "sha256": "0c5828507077cdb28838c6aa0fb7a49737158def022fc41bb5c5db6568340918"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3c_global_anomaly_amplitudes.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3c_global_anomaly_amplitudes.csv",
+    "sha256": "152bbde966729bdc047b85e5e6c78900ba0f4c5758949262b4398dcc14ff3e2d"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3c_global_anomaly_correlations.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3c_global_anomaly_correlations.csv",
+    "sha256": "09ce9214f294d008f21af79dac165b60bccb659cdc2212e378618f2fb51f92d6"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3c_global_domain.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3c_global_domain.nc",
+    "sha256": "15859b91a7a483a8a6789b4d55c6efdeb6608fd9703cf3a3e0c3c78338c03a2c"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_anomaly_correlations.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_anomaly_correlations.csv",
+    "sha256": "a762e0a23393175ebcfe71060de6c5a0db5f202f9305f32212bfbf0be55492b1"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_anomaly_fields.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_anomaly_fields.nc",
+    "sha256": "aac1c09f116733b1b693d205ad38498965171de01a39219592d46f2e943e6ee8"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_band_correlations.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_band_correlations.csv",
+    "sha256": "cf82be39bebe8f719616d76a49285041974e4174c327669b56023e01ef976cd2"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_band_masks.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_band_masks.nc",
+    "sha256": "2223f8b5c515ddd6c0a7b96991c8cc7fb5ba54c57a2bfe88a3fbbd559145d3d2"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_el_nino_anomaly_correlations.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_el_nino_anomaly_correlations.csv",
+    "sha256": "52dfc917810e9ee4577cef140e9caee6642f3ca74de93e5a2c3333ef477ed2b4"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_el_nino_comparison_fields.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_el_nino_comparison_fields.nc",
+    "sha256": "30c8a2dc11201ebc156f9c0a701f8308686b76b5a70a3528dbe001e8162dffb5"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_el_nino_reference_amplitude.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_el_nino_reference_amplitude.csv",
+    "sha256": "97e2ef92e2202b9b7a085f14900bbb5689988f5d05d6acf72c03dffc38c5599d"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_historical_anomaly_correlations.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_historical_anomaly_correlations.csv",
+    "sha256": "8c5b85eb689b337802c07d08ed9b653ab18aa6aff5169f9cbc177042952cca1f"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_historical_comparison_fields.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_historical_comparison_fields.nc",
+    "sha256": "244a5d5b76d6a528633adc79218a54deeb45fd0030c937cb0aa558bcf4b26b9c"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_historical_monthly_Z200.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_historical_monthly_Z200.nc",
+    "sha256": "26357fadaddc17756888af952c87110709f73de4a522f5abf9489a063351567e"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_historical_reference_amplitude.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_historical_reference_amplitude.csv",
+    "sha256": "01db2f064a5705885fbc222c80a1f427678c007b64e68a02ccf45171484d22c5"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_other_el_nino_fields.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_other_el_nino_fields.nc",
+    "sha256": "3bef5457692eb3c176d86a5c22daea8e660cfb043ca2ffdda4a7fedb09b29f3a"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_other_historical_fields.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_other_historical_fields.nc",
+    "sha256": "367f87331c6c70983ee070a8b9ed77170f4b8c0c893f24c58e183059d23b64dc"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_transect_statistics.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_transect_statistics.csv",
+    "sha256": "388877395804af6fa16200b411eda67710e7c27b26f6b48791a87ff92fee6f11"
+  },
+  {
+    "file": "main13/source_data/Fig3/Figure3cd_transects.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_transects.csv",
+    "sha256": "a16ef11940c913d7d42047984ccca12d009b6f8bc20adbaa3788630aeca7c931"
+  },
+  {
+    "file": "main13/source_data/Fig3/SI_anomaly_amplitude.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_anomaly_amplitude.csv",
+    "sha256": "d46500bdbd85818cb00048af419747b41ae76770e2d0154b4030d2f45cda5e30"
+  },
+  {
+    "file": "main13/source_data/Fig3/SI_canonical_pattern_correspondence.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_canonical_pattern_correspondence.csv",
+    "sha256": "1d306346b04a3407421a9e0eca0f71acdf2f3a1922cb8147d101e75968d5eae4"
+  },
+  {
+    "file": "main13/source_data/Fig3/SI_climatology_distance_and_verification.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_climatology_distance_and_verification.csv",
+    "sha256": "3a5099486aa77d3c3cada087b21ff7150f62787a53cac1dc5ebf22ec49551363"
+  },
+  {
+    "file": "main13/source_data/Fig3/SI_event_bootstrap_fits.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_event_bootstrap_fits.csv",
+    "sha256": "190240906ee4cfd41682ab89d54544ada50ed0d4d5d0640a43dc517c4708ec2f"
+  },
+  {
+    "file": "main13/source_data/Fig3/SI_event_omission.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_event_omission.csv",
+    "sha256": "294679562625b1f683c8d1a60c05f5ea7ee8f07eb7dc84d819161ab4d3224b2b"
+  },
+  {
+    "file": "main13/source_data/Fig3/SI_five_state_pairwise_correlations.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_five_state_pairwise_correlations.csv",
+    "sha256": "1e3dc2c243d733cd7f1fc55c560d23c5e77f97d35941be67eeb7addf3a1e3d57"
+  },
+  {
+    "file": "main13/source_data/Fig3/SI_global_individual_el_nino_correlations.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_global_individual_el_nino_correlations.csv",
+    "sha256": "400418ddd78719aef69347efa7beb066085b5aadd7f795ae3eb8ac08143fb12a"
+  },
+  {
+    "file": "main13/source_data/Fig3/SI_individual_historical_winter_correlations.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_individual_historical_winter_correlations.csv",
+    "sha256": "993e875fe89a722ce8c7ebb4d3c5d92b3033f45d58679be30d188dedbfc0fab8"
+  },
+  {
+    "file": "main13/source_data/Fig3/SI_individual_other_el_nino_correlations.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_individual_other_el_nino_correlations.csv",
+    "sha256": "17da8ef5b38dc37a73407872eb032c9612541dbe10779cdb85db2b0e6720d94d"
+  },
+  {
+    "file": "main13/source_data/Fig3/SI_prespecified_error_concentration.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_prespecified_error_concentration.csv",
+    "sha256": "c4327acd337c148be3306ae08c279f7ef4c85f3ecf1b8051b001eee871c3790a"
+  },
+  {
+    "file": "main13/source_data/Fig3/SI_regional_skill_change.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_regional_skill_change.csv",
+    "sha256": "6499863dbb22359cfaafc07aa34ac0821efc008d156bd5c3db043e48581d2013"
+  },
+  {
+    "file": "main13/source_data/Fig3/coordinate_audit_precipitation_COLA-RSMAS-CCSM4.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/coordinate_audit_precipitation_COLA-RSMAS-CCSM4.csv",
+    "sha256": "fb0178736d3f65b30411e97df933c82c767320a24080f692a92dc8b8c64f2013"
+  },
+  {
+    "file": "main13/source_data/Fig3/coordinate_audit_precipitation_GFDL-SPEAR.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/coordinate_audit_precipitation_GFDL-SPEAR.csv",
+    "sha256": "9c9587099a8caa42e4b7f731bffcea3e08be7c74d36ab4dd3ae5fa983507a032"
+  },
+  {
+    "file": "main13/source_data/Fig3/coordinate_audit_precipitation_NASA-GEOSS2S.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/coordinate_audit_precipitation_NASA-GEOSS2S.csv",
+    "sha256": "8398bdacabb88a7e7741e82306d6b89065f2c98b8ee92912c5573819aac22286"
+  },
+  {
+    "file": "main13/source_data/Fig3/coordinate_audit_z200_COLA-RSMAS-CCSM4.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/coordinate_audit_z200_COLA-RSMAS-CCSM4.csv",
+    "sha256": "51b18324f1c76f6b794a15bc21694e18cd770aa90adbe16b7efec432c3ff53d2"
+  },
+  {
+    "file": "main13/source_data/Fig3/coordinate_audit_z200_GFDL-SPEAR.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/coordinate_audit_z200_GFDL-SPEAR.csv",
+    "sha256": "09af68f4cea047fcc9f66bfc849b757bc79f1a60a285f9273a1aded137b02dbe"
+  },
+  {
+    "file": "main13/source_data/Fig3/coordinate_audit_z200_NASA-GEOSS2S.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/coordinate_audit_z200_NASA-GEOSS2S.csv",
+    "sha256": "c1464c2ecc12720bec05feada668522a6c7773ea90da581371b43072e9c70dfb"
+  },
+  {
+    "file": "main13/source_data/Fig3/historical_ERA5_source_audit.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/historical_ERA5_source_audit.csv",
+    "sha256": "fb2e5513bda58cf7a47c62e1d32088b62651c248f3e2c71b1c23dcf8c32d09b5"
+  },
+  {
+    "file": "main13/source_data/Fig3/historical_winter_selection.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/historical_winter_selection.csv",
+    "sha256": "6750ecc28253c47a2dde0f887a3dedb272334be69834cff93e789da01d847943"
+  },
+  {
+    "file": "main13/source_data/Fig3/inherited_ERA5_source_audit_v3.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/inherited_ERA5_source_audit_v3.csv",
+    "sha256": "cba8c5ca1e3d9c91f64756de5724183efca13c61cb66b5a6acb4f8a0e9c2667e"
+  },
+  {
+    "file": "main13/source_data/Fig3/other_el_nino_event_selection.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/other_el_nino_event_selection.csv",
+    "sha256": "3a6340c0af5bc155894c687a9f4bf971a2442b6a0f4646bed716493c03e9f16e"
+  },
+  {
+    "file": "main13/source_data/Fig3/region_boundary_change.csv",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/region_boundary_change.csv",
+    "sha256": "4599b779c6b3cf8deb298bf43f3e627baef3b4c9b8a7f84bc79ff204d0a85497"
+  },
+  {
+    "file": "main13/source_data/Fig3/seven_ocean_regions.nc",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/seven_ocean_regions.nc",
+    "sha256": "4152b61a4cc5ceef5b88e16f85257e38f7b5277d0550cc3149b6e7bf457a1cb9"
+  },
+  {
+    "file": "main13/source_manifest.json",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_manifest.json",
+    "sha256": "d3a2e95b9588384af4b7dc82ba73dca5d9e0713770ef46cdc6300b8e6ba45b81"
+  },
+  {
+    "file": "main13/validate.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/validate.py",
+    "sha256": "23a90039e9a0e5692d6cad75e3300ea66a46488509ac69ac11ebb3a0847d4ed2"
+  },
+  {
+    "file": "main13/validation.json",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/validation.json",
+    "sha256": "800338bda95ba776c5302d5f2a0c9b5cd17b979d5cf828ee8b1d6403fbd14a62"
+  },
+  {
+    "file": "main4/Figure1.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/Figure1.md",
+    "sha256": "ed2f70b1355540e924cb34f24f26d261a304eb43cdd5cd1302d9c5ecaec34fdc"
+  },
+  {
+    "file": "main4/Figure4.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/Figure4.md",
+    "sha256": "2c75e9ce13904fa823b8744080e17d90be61d96da7b58928aa6a8ee4bcc8ecd0"
+  },
+  {
+    "file": "main4/cache/woa98_basin.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/cache/woa98_basin.nc",
+    "sha256": "8735abe0eb175864e2909c6f3e2e9743b0cbf3cdb9e0d256ef3065822e0e3567"
+  },
+  {
+    "file": "main4/composition_manifest.json",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/composition_manifest.json",
+    "sha256": "81932090a8f041d5bdad54f57f34003b5ae890899ebc4d50454893c5c2eafbb8"
+  },
+  {
+    "file": "main4/contract.json",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/contract.json",
+    "sha256": "b5cd91d05ac6c0d415cb782a8f8289ca6d23afd54a54159139b4b57beb875307"
+  },
+  {
+    "file": "main4/figure_style.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/figure_style.py",
+    "sha256": "5ed3364a24a8b91189b3d090aa780730cba8c4df127d4a734ac878d195b21f70"
+  },
+  {
+    "file": "main4/figures/Figure1.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/figures/Figure1.pdf",
+    "sha256": "3e220784fa5413b6ff89497d42f19c2b051c65239db4169b7eb67b2af0f4c4b6"
+  },
+  {
+    "file": "main4/figures/Figure2.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/figures/Figure2.pdf",
+    "sha256": "5c71157b07abd513a2292b071a29a2d38b9c554664197929fd46187c61190189"
+  },
+  {
+    "file": "main4/figures/Figure3.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/figures/Figure3.pdf",
+    "sha256": "595531eb036ae6138c1c7aa6f7621bf95fbcb03d5d4f9ad51a39153a3016dfe6"
+  },
+  {
+    "file": "main4/figures/Figure4.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/figures/Figure4.pdf",
+    "sha256": "eeb6086d4ec84448e2cf16311df274dcf532549add893856bc3cfeec6da5419f"
+  },
+  {
+    "file": "main4/figures/Figures1-4.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/figures/Figures1-4.pdf",
+    "sha256": "d99804d5fc179c21831283a93fe93f686572e8d8334069f051ce9cb85ae157c7"
+  },
+  {
+    "file": "main4/figures/Figures1-4_2x2.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/figures/Figures1-4_2x2.pdf",
+    "sha256": "9be14b64dd5de3d14e99bac5755fc4a70b284aee991fce9341c73f63635fdc53"
+  },
+  {
+    "file": "main4/fonts/LICENSE.txt",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/fonts/LICENSE.txt",
+    "sha256": "e4593eea6be55531c930388446f950ce97b5c730f5bc5dfd0167489402e91de4"
+  },
+  {
+    "file": "main4/fonts/LiberationSans-Bold.ttf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/fonts/LiberationSans-Bold.ttf",
+    "sha256": "ba0e0dc3f7aca5b0afbc31e800531ee43be3aa79ae35b2ef1f6470a9547765c4"
+  },
+  {
+    "file": "main4/fonts/LiberationSans-BoldItalic.ttf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/fonts/LiberationSans-BoldItalic.ttf",
+    "sha256": "15c1068175252e4adee6d3721bf74064ffe437f679d9dbaeacd03fa7711a041b"
+  },
+  {
+    "file": "main4/fonts/LiberationSans-Italic.ttf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/fonts/LiberationSans-Italic.ttf",
+    "sha256": "01f559e5c501d3d5777647c6a92b3ff37a4523bcf4f3b6e97ae052af567618b1"
+  },
+  {
+    "file": "main4/fonts/LiberationSans-Regular.ttf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/fonts/LiberationSans-Regular.ttf",
+    "sha256": "8d91388f1d3604b3b8ae0e3ee2d140e50cd6122f9214514f4aca772540a4076d"
+  },
+  {
+    "file": "main4/input_manifest.json",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/input_manifest.json",
+    "sha256": "ffcf27be320d6d8bef67632b4b70156a71ce101aaef59e2ed426ff1283fc6e24"
+  },
+  {
+    "file": "main4/package.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/package.py",
+    "sha256": "57a7552184db8cfbd401a6c8cd269aff0ed04d13c872919879f3d749c6f88e42"
+  },
+  {
+    "file": "main4/plot_figure.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/plot_figure.py",
+    "sha256": "9c663840e132cc1b2d710a4cad08e7c6bd18634098fa101f184ef958a74c24ad"
+  },
+  {
+    "file": "main4/prepare.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/prepare.py",
+    "sha256": "d62b54e53cddd7909f83d03044efffa8a25fb3f007783defcc4cabbd1d87825e"
+  },
+  {
+    "file": "main4/regions.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/regions.py",
+    "sha256": "9662effc472cb4885c8618bb0db513acd6cb5137b1e07305950a4b79521ec7f3"
+  },
+  {
+    "file": "main4/render_validation.json",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/render_validation.json",
+    "sha256": "476bcf60c8da95592f5bd9dab6e290cfcdd40e484e1ff46219ff2da11aa4ec7e"
+  },
+  {
+    "file": "main4/source_data/Figure4_observed_group_associations.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/source_data/Figure4_observed_group_associations.csv",
+    "sha256": "825da058d1ec4bcb7cdb5c3a105b332738c724d3c8cbb4fb3fd3fb6a01fffd42"
+  },
+  {
+    "file": "main4/source_data/Figure4a_local_shortfall.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/source_data/Figure4a_local_shortfall.nc",
+    "sha256": "1b0980d0d303e9e5050432852cd19217a402655a7ca8477aa480d6bfc2fadcd0"
+  },
+  {
+    "file": "main4/source_data/SI_observed_local_process_hierarchy.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/source_data/SI_observed_local_process_hierarchy.csv",
+    "sha256": "9739c6fefd38de1b07b6c01af69f79c3c349178bbaeaa675154677baf07be6c1"
+  },
+  {
+    "file": "main4/source_data/association_weighted_local_shortfall.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/source_data/association_weighted_local_shortfall.csv",
+    "sha256": "92039597160163b105c4e5a8bb03016734bf2f44fd1ccde87af01ee97b7eae6e"
+  },
+  {
+    "file": "main4/source_data/regional_lead_sensitivity.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/source_data/regional_lead_sensitivity.csv",
+    "sha256": "f612e78729808a7500dcea67dfc3d299a4e12db8eefddb16342f523f440f3101"
+  },
+  {
+    "file": "main4/source_data/regional_map_shortfall.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/source_data/regional_map_shortfall.csv",
+    "sha256": "2b3cf377e284d525fd13225a68593bbbc10c6a06f606caec139bdb3a21efd09b"
+  },
+  {
+    "file": "main4/source_data/seven_ocean_regions.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/source_data/seven_ocean_regions.nc",
+    "sha256": "f45e6cb6074bd506e37031adf73c50e0a9ea13f55714a80ab6a8002d9ffd0a3d"
+  },
+  {
+    "file": "main4/statistics.json",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/statistics.json",
+    "sha256": "4a3814f02f31be51e4c438d9d845c09b39b7b7655882f500df0cc089618338ef"
+  },
+  {
+    "file": "supplementary/LAYOUT_REVISION.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/LAYOUT_REVISION.md",
+    "sha256": "a6fa96ca1dc21a7242b29ad3a6332d8a9385de96056681be4513c13721d4085a"
+  },
+  {
+    "file": "supplementary/README.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/README.md",
+    "sha256": "0925ad69b40a7b12049aefa72f92c6ea7c3c7a24d5a1b0c7f25f50afc1089a09"
+  },
+  {
+    "file": "supplementary/REVIEWER_RESPONSE.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/REVIEWER_RESPONSE.md",
+    "sha256": "d3bd507f6300170131d54312569a8269ad2c7aed1534f61242e464e19b67e561"
+  },
+  {
+    "file": "supplementary/STATISTICS_AND_REPRODUCIBILITY.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/STATISTICS_AND_REPRODUCIBILITY.md",
+    "sha256": "b5a55e2d110204453ac6f324a4498cdbe071db70aa96f2bb4f954ecb16489076"
+  },
+  {
+    "file": "supplementary/SUBMISSION_BLOCKERS.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/SUBMISSION_BLOCKERS.md",
+    "sha256": "4c24f1f83d5ac2cb9017d859cc2c575281e01d0050f161a8070adfffd4ac8088"
+  },
+  {
+    "file": "supplementary/Supplementary_Information.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/Supplementary_Information.pdf",
+    "sha256": "c1ba1810a278c7c47bde9635e0b8c8376bac7c4e7954e60cd89c27474f81f4ff"
+  },
+  {
+    "file": "supplementary/Supplementary_Methods.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/Supplementary_Methods.md",
+    "sha256": "5824514e5b25c8e1197f36d97dccc4bb09fc9897fc4ee2ab8531dee548dd3381"
+  },
+  {
+    "file": "supplementary/base_si.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/base_si.py",
+    "sha256": "d2cbe6dce59fd7a70a2abf0058e4f526791fb95ef6acd7883c70552093dc16d2"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_01.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_01.md",
+    "sha256": "dc4c153fd1b47162d84907f6c8292fd7ccb8f1f966b9fd11364253fd9e641eae"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_02.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_02.md",
+    "sha256": "8d1739caf693c8e0ef1ed0915a3ff326216f75ffca6e5074de1e4c088e824698"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_03.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_03.md",
+    "sha256": "9af364a78defda81fa44c2ce227657261c9a5c6e42e7da422cb9049dbc549eae"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_04.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_04.md",
+    "sha256": "c811a5eed1ed104e12dfadb97928a59ad7ec744ed40109f8f023c3594077dea5"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_05.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_05.md",
+    "sha256": "17b82eedbbc788d017e9b0b2405b38aa94170babe4fadba56812d131847ac1d9"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_06.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_06.md",
+    "sha256": "9e6e7f3bce9b65a1dc940b26a67d5de53914c25dd8d49038d9df006cced8a557"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_07.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_07.md",
+    "sha256": "a6587b863f5c0994406532b5cf69b30e5cf26c4991cd9e64ef91953930ae8db0"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_08.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_08.md",
+    "sha256": "0157507000e8f6b158f9876e129182821e1b67bd244eb1dfa4cc261bfb697516"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_09.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_09.md",
+    "sha256": "dd39243d22899b5e5406b85de57108ace5ba7ef402933893d4a481008222aa64"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_10.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_10.md",
+    "sha256": "1558fb81d891967871cd0f44a5cbcbe39dde70fdf05f42ee1ec46c1e9cde784d"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_11.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_11.md",
+    "sha256": "2e7321c9c7c2f90db262047805b20b1031458090a10ebbb708cce1dd229f53df"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_12.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_12.md",
+    "sha256": "de042b8febdd577433790d0d9ffc9331fc52faa7efc1b28b422b1b9a42f4b1f8"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_13.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_13.md",
+    "sha256": "7d2fea41987fb85e16b14d4b65a57dff1ab5ea17ff05709280762897216fdede"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_14.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_14.md",
+    "sha256": "4782042cd961b96c2432ff00001cd3e87e6960728ddf50e6faa61cd4897cba36"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_15.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_15.md",
+    "sha256": "aa03c1dc9d41c3859d00220080e7a4c552c4ac166a58b4e92fb20b8632224413"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_16.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_16.md",
+    "sha256": "e75d7b25375f973741059f445717fb7320f5a98e93a4575161faf766f8706c25"
+  },
+  {
+    "file": "supplementary/captions/Supplementary_Fig_17.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions/Supplementary_Fig_17.md",
+    "sha256": "0e187906357a7db15c8c61ce64d6de54756273532e8b31e6e8a4ee0ef2e8098c"
+  },
+  {
+    "file": "supplementary/captions.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions.py",
+    "sha256": "d980caf80645c9757f500c72741086f90bdeaca94233f45ad7ac16126e6c1ef7"
+  },
+  {
+    "file": "supplementary/captions_previous.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/captions_previous.py",
+    "sha256": "d0593237628d50166a53fe83326025ccfd5018278ba7318966836ad88be820c5"
+  },
+  {
+    "file": "supplementary/compact_layout.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/compact_layout.py",
+    "sha256": "362043b3e8716886077bb4071185a4dbe1274d1e02b50d49e4c17855cab46fad"
+  },
+  {
+    "file": "supplementary/complete_release.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/complete_release.py",
+    "sha256": "c51c85c507ecef5105faaef97db4c9e6a415df8f11c5f4238c9d245d52d0162b"
+  },
+  {
+    "file": "supplementary/data_coverage.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/data_coverage.csv",
+    "sha256": "528d9231575ea6b9c741f98c257ca836b65d9d2d4850ae3d0e8d3b717261ac68"
+  },
+  {
+    "file": "supplementary/derived_data/S01_fit.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S01_fit.csv",
+    "sha256": "d09be2d8c68218749ad091bac9dd62802517b2880b5a4321358c5a63189bd48d"
+  },
+  {
+    "file": "supplementary/derived_data/S01c_all_seven_regions.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S01c_all_seven_regions.csv",
+    "sha256": "b7341a5e44c61a243bd765b17656afc4840cf2176f20aa25c131c784dc84a4d8"
+  },
+  {
+    "file": "supplementary/derived_data/S01c_all_seven_regions_by_lead.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S01c_all_seven_regions_by_lead.csv",
+    "sha256": "dd78f941fe9a5d8ce620b8f8674eabeeed39edab1b8130b254156ac5f3793b5f"
+  },
+  {
+    "file": "supplementary/derived_data/S02_monthly_phase_membership.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S02_monthly_phase_membership.csv",
+    "sha256": "e0828e9fd4bc7d5fca6042c9bba0c756958a6a4297e2a1c2fa18bfc0591a0c9d"
+  },
+  {
+    "file": "supplementary/derived_data/S02_phase_statistics.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S02_phase_statistics.csv",
+    "sha256": "6cef2d7ceb224321633ea9ffc8ec47c79cc4abed3c907d8afaec1f18317cae28"
+  },
+  {
+    "file": "supplementary/derived_data/S02_slope_difference.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S02_slope_difference.csv",
+    "sha256": "d0b38f369145adc90a8a368584e4c2c16aabc286c2f07b0fd94ab40efac23457"
+  },
+  {
+    "file": "supplementary/derived_data/S03_omit_event.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S03_omit_event.csv",
+    "sha256": "8ac80997b1762d4a4ac00c411f65349fcee3156400feedc203367f94ca7ccb58"
+  },
+  {
+    "file": "supplementary/derived_data/S03_partial_residuals.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S03_partial_residuals.csv",
+    "sha256": "6a40b5b03d2a2abad3702f09449f764b9e42fbcc3d291630f72ed658309c38b2"
+  },
+  {
+    "file": "supplementary/derived_data/S04_lead_benchmarks.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S04_lead_benchmarks.csv",
+    "sha256": "eed406d9a133bc67e3b80ff3aaea1a050ae961a3b2e4eccc3ff622b978086817"
+  },
+  {
+    "file": "supplementary/derived_data/S05_displayed_correlations.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S05_displayed_correlations.csv",
+    "sha256": "b263febdf5e38662c53c894e7f539fe0ec7443109847c6d765257cbf447daf6a"
+  },
+  {
+    "file": "supplementary/derived_data/S08_model_skill.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S08_model_skill.csv",
+    "sha256": "e0e8cc4e50b9b5b56b5dc25def4aa489707a82802e432098cd57625b2808b450"
+  },
+  {
+    "file": "supplementary/derived_data/S09_within_event_associations.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S09_within_event_associations.csv",
+    "sha256": "c3cf9c3aa6c7dc62879af8896eb000674330b9521a0bf9c46ccd0c05e0215edc"
+  },
+  {
+    "file": "supplementary/derived_data/S12_local_normalized.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S12_local_normalized.csv",
+    "sha256": "4bfb7af5854dad570b4f02c47c866f51bb5c4ed189624694737e1b7e34263ecd"
+  },
+  {
+    "file": "supplementary/derived_data/S13_heldout_predictions.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S13_heldout_predictions.csv",
+    "sha256": "e05d06eb5b4753fe6623a34883573f5bd696858ab5ffafac53dd88b1ec5c14c2"
+  },
+  {
+    "file": "supplementary/derived_data/S13_pooled_skill.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S13_pooled_skill.csv",
+    "sha256": "69b584ce8e9ec771f750c3d367289322b3d8cea2e7fa57263102e720b0a1b887"
+  },
+  {
+    "file": "supplementary/derived_data/S13_temporal_validation.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S13_temporal_validation.csv",
+    "sha256": "79c749ebde46998868d55351a4bdacd2108136f963c8f8fe23f2b9d1203c9a13"
+  },
+  {
+    "file": "supplementary/derived_data/S14_event_omission.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S14_event_omission.csv",
+    "sha256": "abb06623ed4a67fba6d1178e147daaa34e44dda3136beeb1dba4c1260750c58f"
+  },
+  {
+    "file": "supplementary/derived_data/S14_paired_error_fields_235.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S14_paired_error_fields_235.nc",
+    "sha256": "861f1f695f8b7e8bb2d49c464d5bdd5c2690a9d89426a2832d936db689410eab"
+  },
+  {
+    "file": "supplementary/derived_data/S14_paired_errors.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S14_paired_errors.csv",
+    "sha256": "e0c4aa8dbadba71410a37517a739754d2f143b28eafc9e7c61dd62e3beb85f4a"
+  },
+  {
+    "file": "supplementary/derived_data/S14_regional_change.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S14_regional_change.csv",
+    "sha256": "a0594ecdc9713621fe9771b6fc824dce860613a1c520985a3d1e6f32b2542229"
+  },
+  {
+    "file": "supplementary/derived_data/S15_field_level_recalculation.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S15_field_level_recalculation.csv",
+    "sha256": "f5282d747d1f1ea66ea59ac9d21b3dd6d06f17c35620f0cc33c5bf46f61f642e"
+  },
+  {
+    "file": "supplementary/derived_data/S15_main_Fig4_component_crosswalk.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S15_main_Fig4_component_crosswalk.csv",
+    "sha256": "52359bad80194b2b6d4c8956cdc80a166452904fb05db2a97b2fb064cf5a681d"
+  },
+  {
+    "file": "supplementary/derived_data/S15_main_Fig4_region_crosswalk.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S15_main_Fig4_region_crosswalk.csv",
+    "sha256": "bb0832dd8f4614f852f85c9b63f111af64e213a07b9681e6a0b88265701d296d"
+  },
+  {
+    "file": "supplementary/derived_data/S15_signed_components.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S15_signed_components.csv",
+    "sha256": "52359bad80194b2b6d4c8956cdc80a166452904fb05db2a97b2fb064cf5a681d"
+  },
+  {
+    "file": "supplementary/derived_data/S17_global_coverage.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S17_global_coverage.csv",
+    "sha256": "f825ca3fd18de8cd239cd06d3519380b5d5d99737e3c05d0ff8f95774e74a06e"
+  },
+  {
+    "file": "supplementary/derived_data/S17_regional_sensitivity.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/derived_data/S17_regional_sensitivity.csv",
+    "sha256": "dbb2c64cff1b34430ab5af306662dd7a3c2babaea5d9d97faede94a959accbd1"
+  },
+  {
+    "file": "supplementary/figure_registry.json",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figure_registry.json",
+    "sha256": "cead4686598b21077539fddc174bdd6cfb557a8cab6f29c3d4bd41b6525c8dbd"
+  },
+  {
+    "file": "supplementary/figure_roles_and_QA.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figure_roles_and_QA.csv",
+    "sha256": "a26f6c67c71c997857094b30290fca3375a2e47cc6e3d0fa9b5f069e0660ef64"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_01.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_01.pdf",
+    "sha256": "db34960d521db26d800b1df5327eb7acc8af8720458d71d60f6fa695d62100dd"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_02.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_02.pdf",
+    "sha256": "87aaa1dca61224fa1d9fa64b6b909fb00885bc0c498ad49da15e97756097c338"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_03.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_03.pdf",
+    "sha256": "3943e0c209c887d10360628b05df8d9bbea5091bdb656e817934b78e3b06dc2b"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_04.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_04.pdf",
+    "sha256": "11fea062b28e29445f697224768b65ef1e28ca8c0537fbcb9e72aecac7612f4e"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_05.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_05.pdf",
+    "sha256": "c06068a59a7534b6bf4cd8a37df2ca667fdba50b7ba410dd442c423a551b8dcc"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_06.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_06.pdf",
+    "sha256": "39165ef88150e4a09a73302ecfcef55702a22b9b2147c127a0c65e5ebd88514a"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_07.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_07.pdf",
+    "sha256": "2a56528fec037d1cc7a6aeab790b5fce770dfa58dfa2e4b5f913219ce037ca86"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_08.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_08.pdf",
+    "sha256": "901a2ea627d773b187a7671466ceed13ac53300f1dad50ea0e7687483a68454d"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_09.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_09.pdf",
+    "sha256": "835aee074d0d5b5a6441ff521b200d1ca0f82eafb68b6ee600440011e3b7a48c"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_10.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_10.pdf",
+    "sha256": "d47d258d2963f1fc5d01f6067c900c622e4dd8b68c10ab4f619ec054882761a5"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_11.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_11.pdf",
+    "sha256": "d1bd8c9cc85cef8ba0881fedbcc3f1159f97fd7d47eab4133b9bbead5903156e"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_12.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_12.pdf",
+    "sha256": "117b045bd282d7160232686327a5afdbca9eae9ade80a67e787f3d9524400fcc"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_13.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_13.pdf",
+    "sha256": "020d466f3700859ba3c29ec65d1982416b12a69342660d9ea68a078a79449a63"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_14.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_14.pdf",
+    "sha256": "7e01b7efdbb01506d662bfac64fb89bf6b5eb7eea19ae2e2083e4323dd6aefe4"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_15.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_15.pdf",
+    "sha256": "f7aa0405056cbab3c6dd4f5fab7d7e31d3575b26eb40d6a0ac4aac2b1c80f43d"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_16.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_16.pdf",
+    "sha256": "b01984783768dbc214fcaebfcd77723ab33d90476a82ad537a4b7da0299bca2f"
+  },
+  {
+    "file": "supplementary/figures/Supplementary_Fig_17.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/figures/Supplementary_Fig_17.pdf",
+    "sha256": "60dbcd366105b969004e9393b24d2f898bf5f32820dec979ba82784526f56d92"
+  },
+  {
+    "file": "supplementary/final_polish.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/final_polish.py",
+    "sha256": "d04baf2831d97d9a6923ce6071e94ca707a48d6fb8a5c2b6850d9b3e980d266f"
+  },
+  {
+    "file": "supplementary/finalize_release.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/finalize_release.py",
+    "sha256": "f749d631b74036c016a089e3a31e76d4e9036a08ff1e8ddeecaff76ae89692a6"
+  },
+  {
+    "file": "supplementary/fonts/LICENSE.txt",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/fonts/LICENSE.txt",
+    "sha256": "e4593eea6be55531c930388446f950ce97b5c730f5bc5dfd0167489402e91de4"
+  },
+  {
+    "file": "supplementary/fonts/LiberationSans-Bold.ttf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/fonts/LiberationSans-Bold.ttf",
+    "sha256": "ba0e0dc3f7aca5b0afbc31e800531ee43be3aa79ae35b2ef1f6470a9547765c4"
+  },
+  {
+    "file": "supplementary/fonts/LiberationSans-BoldItalic.ttf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/fonts/LiberationSans-BoldItalic.ttf",
+    "sha256": "15c1068175252e4adee6d3721bf74064ffe437f679d9dbaeacd03fa7711a041b"
+  },
+  {
+    "file": "supplementary/fonts/LiberationSans-Italic.ttf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/fonts/LiberationSans-Italic.ttf",
+    "sha256": "01f559e5c501d3d5777647c6a92b3ff37a4523bcf4f3b6e97ae052af567618b1"
+  },
+  {
+    "file": "supplementary/fonts/LiberationSans-Regular.ttf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/fonts/LiberationSans-Regular.ttf",
+    "sha256": "8d91388f1d3604b3b8ae0e3ee2d140e50cd6122f9214514f4aca772540a4076d"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_01.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_01.pdf",
+    "sha256": "329dcd2a5989475732d1942f352b1fff450b8e3c325e201a8422dfe60b26976d"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_02.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_02.pdf",
+    "sha256": "eb5235446ff92792410a044454aad5f3ccf58977030f2ccb02c8251d5e909bb6"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_03.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_03.pdf",
+    "sha256": "068a22c78c73bc5995913600a57f134e59b135553479c067ba2421a81650dad0"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_04.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_04.pdf",
+    "sha256": "482f8a8a11ce29da4bc1c38d5d8066acb5528e841cc278e5b15ea6471d024228"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_05.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_05.pdf",
+    "sha256": "1ffa37471d431ca6857a5970afac31ab88cdd82b9c09016c4d32328a96cd245f"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_06.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_06.pdf",
+    "sha256": "8536c10e97a610ebae117fe2124f31febb793c3be14c10ab93321de26f38e8d6"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_07.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_07.pdf",
+    "sha256": "b0b9205a5e5872ef970afbb58bd30528c576f9313dcc5245996335c14a11d9f8"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_08.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_08.pdf",
+    "sha256": "3a2d2f4c1e614e167a4f8338f98870a5cec7b52442fd9a949ba47be80e936ddd"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_09.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_09.pdf",
+    "sha256": "93ecc70a6428fe584f453ffa9fce609055dd70d5d2752a72411e885129777e00"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_10.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_10.pdf",
+    "sha256": "268359b5cf50c739a6ab5f47a03e53db14cb12d41ee7f6a41276a13daaa815aa"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_11.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_11.pdf",
+    "sha256": "2554c3f54517d8e477f6283708fc7b4aba55a5c3f5f9640eb93eaafd960d2240"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_12.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_12.pdf",
+    "sha256": "177a18c9fdb5f5f9b4805b6cad15e5a1016c97544953f4aec8dfb017943071ff"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_13.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_13.pdf",
+    "sha256": "72f57db49fdf3c6e3103320bb73fec9ad67ae8b6ab12eb3191a7f475f3769a09"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_14.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_14.pdf",
+    "sha256": "a87f42fabec7c9fc0e1d3e4114905274c6daed3002782b0a1e39805c1829fff0"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_15.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_15.pdf",
+    "sha256": "ff9b8ee32b92a434be34f1a1338e6c76cece1e80c2475e302233cc86ae18ec96"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_16.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_16.pdf",
+    "sha256": "10f065a28c7b5c97bc71033c95cfc637c34ddbccedc4515338b87320de4ae914"
+  },
+  {
+    "file": "supplementary/individual_with_captions/Supplementary_Fig_17.pdf",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/individual_with_captions/Supplementary_Fig_17.pdf",
+    "sha256": "02086026173c12e8500ca70099bee217a8a3b74b14be0bd1b26f16b8cefb9208"
+  },
+  {
+    "file": "supplementary/manuscript_reference_crosswalk.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/manuscript_reference_crosswalk.csv",
+    "sha256": "768c385e09d0c2cb57a09e97320cedd9420327e86dfb6b0c9e0b26ce5bc9c1c1"
+  },
+  {
+    "file": "supplementary/matched_s5/caption.json",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/caption.json",
+    "sha256": "fb99e75db1796c7d564005a5af9f7eabfc58d5b08870ed2be1ba5901a0ecd6cb"
+  },
+  {
+    "file": "supplementary/matched_s5/caption.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/caption.md",
+    "sha256": "17b82eedbbc788d017e9b0b2405b38aa94170babe4fadba56812d131847ac1d9"
+  },
+  {
+    "file": "supplementary/matched_s5/qa/render.json",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/qa/render.json",
+    "sha256": "5553108e64009c703532fffaa7e28f4f908aabe5d344c721a438f29223574510"
+  },
+  {
+    "file": "supplementary/matched_s5/render.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/render.py",
+    "sha256": "e00a3c32e16392dfa9c4dcb997f41252e2a4a8af0f98443efc2eb25a60237b58"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/correlation_changes.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/correlation_changes.csv",
+    "sha256": "511554af31b4761d3316ba9b6d505245487f71b18401d69abb280af66b9a2fa9"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/correlations.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/correlations.csv",
+    "sha256": "924fab76c9988e512386463b2b9f3ca06ddb93eeb9b93083f68e63867692ba85"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/matched_fields.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/matched_fields.nc",
+    "sha256": "d1c511ff31d25bc0c65d54f324511ba63495e5097ac1e5473349cd1f02c0be6e"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/observed_monthly.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/observed_monthly.nc",
+    "sha256": "74bf46c81d48d9018f8cba764d0133ade7bfad3adeaa1239a88109df886403fc"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/previous_correlations.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/previous_correlations.csv",
+    "sha256": "4ff01722b78818d98b87a40fb5808249bc2d40c078ceca9b1bb42e8796fb6246"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/raw_lead1.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/raw_lead1.nc",
+    "sha256": "756139c8f80bc32601a3e8146eb171c6fa25f75cc0e8d576bf1d6be940a2045d"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/raw_lead2.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/raw_lead2.nc",
+    "sha256": "ce27bdf30465c4924b276375f45e8a8c6bff331dcfd7fc8c2ce6afb918546d8f"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/raw_lead3.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/raw_lead3.nc",
+    "sha256": "94888415e082c9605eba0da3ee31d15ee5b8f09c146817fad22eefbee959d69e"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/raw_lead4.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/raw_lead4.nc",
+    "sha256": "1104c68bd531f9bace8a85df6456e09b3c5e03dacc6f2ca9db2297d2ce0dfc61"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/raw_lead5.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/raw_lead5.nc",
+    "sha256": "a6fb22548715081e178e2b96693433b8ebecc78ea10fcc14ce147e0a18f1a103"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/raw_lead6.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/raw_lead6.nc",
+    "sha256": "1b7d573ce050b01ced76f7a9c5bcce8820a529039846bfe8db8d32efb65d0c1b"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/raw_lead7.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/raw_lead7.nc",
+    "sha256": "d82aa1ac0c969d0794cb0e20420fa0156ed3afef745c9c84dc76c8bbe5faa1f2"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/raw_lead8.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/raw_lead8.nc",
+    "sha256": "71a7d7c9343d4d461a4d7c457e566700047f356f1b7e01ba9dd65f30e0857105"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/selection_lead1.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/selection_lead1.csv",
+    "sha256": "5baea8eb5a04b13d10bd25ce105a72d681f8432da98f67e12a23950fdb603b1f"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/selection_lead2.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/selection_lead2.csv",
+    "sha256": "93fb32cb1cb75bd18a124f3264c5a2359df2146b7bfa53842f1732d588036c2f"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/selection_lead3.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/selection_lead3.csv",
+    "sha256": "7623400e018aaf207e190780ed85db5ffadec93c097a98927309de845c367d62"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/selection_lead4.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/selection_lead4.csv",
+    "sha256": "31e740896ca743a39db70c42f515323b8b52cd9d673d7b45e7b29c0f7c8b567e"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/selection_lead5.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/selection_lead5.csv",
+    "sha256": "4469b01ee45241a9755e6428d5647844d4f83f87cdd8b21e28772790fc095813"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/selection_lead6.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/selection_lead6.csv",
+    "sha256": "dfe83cc923bcdd8dc1d266a47fdc5bbc93b0feb5d786ecf65de0002fd785c2b3"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/selection_lead7.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/selection_lead7.csv",
+    "sha256": "526787eafe4679bb35d97991afa6f7d7236e9b704b307758fcaf76c4dab08b65"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/selection_lead8.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/selection_lead8.csv",
+    "sha256": "a0039b640d6f5ecdc6da665d7ff15a3b4081f17d68b9a3b691c20a101edb87ca"
+  },
+  {
+    "file": "supplementary/matched_s5/source_data/summary.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/source_data/summary.csv",
+    "sha256": "1233dd98e57567c3d9de9c41433f85b1d90d1cb1a7b03a9ee54bf3ed8d2d9045"
+  },
+  {
+    "file": "supplementary/matched_s5/statistics.json",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/matched_s5/statistics.json",
+    "sha256": "31bea79f803041944b32adb71e89ceaed671a45d16e6340d6ae8cb87a9a579cd"
+  },
+  {
+    "file": "supplementary/package_si.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/package_si.py",
+    "sha256": "540f5e8cc76415424050c05032a0164155de943195cc356d16334dd13ed1a3c6"
+  },
+  {
+    "file": "supplementary/qa/centering.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/qa/centering.csv",
+    "sha256": "3a230d4e7b16b29581808d51fbdb2f941535956213f1d888c29ecacb10cc6d10"
+  },
+  {
+    "file": "supplementary/qa/layout_comparison.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/qa/layout_comparison.csv",
+    "sha256": "56a5786c18257503591297d75ee7a4d4c7341a70a74ebd2c0dd4ab3708152e94"
+  },
+  {
+    "file": "supplementary/release_manifest.json",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/release_manifest.json",
+    "sha256": "41785b7f81376f1775ea0813e05fcc23437842620ce222c4592abc63120f7b22"
+  },
+  {
+    "file": "supplementary/revise_si.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/revise_si.py",
+    "sha256": "87d03fa7366b33b590142f74a4d703b7022a5c96d54993c4d9f7de88ca4d837a"
+  },
+  {
+    "file": "supplementary/source_data/BRIDGE/Figure4b_paired_error_fields.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/BRIDGE/Figure4b_paired_error_fields.nc",
+    "sha256": "6b2088dbd4399ce42806d1ebf700c14bc987f7cb8517da50d41196cb373c1aa2"
+  },
+  {
+    "file": "supplementary/source_data/CURRENT4/Figure4a_local_shortfall.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/CURRENT4/Figure4a_local_shortfall.nc",
+    "sha256": "1b0980d0d303e9e5050432852cd19217a402655a7ca8477aa480d6bfc2fadcd0"
+  },
+  {
+    "file": "supplementary/source_data/CURRENT4/association_weighted_local_shortfall.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/CURRENT4/association_weighted_local_shortfall.csv",
+    "sha256": "92039597160163b105c4e5a8bb03016734bf2f44fd1ccde87af01ee97b7eae6e"
+  },
+  {
+    "file": "supplementary/source_data/CURRENT4/global_expected_shortfall.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/CURRENT4/global_expected_shortfall.nc",
+    "sha256": "904b97a45f39375f9b4dff25d95eabf6e08b99df7fa8fac9159b176ff56e8081"
+  },
+  {
+    "file": "supplementary/source_data/CURRENT4/regional_map_shortfall.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/CURRENT4/regional_map_shortfall.csv",
+    "sha256": "2b3cf377e284d525fd13225a68593bbbc10c6a06f606caec139bdb3a21efd09b"
+  },
+  {
+    "file": "supplementary/source_data/F1/Figure1_monthly_t1_t9.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F1/Figure1_monthly_t1_t9.csv",
+    "sha256": "7821b0c602eb830b076f5920302effdbe39134c6651b9fa9046a5af198041c90"
+  },
+  {
+    "file": "supplementary/source_data/F1/Figure1_source_events.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F1/Figure1_source_events.csv",
+    "sha256": "e09be55d40af257734e404e2fe1f92077a8ed6bac8a2b105cc5456aacbbc088a"
+  },
+  {
+    "file": "supplementary/source_data/F2/pattern_correlations.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F2/pattern_correlations.csv",
+    "sha256": "4ff01722b78818d98b87a40fb5808249bc2d40c078ceca9b1bb42e8796fb6246"
+  },
+  {
+    "file": "supplementary/source_data/F2/relative_loss_by_lead.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F2/relative_loss_by_lead.csv",
+    "sha256": "03b697d4f4d1ab1d3a83982df3301108e08e76975f0a34ac767bd331abe59067"
+  },
+  {
+    "file": "supplementary/source_data/F3/Figure3_Z200_fields.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F3/Figure3_Z200_fields.nc",
+    "sha256": "b055dd8f4014fdce52d1678e0bef7a88ca49354279f2c3ac2e3f6757da519265"
+  },
+  {
+    "file": "supplementary/source_data/F3/Figure3b_all_samples.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F3/Figure3b_all_samples.csv",
+    "sha256": "a55ce7b44016f3b1f98634130a313750ddc20313d06ba2034be9b552e37e7c5b"
+  },
+  {
+    "file": "supplementary/source_data/F3/Figure3cd_transects.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F3/Figure3cd_transects.csv",
+    "sha256": "a16ef11940c913d7d42047984ccca12d009b6f8bc20adbaa3788630aeca7c931"
+  },
+  {
+    "file": "supplementary/source_data/F3/SI_climatology_distance_and_verification.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F3/SI_climatology_distance_and_verification.csv",
+    "sha256": "3a5099486aa77d3c3cada087b21ff7150f62787a53cac1dc5ebf22ec49551363"
+  },
+  {
+    "file": "supplementary/source_data/F3/SI_event_omission.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F3/SI_event_omission.csv",
+    "sha256": "294679562625b1f683c8d1a60c05f5ea7ee8f07eb7dc84d819161ab4d3224b2b"
+  },
+  {
+    "file": "supplementary/source_data/F3/SI_global_individual_el_nino_correlations.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F3/SI_global_individual_el_nino_correlations.csv",
+    "sha256": "400418ddd78719aef69347efa7beb066085b5aadd7f795ae3eb8ac08143fb12a"
+  },
+  {
+    "file": "supplementary/source_data/F3/SI_regional_skill_change.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F3/SI_regional_skill_change.csv",
+    "sha256": "6499863dbb22359cfaafc07aa34ac0821efc008d156bd5c3db043e48581d2013"
+  },
+  {
+    "file": "supplementary/source_data/F4/Figure4_observed_association_samples.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F4/Figure4_observed_association_samples.csv",
+    "sha256": "c554703d1a2f2659665f06e2e0aa95a83471621a573714c3cd69a1f1b6373346"
+  },
+  {
+    "file": "supplementary/source_data/F4/SI_observed_local_process_hierarchy.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F4/SI_observed_local_process_hierarchy.csv",
+    "sha256": "9739c6fefd38de1b07b6c01af69f79c3c349178bbaeaa675154677baf07be6c1"
+  },
+  {
+    "file": "supplementary/source_data/F4/association_weighted_AUC_allocation.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F4/association_weighted_AUC_allocation.csv",
+    "sha256": "f4dfb7c0d69fdf2fa4724c661281a088fd9fcb12a9d6aaa85944f359e9621d7d"
+  },
+  {
+    "file": "supplementary/source_data/F4/regional_AUC_accounting.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F4/regional_AUC_accounting.csv",
+    "sha256": "a7aeca510dfb8643c5f5a6f7433631d31aac48e676179e374c36785aca05babb"
+  },
+  {
+    "file": "supplementary/source_data/F4/sample_AUC_profiles.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/F4/sample_AUC_profiles.csv",
+    "sha256": "ba5dbc54385cf9fb1c8108cb1e06f430f737d0587f9856ab3d42fa0120d79fea"
+  },
+  {
+    "file": "supplementary/source_data/OLD/Supplementary_Figure1.md",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/OLD/Supplementary_Figure1.md",
+    "sha256": "8f801d2f9b93591444897daa0d70513498a34580fdbd2de6c175968ac81980e1"
+  },
+  {
+    "file": "supplementary/source_data/OLD/Supplementary_Figure1_monthly_t1_t9.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/OLD/Supplementary_Figure1_monthly_t1_t9.csv",
+    "sha256": "5ef36499985ce89ddd22ff9a86e17fe6b52c3661c2e737fbf181adb8d69d742b"
+  },
+  {
+    "file": "supplementary/source_data/OLD/Supplementary_Figure1_source_events.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/OLD/Supplementary_Figure1_source_events.csv",
+    "sha256": "9a17081ccf85c8cede431796cc039286fc088793dbe17a0dd64f8127e49eb319"
+  },
+  {
+    "file": "supplementary/source_data/SPATIAL/canonical_relative_changes.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/SPATIAL/canonical_relative_changes.nc",
+    "sha256": "dc2832871f676e299442d89b93abcbdd91fb3e45698429b8e057944048349fe6"
+  },
+  {
+    "file": "supplementary/source_data/SPATIAL/regional_changes.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/SPATIAL/regional_changes.csv",
+    "sha256": "efb48564ade8686d9a53c50530cc3bda5e6e856f3eb061890ae64cd4f2b43d04"
+  },
+  {
+    "file": "supplementary/source_data/SPATIAL/regional_changes_by_lead.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/SPATIAL/regional_changes_by_lead.csv",
+    "sha256": "15b60570f48f6ab31fc69485b2a426ea3a0385ead1310fe18ef4a9ab2a0f182e"
+  },
+  {
+    "file": "supplementary/source_data/SPATIAL10/canonical_relative_changes.nc",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/SPATIAL10/canonical_relative_changes.nc",
+    "sha256": "3f9772954600ebc55d2e4007cac94d634f46e95714f0be249e301c7bedd7bf23"
+  },
+  {
+    "file": "supplementary/source_data/SPATIAL10/coverage_comparison.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/SPATIAL10/coverage_comparison.csv",
+    "sha256": "abfed8a5be6f35fd44f7a65ea2016b562443cf425c190d302bcef15229af8754"
+  },
+  {
+    "file": "supplementary/source_data/SPATIAL10/regional_changes.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/SPATIAL10/regional_changes.csv",
+    "sha256": "f115d37504aec186ddadcea0fca4b0a24ea9d1d0a1750bc6de1a1d10b0b5371d"
+  },
+  {
+    "file": "supplementary/source_data/SPATIAL10/regional_changes_by_lead.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/SPATIAL10/regional_changes_by_lead.csv",
+    "sha256": "bc5715303b3dd06bb29d038697c9c6df213ba9ece2f4b6fa592086b0017900c2"
+  },
+  {
+    "file": "supplementary/source_data/SPATIAL10/regional_sensitivity.csv",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_data/SPATIAL10/regional_sensitivity.csv",
+    "sha256": "aa0d1868eb8e7f74887aae8eeb9d270c4614b4b246fd15008a20f3255e887788"
+  },
+  {
+    "file": "supplementary/source_manifest.json",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/source_manifest.json",
+    "sha256": "fbb18738eae2c47e7a5047712b61011a55a6df44ba05270da73d9f949ba4fd07"
+  },
+  {
+    "file": "supplementary/submission_captions.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/submission_captions.py",
+    "sha256": "ba919301b4a7c1dc563ecc1b58ba8185c1148402dcf724b635c9808d84e95492"
+  },
+  {
+    "file": "supplementary/validate_release.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Supplementary_Figures_NCC_20261111_v6/validate_release.py",
+    "sha256": "cf15621e227abd3824ea0fecc899ff0598b019c4dc4fd7658d621f47345009b0"
+  },
+  {
+    "file": "calculation_provenance/source_diagnostics/build_figure.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/build_figure.py",
+    "sha256": "002da530c11f8a9c470d6cb2eb0ae2eef2f70b9c311ba5034e0f0979dc57f0a8"
+  },
+  {
+    "file": "calculation_provenance/source_diagnostics/calculate.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/calculate.py",
+    "sha256": "e1bffe132f29eca2eee49a53ee2b7edb24a21d7a0a9b8bdc41345e441f7912d7"
+  },
+  {
+    "file": "calculation_provenance/source_diagnostics/publish.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/publish.py",
+    "sha256": "7d4b0fc7d089e60fbcee4f53b3fe4e5f80b13124776f2f745e56e7ba52f27387"
+  },
+  {
+    "file": "calculation_provenance/source_diagnostics/validate.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/validate.py",
+    "sha256": "5042e2a862e1c52dc28bb627e5e8669718e589f500e077ca92837df2dbeb9d88"
+  },
+  {
+    "file": "calculation_provenance/circulation/calculate.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/calculate.py",
+    "sha256": "4f2f9444231496ce6164410ee6487039b1dd091926c956ee713d48b1b1b5dc80"
+  },
+  {
+    "file": "calculation_provenance/circulation/calculate_anomaly_correlations.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/calculate_anomaly_correlations.py",
+    "sha256": "9e81d715f78ede3824bd48b81adad7c17f3b1519077079301532c761e00a2662"
+  },
+  {
+    "file": "calculation_provenance/circulation/calculate_band_correlations.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/calculate_band_correlations.py",
+    "sha256": "016caafe5365badb734628a3d390123930be140e95b859ada906c52c21d67a14"
+  },
+  {
+    "file": "calculation_provenance/circulation/calculate_global_anomaly_correlations.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/calculate_global_anomaly_correlations.py",
+    "sha256": "c3fe7f7dfe38f0e099220a326e0b0fa64b324685d76eef022e411344bfed48fa"
+  },
+  {
+    "file": "calculation_provenance/circulation/calculate_other_el_nino.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/calculate_other_el_nino.py",
+    "sha256": "a87dcf3fcfa144a32bdf4b557572b2649b467424a8255f534c97e9ac3731f26a"
+  },
+  {
+    "file": "calculation_provenance/circulation/calculate_other_historical.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/calculate_other_historical.py",
+    "sha256": "42d4f74dbf986588a4aa686a486955c29a9e4fa04f6533674a678a147481e771"
+  },
+  {
+    "file": "calculation_provenance/circulation/dependencies/k02_calculate_teleconnection.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/dependencies/k02_calculate_teleconnection.py",
+    "sha256": "9aea992a2f994eee7424d625b89aa0a3313c9d294a96b55ffb702ec542a6589d"
+  },
+  {
+    "file": "calculation_provenance/circulation/plot_figure3.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/plot_figure3.py",
+    "sha256": "d3918b4534810165b245022a82841f4948bc576314d6e5efd42f2b4d77b4fe90"
+  },
+  {
+    "file": "calculation_provenance/circulation/prepare_diagnostics.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/prepare_diagnostics.py",
+    "sha256": "5c4991c70f9934cf86467d5be49e34a8c4725d73bd6a23b5e806b974f95a8305"
+  },
+  {
+    "file": "calculation_provenance/circulation/publish.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/publish.py",
+    "sha256": "e20ffea369328bf11114871eb1038f184c13748dcab64aa7bff4b50c06993da6"
+  },
+  {
+    "file": "calculation_provenance/circulation/setup_revision.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/setup_revision.py",
+    "sha256": "af395cb2e6b177404d5496ba3238a7dc43f3c77a3e5c9966cfc90530e0f029fa"
+  },
+  {
+    "file": "calculation_provenance/circulation/validate_revision.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/validate_revision.py",
+    "sha256": "a4d8c8b95ca84749be432b0464b0b9ed0bb6c467fa966c41513e2e6603e2a48e"
+  },
+  {
+    "file": "calculation_provenance/circulation/validate_v19_archived.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/validate_v19_archived.py",
+    "sha256": "dc4176a82b994702b48552bc3e408055288812c95d4339671d68f83ded00111a"
+  },
+  {
+    "file": "calculation_provenance/local_hierarchy/figure_style.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_full_hierarchy_percent_20261104_v11/figure_style.py",
+    "sha256": "5ed3364a24a8b91189b3d090aa780730cba8c4df127d4a734ac878d195b21f70"
+  },
+  {
+    "file": "calculation_provenance/local_hierarchy/plot_figure.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_full_hierarchy_percent_20261104_v11/plot_figure.py",
+    "sha256": "4f03f15e3607ae3704d53655fb064abf9d80410d7e7e471c47af3372bb6b22da"
+  },
+  {
+    "file": "calculation_provenance/local_hierarchy/prepare.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_full_hierarchy_percent_20261104_v11/prepare.py",
+    "sha256": "1ca4776f7287039881425b6402434c3744a7765bf7ae1c487738b12d8fb4cc8a"
+  },
+  {
+    "file": "calculation_provenance/local_hierarchy/publish.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_full_hierarchy_percent_20261104_v11/publish.py",
+    "sha256": "c840c2fd724f9f56a5f3e1900c4786f575d8827629e8f8c053d8a4fabc0b8be2"
+  },
+  {
+    "file": "calculation_provenance/local_hierarchy/reference_code/prepare_v8.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_full_hierarchy_percent_20261104_v11/reference_code/prepare_v8.py",
+    "sha256": "1aef9185884acd4dc8bee0f090d420403e2da29e586462d5d9a736db908407ac"
+  },
+  {
+    "file": "calculation_provenance/local_hierarchy/validate.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_full_hierarchy_percent_20261104_v11/validate.py",
+    "sha256": "9de49a1c88d2144e9b9f267eb27509079bbbb29d3a39970388aa9e527a738d07"
+  },
+  {
+    "file": "calculation_provenance/local_regions/build_regional_associations.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_latitude_sync_20261111_v23/build_regional_associations.py",
+    "sha256": "e73759a018da6f393de6dee9e6e9fca951b107ac90f0be644d1831364accd2c4"
+  },
+  {
+    "file": "calculation_provenance/local_regions/figure_style.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_latitude_sync_20261111_v23/figure_style.py",
+    "sha256": "5ed3364a24a8b91189b3d090aa780730cba8c4df127d4a734ac878d195b21f70"
+  },
+  {
+    "file": "calculation_provenance/local_regions/local_observation.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_latitude_sync_20261111_v23/local_observation.py",
+    "sha256": "c91836cac4803d354ab89897aae63178ba51b2e082aabd442d685d16610e24f0"
+  },
+  {
+    "file": "calculation_provenance/local_regions/plot_figure.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_latitude_sync_20261111_v23/plot_figure.py",
+    "sha256": "b7ac9dde2db0e2fcb5c2778afe4e769cd698677f10da015226dc200d26cf686a"
+  },
+  {
+    "file": "calculation_provenance/local_regions/prepare_allocation.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_latitude_sync_20261111_v23/prepare_allocation.py",
+    "sha256": "d1a7b3f83cf7630a5bf07425321328b513a9e8358d0525f14ce4a5dffa5c0d66"
+  },
+  {
+    "file": "calculation_provenance/local_regions/recompute_circulation.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_latitude_sync_20261111_v23/recompute_circulation.py",
+    "sha256": "c5d261a152d8d3e39b599eefe7205b0305e437a8e9a55eb757b38fa5d94ab850"
+  },
+  {
+    "file": "calculation_provenance/local_regions/reference_code/prepare_v8.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_latitude_sync_20261111_v23/reference_code/prepare_v8.py",
+    "sha256": "1aef9185884acd4dc8bee0f090d420403e2da29e586462d5d9a736db908407ac"
+  },
+  {
+    "file": "calculation_provenance/local_regions/regions.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_latitude_sync_20261111_v23/regions.py",
+    "sha256": "9662effc472cb4885c8618bb0db513acd6cb5137b1e07305950a4b79521ec7f3"
+  },
+  {
+    "file": "calculation_provenance/local_auc/calculate.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure1_neighbourhood_skill_20261111_v10/calculate.py",
+    "sha256": "00c3884ebcffa21084a8dff8fae49e0dc21144df4d30ab553e7f9e3adf572383"
+  },
+  {
+    "file": "calculation_provenance/local_auc/finalize.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure1_neighbourhood_skill_20261111_v10/finalize.py",
+    "sha256": "dc3881f69d6d688e9af59f26180c2a77f9b3bd9de1fb16bdd356a140cc82b224"
+  },
+  {
+    "file": "calculation_provenance/local_auc/package.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure1_neighbourhood_skill_20261111_v10/package.py",
+    "sha256": "93d445091c2ba562ce12fa7b018bd89a8a5014da3599fd4db701161e2690130a"
+  },
+  {
+    "file": "calculation_provenance/local_auc/render.py",
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure1_neighbourhood_skill_20261111_v10/render.py",
+    "sha256": "b50ac7d69656c6ebfd722d63aa08996eef7be1356c90b0390588d3ded1d842a8"
+  },
+  {
+    "file": "calculation_provenance/expected_auc/calculate.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1_global_expected_benchmark_20261111_v11/calculate.py",
+    "sha256": "1c8d5e95d03e8104843cd0ecb2db651d69be5cd458fb8d0dc761105701748408"
+  },
+  {
+    "file": "calculation_provenance/expected_auc/render.py",
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1_global_expected_benchmark_20261111_v11/render.py",
+    "sha256": "6920cca87ebf5ee6c4021bbc69bc4aa719577cbec50e074a0e92d6dcaa4cb5e0"
+  }
+]

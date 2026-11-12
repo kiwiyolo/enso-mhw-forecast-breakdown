@@ -1,0 +1,397 @@
+[
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Design_20261029_v7/source_data/Figure1a_regression_prediction_band.csv",
+    "frozen": "source_data/Fig1/Figure1a_regression_prediction_band.csv",
+    "sha256": "d7f6ae24b409b53f932b6b5f590082179357f2b19ec5b924e5cac5c78c61967b"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Design_20261029_v7/source_data/Figure1_monthly_t1_t9.csv",
+    "frozen": "source_data/Fig1/Figure1_monthly_t1_t9.csv",
+    "sha256": "7821b0c602eb830b076f5920302effdbe39134c6651b9fa9046a5af198041c90"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Design_20261029_v7/source_data/Figure1_event_uncertainty.csv",
+    "frozen": "source_data/Fig1/Figure1_event_uncertainty.csv",
+    "sha256": "4f5d944f0f8af58ec26f7f81d77aa90c6b288d76259e60a6ac964a27f75a6f9b"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Design_20261029_v7/source_data/Figure1_statistics.json",
+    "frozen": "source_data/Fig1/Figure1_statistics.json",
+    "sha256": "e1a58fc4d1137e81c9491f2d0e77ad1397307e141a2b59e3c54bdccfb807d75f"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Design_20261029_v7/source_data/Figure1_source_events.csv",
+    "frozen": "source_data/Fig1/Figure1_source_events.csv",
+    "sha256": "e09be55d40af257734e404e2fe1f92077a8ed6bac8a2b105cc5456aacbbc088a"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/source_data/input_lineage.json",
+    "frozen": "source_data/Fig2/input_lineage.json",
+    "sha256": "b680a61fec7110881d5e29e7f2872d215936a21349b282960091327d3fd9de75"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/source_data/plotted_bars.json",
+    "frozen": "source_data/Fig2/plotted_bars.json",
+    "sha256": "289752a44b9617015275d084214c5ac9d7c5294f01ca0c513c1b30e1a4e5e23a"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/source_data/historical_reference_sensitivity.csv",
+    "frozen": "source_data/Fig2/historical_reference_sensitivity.csv",
+    "sha256": "46ac61b05f75f776edb0f81093ed9550f96a607b351d608172527b430d5760a2"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/source_data/plotted_reference_points.csv",
+    "frozen": "source_data/Fig2/plotted_reference_points.csv",
+    "sha256": "e26f06370ad96b347b6a73376e9e26850b4a86637faa6d3d19da73a7d0826b24"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/source_data/relative_loss_by_lead.csv",
+    "frozen": "source_data/Fig2/relative_loss_by_lead.csv",
+    "sha256": "03b697d4f4d1ab1d3a83982df3301108e08e76975f0a34ac767bd331abe59067"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/source_data/plotted_b_curves.csv",
+    "frozen": "source_data/Fig2/plotted_b_curves.csv",
+    "sha256": "4fb89009d9ddd8dfb7d22cb9414a82411d96512edb49cc5d7e72e3432cdb572d"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/source_data/pattern_correlations.csv",
+    "frozen": "source_data/Fig2/pattern_correlations.csv",
+    "sha256": "4ff01722b78818d98b87a40fb5808249bc2d40c078ceca9b1bb42e8796fb6246"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/source_data/relative_loss_summary.csv",
+    "frozen": "source_data/Fig2/relative_loss_summary.csv",
+    "sha256": "bce665087512ba926767c387ec2c296c34380e2fbb097e2a8388d57befc5e1a9"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/SI_anomaly_amplitude.csv",
+    "frozen": "source_data/Fig3/SI_anomaly_amplitude.csv",
+    "sha256": "d46500bdbd85818cb00048af419747b41ae76770e2d0154b4030d2f45cda5e30"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/coordinate_audit_precipitation_GFDL-SPEAR.csv",
+    "frozen": "source_data/Fig3/coordinate_audit_precipitation_GFDL-SPEAR.csv",
+    "sha256": "9c9587099a8caa42e4b7f731bffcea3e08be7c74d36ab4dd3ae5fa983507a032"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/coordinate_audit_precipitation_NASA-GEOSS2S.csv",
+    "frozen": "source_data/Fig3/coordinate_audit_precipitation_NASA-GEOSS2S.csv",
+    "sha256": "8398bdacabb88a7e7741e82306d6b89065f2c98b8ee92912c5573819aac22286"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3b_all_samples.csv",
+    "frozen": "source_data/Fig3/Figure3b_all_samples.csv",
+    "sha256": "a55ce7b44016f3b1f98634130a313750ddc20313d06ba2034be9b552e37e7c5b"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_el_nino_reference_amplitude.csv",
+    "frozen": "source_data/Fig3/Figure3cd_el_nino_reference_amplitude.csv",
+    "sha256": "97e2ef92e2202b9b7a085f14900bbb5689988f5d05d6acf72c03dffc38c5599d"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_anomaly_correlations.csv",
+    "frozen": "source_data/Fig3/Figure3cd_anomaly_correlations.csv",
+    "sha256": "a762e0a23393175ebcfe71060de6c5a0db5f202f9305f32212bfbf0be55492b1"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_other_el_nino_fields.nc",
+    "frozen": "source_data/Fig3/Figure3cd_other_el_nino_fields.nc",
+    "sha256": "3bef5457692eb3c176d86a5c22daea8e660cfb043ca2ffdda4a7fedb09b29f3a"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_transects.csv",
+    "frozen": "source_data/Fig3/Figure3cd_transects.csv",
+    "sha256": "a16ef11940c913d7d42047984ccca12d009b6f8bc20adbaa3788630aeca7c931"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3c_global_anomaly_correlations.csv",
+    "frozen": "source_data/Fig3/Figure3c_global_anomaly_correlations.csv",
+    "sha256": "09ce9214f294d008f21af79dac165b60bccb659cdc2212e378618f2fb51f92d6"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3_precipitation_fields.nc",
+    "frozen": "source_data/Fig3/Figure3_precipitation_fields.nc",
+    "sha256": "88db03701f980bf959b4ba9ea985192c8ab330f5f139fa15e262a533713350a0"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3_Z200_fields.nc",
+    "frozen": "source_data/Fig3/Figure3_Z200_fields.nc",
+    "sha256": "b055dd8f4014fdce52d1678e0bef7a88ca49354279f2c3ac2e3f6757da519265"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/historical_ERA5_source_audit.csv",
+    "frozen": "source_data/Fig3/historical_ERA5_source_audit.csv",
+    "sha256": "fb2e5513bda58cf7a47c62e1d32088b62651c248f3e2c71b1c23dcf8c32d09b5"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_historical_comparison_fields.nc",
+    "frozen": "source_data/Fig3/Figure3cd_historical_comparison_fields.nc",
+    "sha256": "244a5d5b76d6a528633adc79218a54deeb45fd0030c937cb0aa558bcf4b26b9c"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/SI_global_individual_el_nino_correlations.csv",
+    "frozen": "source_data/Fig3/SI_global_individual_el_nino_correlations.csv",
+    "sha256": "400418ddd78719aef69347efa7beb066085b5aadd7f795ae3eb8ac08143fb12a"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/other_el_nino_event_selection.csv",
+    "frozen": "source_data/Fig3/other_el_nino_event_selection.csv",
+    "sha256": "3a6340c0af5bc155894c687a9f4bf971a2442b6a0f4646bed716493c03e9f16e"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3_geostrophic_and_height_fields.nc",
+    "frozen": "source_data/Fig3/Figure3_geostrophic_and_height_fields.nc",
+    "sha256": "b76d2b532c4a30ef3c563ed058e63b96da063957adaf21dfa4ab1013e671289d"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3b_event_bootstrap_envelope.csv",
+    "frozen": "source_data/Fig3/Figure3b_event_bootstrap_envelope.csv",
+    "sha256": "0c5828507077cdb28838c6aa0fb7a49737158def022fc41bb5c5db6568340918"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_historical_monthly_Z200.nc",
+    "frozen": "source_data/Fig3/Figure3cd_historical_monthly_Z200.nc",
+    "sha256": "26357fadaddc17756888af952c87110709f73de4a522f5abf9489a063351567e"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/SI_climatology_distance_and_verification.csv",
+    "frozen": "source_data/Fig3/SI_climatology_distance_and_verification.csv",
+    "sha256": "3a5099486aa77d3c3cada087b21ff7150f62787a53cac1dc5ebf22ec49551363"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/historical_winter_selection.csv",
+    "frozen": "source_data/Fig3/historical_winter_selection.csv",
+    "sha256": "6750ecc28253c47a2dde0f887a3dedb272334be69834cff93e789da01d847943"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/coordinate_audit_z200_NASA-GEOSS2S.csv",
+    "frozen": "source_data/Fig3/coordinate_audit_z200_NASA-GEOSS2S.csv",
+    "sha256": "c1464c2ecc12720bec05feada668522a6c7773ea90da581371b43072e9c70dfb"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/ERA5_source_audit.csv",
+    "frozen": "source_data/Fig3/ERA5_source_audit.csv",
+    "sha256": "7fb0293f7e64d078de656b453a596ec5a9ba20ef0de6209194208a3a4bf3df0f"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/inherited_ERA5_source_audit_v3.csv",
+    "frozen": "source_data/Fig3/inherited_ERA5_source_audit_v3.csv",
+    "sha256": "cba8c5ca1e3d9c91f64756de5724183efca13c61cb66b5a6acb4f8a0e9c2667e"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_band_masks.nc",
+    "frozen": "source_data/Fig3/Figure3cd_band_masks.nc",
+    "sha256": "2223f8b5c515ddd6c0a7b96991c8cc7fb5ba54c57a2bfe88a3fbbd559145d3d2"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/SI_five_state_pairwise_correlations.csv",
+    "frozen": "source_data/Fig3/SI_five_state_pairwise_correlations.csv",
+    "sha256": "1e3dc2c243d733cd7f1fc55c560d23c5e77f97d35941be67eeb7addf3a1e3d57"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/coordinate_audit_z200_GFDL-SPEAR.csv",
+    "frozen": "source_data/Fig3/coordinate_audit_z200_GFDL-SPEAR.csv",
+    "sha256": "09af68f4cea047fcc9f66bfc849b757bc79f1a60a285f9273a1aded137b02dbe"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/region_boundary_change.csv",
+    "frozen": "source_data/Fig3/region_boundary_change.csv",
+    "sha256": "4599b779c6b3cf8deb298bf43f3e627baef3b4c9b8a7f84bc79ff204d0a85497"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/SI_individual_historical_winter_correlations.csv",
+    "frozen": "source_data/Fig3/SI_individual_historical_winter_correlations.csv",
+    "sha256": "993e875fe89a722ce8c7ebb4d3c5d92b3033f45d58679be30d188dedbfc0fab8"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/coordinate_audit_z200_COLA-RSMAS-CCSM4.csv",
+    "frozen": "source_data/Fig3/coordinate_audit_z200_COLA-RSMAS-CCSM4.csv",
+    "sha256": "51b18324f1c76f6b794a15bc21694e18cd770aa90adbe16b7efec432c3ff53d2"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_el_nino_anomaly_correlations.csv",
+    "frozen": "source_data/Fig3/Figure3cd_el_nino_anomaly_correlations.csv",
+    "sha256": "52dfc917810e9ee4577cef140e9caee6642f3ca74de93e5a2c3333ef477ed2b4"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/SI_event_omission.csv",
+    "frozen": "source_data/Fig3/SI_event_omission.csv",
+    "sha256": "294679562625b1f683c8d1a60c05f5ea7ee8f07eb7dc84d819161ab4d3224b2b"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/SI_prespecified_error_concentration.csv",
+    "frozen": "source_data/Fig3/SI_prespecified_error_concentration.csv",
+    "sha256": "c4327acd337c148be3306ae08c279f7ef4c85f3ecf1b8051b001eee871c3790a"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/coordinate_audit_precipitation_COLA-RSMAS-CCSM4.csv",
+    "frozen": "source_data/Fig3/coordinate_audit_precipitation_COLA-RSMAS-CCSM4.csv",
+    "sha256": "fb0178736d3f65b30411e97df933c82c767320a24080f692a92dc8b8c64f2013"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/SI_canonical_pattern_correspondence.csv",
+    "frozen": "source_data/Fig3/SI_canonical_pattern_correspondence.csv",
+    "sha256": "1d306346b04a3407421a9e0eca0f71acdf2f3a1922cb8147d101e75968d5eae4"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_other_historical_fields.nc",
+    "frozen": "source_data/Fig3/Figure3cd_other_historical_fields.nc",
+    "sha256": "367f87331c6c70983ee070a8b9ed77170f4b8c0c893f24c58e183059d23b64dc"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/seven_ocean_regions.nc",
+    "frozen": "source_data/Fig3/seven_ocean_regions.nc",
+    "sha256": "4152b61a4cc5ceef5b88e16f85257e38f7b5277d0550cc3149b6e7bf457a1cb9"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_el_nino_comparison_fields.nc",
+    "frozen": "source_data/Fig3/Figure3cd_el_nino_comparison_fields.nc",
+    "sha256": "30c8a2dc11201ebc156f9c0a701f8308686b76b5a70a3528dbe001e8162dffb5"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_historical_reference_amplitude.csv",
+    "frozen": "source_data/Fig3/Figure3cd_historical_reference_amplitude.csv",
+    "sha256": "01db2f064a5705885fbc222c80a1f427678c007b64e68a02ccf45171484d22c5"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/SI_event_bootstrap_fits.csv",
+    "frozen": "source_data/Fig3/SI_event_bootstrap_fits.csv",
+    "sha256": "190240906ee4cfd41682ab89d54544ada50ed0d4d5d0640a43dc517c4708ec2f"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3c_global_anomaly_amplitudes.csv",
+    "frozen": "source_data/Fig3/Figure3c_global_anomaly_amplitudes.csv",
+    "sha256": "152bbde966729bdc047b85e5e6c78900ba0f4c5758949262b4398dcc14ff3e2d"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_band_correlations.csv",
+    "frozen": "source_data/Fig3/Figure3cd_band_correlations.csv",
+    "sha256": "cf82be39bebe8f719616d76a49285041974e4174c327669b56023e01ef976cd2"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_anomaly_fields.nc",
+    "frozen": "source_data/Fig3/Figure3cd_anomaly_fields.nc",
+    "sha256": "aac1c09f116733b1b693d205ad38498965171de01a39219592d46f2e943e6ee8"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/SI_regional_skill_change.csv",
+    "frozen": "source_data/Fig3/SI_regional_skill_change.csv",
+    "sha256": "6499863dbb22359cfaafc07aa34ac0821efc008d156bd5c3db043e48581d2013"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3c_global_domain.nc",
+    "frozen": "source_data/Fig3/Figure3c_global_domain.nc",
+    "sha256": "15859b91a7a483a8a6789b4d55c6efdeb6608fd9703cf3a3e0c3c78338c03a2c"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_transect_statistics.csv",
+    "frozen": "source_data/Fig3/Figure3cd_transect_statistics.csv",
+    "sha256": "388877395804af6fa16200b411eda67710e7c27b26f6b48791a87ff92fee6f11"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure3cd_historical_anomaly_correlations.csv",
+    "frozen": "source_data/Fig3/Figure3cd_historical_anomaly_correlations.csv",
+    "sha256": "8c5b85eb689b337802c07d08ed9b653ab18aa6aff5169f9cbc177042952cca1f"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/SI_individual_other_el_nino_correlations.csv",
+    "frozen": "source_data/Fig3/SI_individual_other_el_nino_correlations.csv",
+    "sha256": "17da8ef5b38dc37a73407872eb032c9612541dbe10779cdb85db2b0e6720d94d"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/source_data/Figure1_source_events.csv",
+    "frozen": "source_data/Fig3/Figure1_source_events.csv",
+    "sha256": "e09be55d40af257734e404e2fe1f92077a8ed6bac8a2b105cc5456aacbbc088a"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Revised_20260921/Figure3/Figure3_source_process_maps_t1_t9.nc",
+    "frozen": "source_data/Fig2/Figure3_source_process_maps_t1_t9.nc",
+    "sha256": "78cb5eb9ff608c26454db2deb3afc08da177052b983ff92a3824953b650a47b6"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Revised_20260921/Figure3/Figure3_model_sign_agreement.nc",
+    "frozen": "source_data/Fig2/Figure3_model_sign_agreement.nc",
+    "sha256": "2dd67bb454916a4308a3bae64806dd13f56af8d683a5c3dcf3fb2c659f241e14"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Design_20261029_v7/Captions.md",
+    "frozen": "provenance/original_Figure1_caption.md",
+    "sha256": "a155f499684ece8fc22ffbc9898766eec1265669d015e0665f26135170963bd3"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Design_20261029_v7/plot_production.py",
+    "frozen": "provenance/original_Figure1_plot.py",
+    "sha256": "02d3b7e0506c383b7fd6b545f1fa13ac811b86a72fc4617b2406e42e184af6c2"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/Figure2.md",
+    "frozen": "provenance/original_Figure2.md",
+    "sha256": "95f7487fcae3e2c956412c700d9a54467b758b4d387be92ebb58fa2df4b61e86"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/build_figure.py",
+    "frozen": "provenance/original_Figure2_plot.py",
+    "sha256": "002da530c11f8a9c470d6cb2eb0ae2eef2f70b9c311ba5034e0f0979dc57f0a8"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/Figure3.md",
+    "frozen": "provenance/original_Figure3.md",
+    "sha256": "1f07cc50e18232639601ae436477d9ef6fd1b2ef246721f12d69ebc46ff87f65"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/plot_figure3.py",
+    "frozen": "provenance/original_Figure3_plot.py",
+    "sha256": "d3918b4534810165b245022a82841f4948bc576314d6e5efd42f2b4d77b4fe90"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/contract.json",
+    "frozen": "provenance/original_Figure3_contract.json",
+    "sha256": "31356f7194c5596b9285cb1d61ac39b5b40d1f42c5dba71b2637ca067fbbffea"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/statistics.json",
+    "frozen": "provenance/original_Figure3_statistics.json",
+    "sha256": "a387926bfee41a4a65ab1946410401e5e8071034459baff247864cc732a86b6a"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Design_20261029_v7/figures/Figure1.pdf",
+    "frozen": "provenance/original_Figure1.pdf",
+    "sha256": "a7906d90f3f28ef77f0770df552cd8adb3735105098e86e3ca7132cab9242a15"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure2_relative_atmospheric_loss_20261029_v16/figures/Figure2.pdf",
+    "frozen": "provenance/original_Figure2.pdf",
+    "sha256": "e3b718dd70fca3bf75b1dfe7e34d0179ac15106d0d6c79b81a0f1a85f2cd3b69"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure3_compact_layout_20261104_v21/figures/Figure3.pdf",
+    "frozen": "provenance/original_Figure3.pdf",
+    "sha256": "4e8f4427ace829d3916d87d50328ef966285ee1e614d1dd508f976b7f46d1be1"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Paper2_Coupled_AI_MHW/Papers/Submission_20261017_Nature_v1/analysis/font_package/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf",
+    "frozen": "fonts/LiberationSans-Regular.ttf",
+    "sha256": "8d91388f1d3604b3b8ae0e3ee2d140e50cd6122f9214514f4aca772540a4076d"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Paper2_Coupled_AI_MHW/Papers/Submission_20261017_Nature_v1/analysis/font_package/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf",
+    "frozen": "fonts/LiberationSans-Bold.ttf",
+    "sha256": "ba0e0dc3f7aca5b0afbc31e800531ee43be3aa79ae35b2ef1f6470a9547765c4"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Paper2_Coupled_AI_MHW/Papers/Submission_20261017_Nature_v1/analysis/font_package/usr/share/fonts/truetype/liberation2/LiberationSans-Italic.ttf",
+    "frozen": "fonts/LiberationSans-Italic.ttf",
+    "sha256": "01f559e5c501d3d5777647c6a92b3ff37a4523bcf4f3b6e97ae052af567618b1"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Paper2_Coupled_AI_MHW/Papers/Submission_20261017_Nature_v1/analysis/font_package/usr/share/fonts/truetype/liberation2/LiberationSans-BoldItalic.ttf",
+    "frozen": "fonts/LiberationSans-BoldItalic.ttf",
+    "sha256": "15c1068175252e4adee6d3721bf74064ffe437f679d9dbaeacd03fa7711a041b"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Paper2_Coupled_AI_MHW/Papers/Submission_20261017_Nature_v1/analysis/font_package/usr/share/doc/fonts-liberation2/copyright",
+    "frozen": "fonts/LICENSE.txt",
+    "sha256": "e4593eea6be55531c930388446f950ce97b5c730f5bc5dfd0167489402e91de4"
+  }
+]

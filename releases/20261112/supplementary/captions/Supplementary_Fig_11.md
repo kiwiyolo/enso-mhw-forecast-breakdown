@@ -1,0 +1,5 @@
+# Supplementary Fig. 11 | Longitudinal differences in observed and forecast height anomalies
+
+a,c, Observed (solid) and forecast (dashed) DJF 200-hPa height anomalies along 45°N and 50°S. Dark grey denotes the equal-event composite of 1997–1998 and 2015–2016; red denotes 2023–2024. b,d, Forecast minus observed height along the same sections. All 360 longitude nodes per section are retained, starting at 120°E and continuing eastward around the globe. The two latitudes sample the northern and southern midlatitude circulation to illustrate differences in the longitude and strength of anomaly centres; they do not identify fixed Rossby-wave trajectories or the seasonally most active waveguide. Positive errors indicate heights predicted too high and negative errors heights predicted too low, relative to the observed field, irrespective of the sign of the observed anomaly.
+
+Forecasts average the eight common leads. Anomalies and source fields are identical to Fig. 6. The focus is longitudinal error structure, not a new estimate of global MHW skill.

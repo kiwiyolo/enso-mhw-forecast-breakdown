@@ -1,0 +1,5 @@
+# Supplementary Fig. 8 | Circulation forecast correlations and RMSE across models
+
+a, Global spatial correlation of forecast and observed DJF 200-hPa height anomalies. b, Corresponding area-weighted RMSE. Each row is one model or the equal-weight multimodel mean. Colours denote 1997–1998 (light grey), 2015–2016 (dark grey) and 2023–2024 (red). Large points show the mean over eight leads; small points retain all lead values; whiskers span their minimum and maximum. The multimodel mean is formed from fields before verification. The domain is all longitudes, 60°S–60°N, including land, weighted by cosine latitude. NCEP–CFSv2 is absent because 1997–1998 200-hPa data were unavailable in the common source set used for main Fig. 3; it is assessed separately in Fig. 14.
+
+The plot includes 72 single-model and 24 multimodel event–lead evaluations from three events. Lead ranges are not confidence intervals. RMSE squares spatial errors before averaging and is therefore not reduced by cancellation of positive and negative errors.

@@ -1,0 +1,137 @@
+[
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Revised_20260921/Supplementary/Supplementary_Figure1_source_events.csv",
+    "frozen": "source_data/OLD/Supplementary_Figure1_source_events.csv",
+    "sha256": "9a17081ccf85c8cede431796cc039286fc088793dbe17a0dd64f8127e49eb319"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Revised_20260921/Supplementary/Supplementary_Figure1_monthly_t1_t9.csv",
+    "frozen": "source_data/OLD/Supplementary_Figure1_monthly_t1_t9.csv",
+    "sha256": "5ef36499985ce89ddd22ff9a86e17fe6b52c3661c2e737fbf181adb8d69d742b"
+  },
+  {
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure1_neighbourhood_skill_20261111_v10/source_data/canonical_relative_changes.nc",
+    "frozen": "source_data/SPATIAL10/canonical_relative_changes.nc",
+    "sha256": "3f9772954600ebc55d2e4007cac94d634f46e95714f0be249e301c7bedd7bf23"
+  },
+  {
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure1_neighbourhood_skill_20261111_v10/source_data/regional_changes.csv",
+    "frozen": "source_data/SPATIAL10/regional_changes.csv",
+    "sha256": "f115d37504aec186ddadcea0fca4b0a24ea9d1d0a1750bc6de1a1d10b0b5371d"
+  },
+  {
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure1_neighbourhood_skill_20261111_v10/source_data/regional_changes_by_lead.csv",
+    "frozen": "source_data/SPATIAL10/regional_changes_by_lead.csv",
+    "sha256": "bc5715303b3dd06bb29d038697c9c6df213ba9ece2f4b6fa592086b0017900c2"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig1/Figure1_monthly_t1_t9.csv",
+    "frozen": "source_data/F1/Figure1_monthly_t1_t9.csv",
+    "sha256": "7821b0c602eb830b076f5920302effdbe39134c6651b9fa9046a5af198041c90"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig1/Figure1_source_events.csv",
+    "frozen": "source_data/F1/Figure1_source_events.csv",
+    "sha256": "e09be55d40af257734e404e2fe1f92077a8ed6bac8a2b105cc5456aacbbc088a"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_latitude_sync_20261111_v23/source_data/sample_AUC_profiles.csv",
+    "frozen": "source_data/F4/sample_AUC_profiles.csv",
+    "sha256": "ba5dbc54385cf9fb1c8108cb1e06f430f737d0587f9856ab3d42fa0120d79fea"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3_Z200_fields.nc",
+    "frozen": "source_data/F3/Figure3_Z200_fields.nc",
+    "sha256": "b055dd8f4014fdce52d1678e0bef7a88ca49354279f2c3ac2e3f6757da519265"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3b_all_samples.csv",
+    "frozen": "source_data/F3/Figure3b_all_samples.csv",
+    "sha256": "a55ce7b44016f3b1f98634130a313750ddc20313d06ba2034be9b552e37e7c5b"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_event_omission.csv",
+    "frozen": "source_data/F3/SI_event_omission.csv",
+    "sha256": "294679562625b1f683c8d1a60c05f5ea7ee8f07eb7dc84d819161ab4d3224b2b"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_global_individual_el_nino_correlations.csv",
+    "frozen": "source_data/F3/SI_global_individual_el_nino_correlations.csv",
+    "sha256": "400418ddd78719aef69347efa7beb066085b5aadd7f795ae3eb8ac08143fb12a"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_climatology_distance_and_verification.csv",
+    "frozen": "source_data/F3/SI_climatology_distance_and_verification.csv",
+    "sha256": "3a5099486aa77d3c3cada087b21ff7150f62787a53cac1dc5ebf22ec49551363"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/Figure3cd_transects.csv",
+    "frozen": "source_data/F3/Figure3cd_transects.csv",
+    "sha256": "a16ef11940c913d7d42047984ccca12d009b6f8bc20adbaa3788630aeca7c931"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_latitude_sync_20261111_v23/source_data/SI_observed_local_process_hierarchy.csv",
+    "frozen": "source_data/F4/SI_observed_local_process_hierarchy.csv",
+    "sha256": "9739c6fefd38de1b07b6c01af69f79c3c349178bbaeaa675154677baf07be6c1"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_latitude_sync_20261111_v23/source_data/Figure4_observed_association_samples.csv",
+    "frozen": "source_data/F4/Figure4_observed_association_samples.csv",
+    "sha256": "c554703d1a2f2659665f06e2e0aa95a83471621a573714c3cd69a1f1b6373346"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_clear_skill_legend_20261110_v22/source_data/Figure4b_paired_error_fields.nc",
+    "frozen": "source_data/BRIDGE/Figure4b_paired_error_fields.nc",
+    "sha256": "6b2088dbd4399ce42806d1ebf700c14bc987f7cb8517da50d41196cb373c1aa2"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_net_normalized_20261111_v27/source_data/regional_map_shortfall.csv",
+    "frozen": "source_data/CURRENT4/regional_map_shortfall.csv",
+    "sha256": "2b3cf377e284d525fd13225a68593bbbc10c6a06f606caec139bdb3a21efd09b"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_net_normalized_20261111_v27/source_data/association_weighted_local_shortfall.csv",
+    "frozen": "source_data/CURRENT4/association_weighted_local_shortfall.csv",
+    "sha256": "92039597160163b105c4e5a8bb03016734bf2f44fd1ccde87af01ee97b7eae6e"
+  },
+  {
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure1_neighbourhood_skill_20261111_v10/source_data/regional_sensitivity.csv",
+    "frozen": "source_data/SPATIAL10/regional_sensitivity.csv",
+    "sha256": "aa0d1868eb8e7f74887aae8eeb9d270c4614b4b246fd15008a20f3255e887788"
+  },
+  {
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure1_neighbourhood_skill_20261111_v10/source_data/coverage_comparison.csv",
+    "frozen": "source_data/SPATIAL10/coverage_comparison.csv",
+    "sha256": "abfed8a5be6f35fd44f7a65ea2016b562443cf425c190d302bcef15229af8754"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig2/pattern_correlations.csv",
+    "frozen": "source_data/F2/pattern_correlations.csv",
+    "sha256": "4ff01722b78818d98b87a40fb5808249bc2d40c078ceca9b1bb42e8796fb6246"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig2/relative_loss_by_lead.csv",
+    "frozen": "source_data/F2/relative_loss_by_lead.csv",
+    "sha256": "03b697d4f4d1ab1d3a83982df3301108e08e76975f0a34ac767bd331abe59067"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1-3_Nature_layout_20261110_v7/source_data/Fig3/SI_regional_skill_change.csv",
+    "frozen": "source_data/F3/SI_regional_skill_change.csv",
+    "sha256": "6499863dbb22359cfaafc07aa34ac0821efc008d156bd5c3db043e48581d2013"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Revised_20260921/Supplementary/Supplementary_Figure1.md",
+    "frozen": "source_data/OLD/Supplementary_Figure1.md",
+    "sha256": "8f801d2f9b93591444897daa0d70513498a34580fdbd2de6c175968ac81980e1"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure4_net_normalized_20261111_v27/source_data/Figure4a_local_shortfall.nc",
+    "frozen": "source_data/CURRENT4/Figure4a_local_shortfall.nc",
+    "sha256": "1b0980d0d303e9e5050432852cd19217a402655a7ca8477aa480d6bfc2fadcd0"
+  },
+  {
+    "source": "/data3/luoq/FEIS/research/papers/mhw-predictability/Figures/Figure1_global_expected_benchmark_20261111_v11/source_data/global_expected_shortfall.nc",
+    "frozen": "source_data/CURRENT4/global_expected_shortfall.nc",
+    "sha256": "904b97a45f39375f9b4dff25d95eabf6e08b99df7fa8fac9159b176ff56e8081"
+  }
+]

@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the archived release."
-title: "Code for Breakdown of El Nino-enhanced marine heatwave predictability in 2023-2024"
-version: 1.0.0
-date-released: 2026-08-19
+title: "Code and derived data for Unexpectedly low marine heatwave forecast skill during the 2023-2024 El Niño"
+version: 2.0.0
+date-released: 2026-11-12
 type: software
 license: MIT
 doi: 10.5281/zenodo.22010274
@@ -10,14 +10,6 @@ repository-code: "https://github.com/kiwiyolo/enso-mhw-forecast-breakdown"
 authors:
   - family-names: Luo
     given-names: Qun
-  - family-names: Zhang
-    given-names: Meng
-  - family-names: Zhao
-    given-names: Yanan
-  - family-names: Jin
-    given-names: Yubin
-  - family-names: Jiang
-    given-names: Xin
   - family-names: Zeng
     given-names: Zhenzhong
 keywords:
@@ -28,6 +20,9 @@ keywords:
   - forecast skill
   - teleconnection
 abstract: >-
-  Calculation, diagnostic and plotting code for the manuscript Breakdown of
-  El Nino-enhanced marine heatwave predictability in 2023-2024, together with
-  lightweight derived products and final figures.
+  Current code and derived data are in releases/20261112, with four main
+  figures and seventeen supplementary figures, reproduction instructions,
+  original calculation provenance and validation records. Full source-field
+  recalculation requires provider archives and path configuration. Statistical
+  accounting does not establish causal attribution, and the documented archived
+  initialization-selection limitation remains unresolved.

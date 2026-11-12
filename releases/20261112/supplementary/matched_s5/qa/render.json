@@ -1,0 +1,14 @@
+{
+  "outside_text": [],
+  "width_mm": 180,
+  "height_mm": 140,
+  "minimum_text_pt": 6.5,
+  "shared_correlation_limits": [
+    -1,
+    1
+  ],
+  "shared_change_limits": [
+    -5,
+    100
+  ]
+}

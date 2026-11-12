@@ -1,0 +1,33 @@
+start_year,winter,included,paper_listed_el_nino,within_v18_window,reason
+1991,1991/92,False,True,False,excluded: outside unchanged v18 historical window
+1992,1992/93,False,False,True,excluded: not in paper Figure1 El Nino event list
+1993,1993/94,False,False,True,excluded: not in paper Figure1 El Nino event list
+1994,1994/95,True,True,True,included: other paper-listed El Nino within historical window
+1995,1995/96,False,False,True,excluded: not in paper Figure1 El Nino event list
+1996,1996/97,False,False,True,excluded: not in paper Figure1 El Nino event list
+1997,1997/98,False,True,True,excluded: canonical event
+1998,1998/99,False,False,True,excluded: not in paper Figure1 El Nino event list
+1999,1999/00,False,False,True,excluded: not in paper Figure1 El Nino event list
+2000,2000/01,False,False,True,excluded: not in paper Figure1 El Nino event list
+2001,2001/02,False,False,True,excluded: not in paper Figure1 El Nino event list
+2002,2002/03,True,True,True,included: other paper-listed El Nino within historical window
+2003,2003/04,False,False,True,excluded: not in paper Figure1 El Nino event list
+2004,2004/05,True,True,True,included: other paper-listed El Nino within historical window
+2005,2005/06,False,False,True,excluded: not in paper Figure1 El Nino event list
+2006,2006/07,True,True,True,included: other paper-listed El Nino within historical window
+2007,2007/08,False,False,True,excluded: not in paper Figure1 El Nino event list
+2008,2008/09,False,False,True,excluded: not in paper Figure1 El Nino event list
+2009,2009/10,True,True,True,included: other paper-listed El Nino within historical window
+2010,2010/11,False,False,True,excluded: not in paper Figure1 El Nino event list
+2011,2011/12,False,False,True,excluded: not in paper Figure1 El Nino event list
+2012,2012/13,False,False,True,excluded: not in paper Figure1 El Nino event list
+2013,2013/14,False,False,True,excluded: not in paper Figure1 El Nino event list
+2014,2014/15,False,False,True,excluded: not in paper Figure1 El Nino event list
+2015,2015/16,False,True,True,excluded: canonical event
+2016,2016/17,False,False,True,excluded: not in paper Figure1 El Nino event list
+2017,2017/18,False,False,True,excluded: not in paper Figure1 El Nino event list
+2018,2018/19,True,True,True,included: other paper-listed El Nino within historical window
+2019,2019/20,False,False,True,excluded: not in paper Figure1 El Nino event list
+2020,2020/21,False,False,True,excluded: not in paper Figure1 El Nino event list
+2021,2021/22,False,False,True,excluded: not in paper Figure1 El Nino event list
+2023,2023/24,False,True,False,excluded: focal event

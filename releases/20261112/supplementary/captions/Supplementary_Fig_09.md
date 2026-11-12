@@ -1,0 +1,5 @@
+# Supplementary Fig. 9 | Links between tropical and remote forecast errors depend on the El Niño event
+
+a–c, Tropical Pacific precipitation forecast–observation correlation versus remote 200-hPa height forecast–observation correlation, shown separately for the three events. Symbols identify the six recipient regions defined in Fig. 7. Each panel contains all 48 region–lead pairs; r summarizes their within-event association. d, The pooled association for all events and after omitting each event. The pooled relationship compares both differences between events and differences within events, whereas a–c assess the latter alone. Each tropical lead value is repeated for six recipients. Thus 144 plotted pairs represent three event clusters, not 144 independent events; the weak within-event associations cannot establish a stable predictive relationship or one-way transmission of forecast error.
+
+All values, including negative circulation correlations, are retained. Event omission is a sensitivity analysis, not out-of-event prediction validation. No independent-sample P value is reported.

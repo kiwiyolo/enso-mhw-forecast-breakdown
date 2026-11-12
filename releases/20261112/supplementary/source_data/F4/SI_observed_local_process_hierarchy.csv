@@ -1,0 +1,43 @@
+Region,Group,Share
+TP,ENSO,0.30350333268534374
+TP,Other climate modes,0.17039507721596528
+TP,Local ocean memory proxy,0.36938267984988005
+TP,Local atmospheric heating,0.030677690969360544
+TP,Local horizontal advection,0.07736322583950633
+TP,Unresolved,0.04867799343994417
+NP,ENSO,0.0010519736812719855
+NP,Other climate modes,0.0333472984251131
+NP,Local ocean memory proxy,0.6882387622873826
+NP,Local atmospheric heating,0.08969154013343261
+NP,Local horizontal advection,0.00570053809282997
+NP,Unresolved,0.18196988737996989
+SP,ENSO,0.028929614373197
+SP,Other climate modes,0.023445050030478677
+SP,Local ocean memory proxy,0.5892696590927915
+SP,Local atmospheric heating,0.04380878905442951
+SP,Local horizontal advection,0.0026556993752802375
+SP,Unresolved,0.311891188073823
+TA,ENSO,0.0050961855066678306
+TA,Other climate modes,0.041725575792526545
+TA,Local ocean memory proxy,0.7727235946538874
+TA,Local atmospheric heating,0.031115499383729605
+TA,Local horizontal advection,0.013866262524877705
+TA,Unresolved,0.135472882138311
+NA,ENSO,0.011605172822580667
+NA,Other climate modes,0.016572395595083497
+NA,Local ocean memory proxy,0.6451573735429602
+NA,Local atmospheric heating,0.12671657652885307
+NA,Local horizontal advection,0.005289310254803378
+NA,Unresolved,0.19465917125571908
+SA,ENSO,0.00400840635277248
+SA,Other climate modes,0.010498493541098698
+SA,Local ocean memory proxy,0.5303551726947154
+SA,Local atmospheric heating,0.11812662149126518
+SA,Local horizontal advection,0.0044577393096476734
+SA,Unresolved,0.3325535666105004
+IO,ENSO,0.07104353210694092
+IO,Other climate modes,0.0638034959622532
+IO,Local ocean memory proxy,0.5365146479313239
+IO,Local atmospheric heating,0.05305081142092073
+IO,Local horizontal advection,0.006059156071724916
+IO,Unresolved,0.2695283565068365

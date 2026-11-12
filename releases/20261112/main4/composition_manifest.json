@@ -1,0 +1,50 @@
+[
+  {
+    "figure": 1,
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/figures/Figure1.pdf",
+    "sha256": "3e220784fa5413b6ff89497d42f19c2b051c65239db4169b7eb67b2af0f4c4b6",
+    "rectangle": [
+      14.173228346456694,
+      34.01574803149607,
+      524.4094344011442,
+      283.46457005298043
+    ],
+    "scale": 1
+  },
+  {
+    "figure": 2,
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/figures/Figure2.pdf",
+    "sha256": "5c71157b07abd513a2292b071a29a2d38b9c554664197929fd46187c61190189",
+    "rectangle": [
+      544.2519540861836,
+      34.01574803149607,
+      1054.488160140871,
+      311.81103611743356
+    ],
+    "scale": 1
+  },
+  {
+    "figure": 3,
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/figures/Figure3.pdf",
+    "sha256": "595531eb036ae6138c1c7aa6f7621bf95fbcb03d5d4f9ad51a39153a3016dfe6",
+    "rectangle": [
+      14.173228346456694,
+      351.49607548751226,
+      524.4094344011442,
+      728.5039490226685
+    ],
+    "scale": 1
+  },
+  {
+    "figure": 4,
+    "source": "/data3/luoq/FEIS-archive/legacy/p03-ocean-sst-ensemble/Figure4_net_normalized_20261111_v27/figures/Figure4.pdf",
+    "sha256": "eeb6086d4ec84448e2cf16311df274dcf532549add893856bc3cfeec6da5419f",
+    "rectangle": [
+      544.2519540861836,
+      351.49607548751226,
+      1054.488160140871,
+      856.0630005363404
+    ],
+    "scale": 1
+  }
+]

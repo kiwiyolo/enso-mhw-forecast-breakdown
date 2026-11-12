@@ -1,0 +1,5 @@
+# Supplementary Fig. 7 | Regional circulation forecast skill across lead months
+
+a–c, Forecast–observation spatial correlations of DJF 200-hPa height anomalies in 1997–1998, 2015–2016 and 2023–2024. d, Correlation in 2023–2024 minus the equal-event mean of the two earlier events. Panels a–c share the −1 to 1 scale; in d, red denotes lower and blue higher correlation. Grey cells labelled NA denote unavailable lead 9, not zero skill; 48 region–lead combinations are valid per event. NP, North Pacific; SP, South Pacific; TA, tropical Atlantic; NA, North Atlantic; SA, South Atlantic; IO, Indian Ocean. Here NA on a row label is North Atlantic, whereas NA inside a cell means not available. Pacific and Atlantic masks use ±23.5° and ±60° boundaries as in main Figs. 3–4; tropical Pacific is the source and is omitted from this six-recipient comparison. The full boundaries are in the coverage table.
+
+These six ocean-mask diagnostics are not four idealized PNA/PSA/Indian/Atlantic waveguide boxes. No significance is inferred from the number of leads or grid cells.

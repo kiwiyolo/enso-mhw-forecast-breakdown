@@ -1,0 +1,1710 @@
+{
+  "status": "PASS presentation and parity checks",
+  "n_checks": 316,
+  "failed": [],
+  "checks": [
+    {
+      "check": "unchanged source: source_data/Fig1/Figure1a_regression_prediction_band.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig1/Figure1_monthly_t1_t9.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig1/Figure1_event_uncertainty.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig1/Figure1_statistics.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig1/Figure1_source_events.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig2/input_lineage.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig2/plotted_bars.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig2/historical_reference_sensitivity.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig2/plotted_reference_points.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig2/relative_loss_by_lead.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig2/plotted_b_curves.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig2/pattern_correlations.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig2/relative_loss_summary.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/SI_anomaly_amplitude.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/coordinate_audit_precipitation_GFDL-SPEAR.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/coordinate_audit_precipitation_NASA-GEOSS2S.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3b_all_samples.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_el_nino_reference_amplitude.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_anomaly_correlations.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_other_el_nino_fields.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_transects.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3c_global_anomaly_correlations.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3_precipitation_fields.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3_Z200_fields.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/historical_ERA5_source_audit.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_historical_comparison_fields.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/SI_global_individual_el_nino_correlations.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/other_el_nino_event_selection.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3_geostrophic_and_height_fields.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3b_event_bootstrap_envelope.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_historical_monthly_Z200.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/SI_climatology_distance_and_verification.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/historical_winter_selection.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/coordinate_audit_z200_NASA-GEOSS2S.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/ERA5_source_audit.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/inherited_ERA5_source_audit_v3.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_band_masks.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/SI_five_state_pairwise_correlations.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/coordinate_audit_z200_GFDL-SPEAR.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/region_boundary_change.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/SI_individual_historical_winter_correlations.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/coordinate_audit_z200_COLA-RSMAS-CCSM4.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_el_nino_anomaly_correlations.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/SI_event_omission.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/SI_prespecified_error_concentration.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/coordinate_audit_precipitation_COLA-RSMAS-CCSM4.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/SI_canonical_pattern_correspondence.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_other_historical_fields.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/seven_ocean_regions.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_el_nino_comparison_fields.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_historical_reference_amplitude.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/SI_event_bootstrap_fits.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3c_global_anomaly_amplitudes.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_band_correlations.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_anomaly_fields.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/SI_regional_skill_change.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3c_global_domain.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_transect_statistics.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure3cd_historical_anomaly_correlations.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/SI_individual_other_el_nino_correlations.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig3/Figure1_source_events.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig2/Figure3_source_process_maps_t1_t9.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: source_data/Fig2/Figure3_model_sign_agreement.nc",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: provenance/original_Figure1_caption.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: provenance/original_Figure1_plot.py",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: provenance/original_Figure2.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: provenance/original_Figure2_plot.py",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: provenance/original_Figure3.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: provenance/original_Figure3_plot.py",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: provenance/original_Figure3_contract.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: provenance/original_Figure3_statistics.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: provenance/original_Figure1.pdf",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: provenance/original_Figure2.pdf",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: provenance/original_Figure3.pdf",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: fonts/LiberationSans-Regular.ttf",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: fonts/LiberationSans-Bold.ttf",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: fonts/LiberationSans-Italic.ttf",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: fonts/LiberationSans-BoldItalic.ttf",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged source: fonts/LICENSE.txt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 no out-of-canvas text",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 minimum font >=6pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 regular font <=7pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 width 180mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 text editable",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 embedded TTF",
+      "pass": true,
+      "detail": [
+        "FRZNSF+LiberationSans-Bold",
+        "FRZNSF+LiberationSans"
+      ]
+    },
+    {
+      "check": "Figure2 obsolete labels absent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 no out-of-canvas text",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 minimum font >=6pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 regular font <=7pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 width 180mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 text editable",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 embedded TTF",
+      "pass": true,
+      "detail": [
+        "FRZNSF+LiberationSans-Bold",
+        "FRZNSF+LiberationSans",
+        "BMQQDV+DejaVuSans"
+      ]
+    },
+    {
+      "check": "Figure3 obsolete labels absent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 no out-of-canvas text",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 minimum font >=6pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 regular font <=7pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 width 180mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 text editable",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 embedded TTF",
+      "pass": true,
+      "detail": [
+        "FRZNSF+LiberationSans-Bold",
+        "FRZNSF+LiberationSans"
+      ]
+    },
+    {
+      "check": "Figure1 obsolete labels absent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 all 10 event bars",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 no arrow",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 exact time alignment",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 original gap",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 Expected and delta labels absent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 requested legend present",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 observed value annotation absent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 narrower a and wider b",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 expected marker and comparison line removed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 top and bottom alignment",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 both canonical labels present",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 concrete colourbar label present",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 aligned column title baselines",
+      "pass": true,
+      "detail": [
+        15.622810363769531,
+        15.622810363769531
+      ]
+    },
+    {
+      "check": "Figure3 requested descriptions removed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 domain annotation removed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 restored correlation axes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "New label defined in caption",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved map_shape",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved map_limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved smoothing",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved stipple_counts",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved stipple_subsample",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved curve_coefficients",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved displayed_curves",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved bars",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved reference_points",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved whiskers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved right_column_edges_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved map_right_column_gap_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved map_row_gap_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved map_column_gap_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved curve_row_gap_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved b_c_frame_gap_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved width_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved height_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved font",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved min_font_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved outside_text",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved axis_label_pad_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved tick_label_pad_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v5 preserved axes_positions",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "v5 unchanged export Figure1.pdf",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "v5 unchanged export Figure1.svg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "v5 unchanged export Figure1.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 removed explanations retained in caption",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 compact label and tick pads",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 axis labels clear of ticks",
+      "pass": true,
+      "detail": [
+        {
+          "axes_index": 6,
+          "direction": "x",
+          "text": "Forecast \u2212 observed (% of observed anomaly magnitude)",
+          "tick_gap_pt": 0.9999999999999978,
+          "overlaps_other_axes": []
+        },
+        {
+          "axes_index": 7,
+          "direction": "y",
+          "text": "SST",
+          "tick_gap_pt": 1.0000000000000182,
+          "overlaps_other_axes": []
+        },
+        {
+          "axes_index": 8,
+          "direction": "y",
+          "text": "Wind stress",
+          "tick_gap_pt": 1.0000000000000182,
+          "overlaps_other_axes": []
+        },
+        {
+          "axes_index": 9,
+          "direction": "x",
+          "text": "Lead month",
+          "tick_gap_pt": 0.9999999999999978,
+          "overlaps_other_axes": []
+        },
+        {
+          "axes_index": 9,
+          "direction": "y",
+          "text": "Convection",
+          "tick_gap_pt": 1.0000000000000182,
+          "overlaps_other_axes": []
+        },
+        {
+          "axes_index": 10,
+          "direction": "y",
+          "text": "Correlation decline (%)",
+          "tick_gap_pt": 1.0000000000000182,
+          "overlaps_other_axes": []
+        }
+      ]
+    },
+    {
+      "check": "Figure2 axis labels not inside adjacent panels",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 width retained; height compacted or retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: map_shape",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: map_limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: smoothing",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: stipple_counts",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: stipple_subsample",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: curve_coefficients",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: displayed_curves",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: bars",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: reference_points",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: whiskers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: width_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: font",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: min_font_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: axis_label_pad_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v4 retained: tick_label_pad_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 compact label and tick pads",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 axis labels clear of ticks",
+      "pass": true,
+      "detail": [
+        {
+          "axes_index": 3,
+          "direction": "y",
+          "text": "200-hPa geopotential height anomaly (m)",
+          "tick_gap_pt": 1.0000000000000182,
+          "overlaps_other_axes": []
+        },
+        {
+          "axes_index": 4,
+          "direction": "y",
+          "text": "200-hPa geopotential height\nForecast \u2212 observed (m)",
+          "tick_gap_pt": 1.0000000000000182,
+          "overlaps_other_axes": []
+        },
+        {
+          "axes_index": 5,
+          "direction": "x",
+          "text": "Tropical convection correlation (r)",
+          "tick_gap_pt": 1.0000000000000182,
+          "overlaps_other_axes": []
+        },
+        {
+          "axes_index": 5,
+          "direction": "y",
+          "text": "Z200 forecast correlation (r)",
+          "tick_gap_pt": 1.0000000000000182,
+          "overlaps_other_axes": []
+        },
+        {
+          "axes_index": 6,
+          "direction": "y",
+          "text": "Anomaly spatial correlation, r",
+          "tick_gap_pt": 1.0000000000000182,
+          "overlaps_other_axes": []
+        }
+      ]
+    },
+    {
+      "check": "Figure3 axis labels not inside adjacent panels",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 width retained; height compacted or retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: scatter_points",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: bar_values",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: map_limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: projection",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: source_grid_unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: map_smoothing",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: vector_samples_per_map",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: vector_locations",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: vector_scale",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: contour_levels",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: reference_latitudes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: retained_mask_boundary",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: Fig4_mask_boundary_unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: bar_zero_baseline",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: bar_ylim",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: bar_upper_padding_reason",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: scatter_r",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: scatter_x_limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: scatter_y_limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: scatter_columns",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: scatter_axis_metric",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: negative_z200_samples",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: plotted_correlations",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: correlation_envelope",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: transformed_r",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: internal_legends_inside_axes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: scatter_points_under_legends",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: width_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: font",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: min_font_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: axis_label_pad_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v4 retained: tick_label_pad_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 compact label and tick pads",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 axis labels clear of ticks",
+      "pass": true,
+      "detail": [
+        {
+          "axes_index": 0,
+          "direction": "x",
+          "text": "Peak Ni\u00f1o3.4 anomaly (\u00b0C)",
+          "tick_gap_pt": 0.9999999999999978,
+          "overlaps_other_axes": []
+        },
+        {
+          "axes_index": 0,
+          "direction": "y",
+          "text": "Global MHW forecast skill (AUC)",
+          "tick_gap_pt": 0.9999999999999926,
+          "overlaps_other_axes": []
+        },
+        {
+          "axes_index": 1,
+          "direction": "y",
+          "text": "Forecast skill (AUC)",
+          "tick_gap_pt": 1.0000000000000182,
+          "overlaps_other_axes": []
+        },
+        {
+          "axes_index": 2,
+          "direction": "x",
+          "text": "Year",
+          "tick_gap_pt": 0.9999999999999978,
+          "overlaps_other_axes": []
+        }
+      ]
+    },
+    {
+      "check": "Figure1 axis labels not inside adjacent panels",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 width retained; height compacted or retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: all_event_whiskers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: fit_band_rows",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: arrow_removed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: monthly_rows",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: expected",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: observed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: residual",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: Nino34_limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: shared_x_exact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: observed_annotation_removed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: expected_marker_removed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: gap_annotation_removed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: comparison_line_removed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: main_and_strip_bottom_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: main_and_series_top_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: width_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: font",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: min_font_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: axis_label_pad_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 v4 retained: tick_label_pad_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 panel gap reduced 18 to 10mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 strip gap reduced 3 to 1.5mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 column gap reduced 20 to 11.5mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 map row and column gaps compacted",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 b-c gap reduced 13 to 10mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 right axes edges aligned",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 map colourbar edges aligned",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 explicit physical quantity",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained scatter_points",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained bar_values",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained map_limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained projection",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained source_grid_unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained map_smoothing",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained vector_samples_per_map",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained vector_locations",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained vector_scale",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained contour_levels",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained reference_latitudes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained retained_mask_boundary",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained Fig4_mask_boundary_unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained bar_zero_baseline",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained bar_ylim",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained bar_upper_padding_reason",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained right_column_edges_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained scatter_r",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained scatter_x_limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained scatter_y_limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained scatter_columns",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained scatter_axis_metric",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained negative_z200_samples",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained plotted_correlations",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained correlation_envelope",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained transformed_r",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained internal_legends_inside_axes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained scatter_points_under_legends",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained width_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained height_mm",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained font",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained min_font_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained outside_text",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained axis_label_pad_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained tick_label_pad_pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 retained axes_positions",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 reduced canvas height",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 reduced canvas height",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure1 reduced canvas height",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v1 parity: displayed_curves",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v1 parity: bars",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v1 parity: stipple_counts",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 v1 parity: map_limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v1 parity: bar_values",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v1 parity: map_limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v1 parity: vector_locations",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v1 parity: vector_scale",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v1 parity: contour_levels",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 v1 parity: scatter_r",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 all 27 displayed lead summaries match",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 SST bar and interval recomputed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 Zonal wind stress bar and interval recomputed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 Convection proxy bar and interval recomputed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 81 coefficients / 6 reference points",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 native map grid unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 colour range unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 sst_comparable_relative_error stippling retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 sst_target_relative_error stippling retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 stress_comparable_relative_error stippling retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 stress_target_relative_error stippling retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 precipitation_comparable_relative_error stippling retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure2 precipitation_target_relative_error stippling retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3b all sample identifiers unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3b actual r values drawn",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3b r equals one minus former error",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3b negative correlations retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3b pooled correlation invariant",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3b regression envelope transformed exactly",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3b all values and envelope within axis limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3c recomputed forecast_2023 / other_el_nino",
+      "pass": true,
+      "detail": 0.8213848050072856
+    },
+    {
+      "check": "Figure3c recomputed forecast_2023 / observed_canonical",
+      "pass": true,
+      "detail": 0.7505730161095839
+    },
+    {
+      "check": "Figure3c recomputed forecast_2023 / observed_2023",
+      "pass": true,
+      "detail": 0.6648936208886451
+    },
+    {
+      "check": "Figure3c recomputed forecast_canonical / other_el_nino",
+      "pass": true,
+      "detail": 0.8265327909158865
+    },
+    {
+      "check": "Figure3c recomputed forecast_canonical / observed_canonical",
+      "pass": true,
+      "detail": 0.9154619537592283
+    },
+    {
+      "check": "Figure3c recomputed forecast_canonical / observed_2023",
+      "pass": true,
+      "detail": 0.7128636924706473
+    },
+    {
+      "check": "Figure3 all 144 points / 6 bars",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 legends inside axes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 no scatter points covered by legends",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 native values and colour limits",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 vector sampling unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 bars start at zero",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3 same projection as Fig4",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "combined PDF 3 pages",
+      "pass": true,
+      "detail": null
+    }
+  ],
+  "scientific_status": "Inherited limitations retained; not a new scientific or submission-readiness approval.",
+  "font_exception": "Liberation Sans substituted transparently; Arial/Helvetica unavailable."
+}

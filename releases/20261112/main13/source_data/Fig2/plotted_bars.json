@@ -1,0 +1,29 @@
+[
+  {
+    "Process": "SST",
+    "x": 0,
+    "height": 19.15733611051623,
+    "error_low": 17.792906485089667,
+    "error_high": 20.4772130430449,
+    "relative_to_SST": 1.0,
+    "label": "19.2%"
+  },
+  {
+    "Process": "Zonal wind stress",
+    "x": 1,
+    "height": 46.95077982388016,
+    "error_low": 42.90701514197205,
+    "error_high": 50.45961149329744,
+    "relative_to_SST": 2.450798981289836,
+    "label": "47.0%"
+  },
+  {
+    "Process": "Convection proxy",
+    "x": 2,
+    "height": 36.9580545179788,
+    "error_low": 27.429318446530743,
+    "error_high": 44.27491591976394,
+    "relative_to_SST": 1.929185472592457,
+    "label": "37.0%"
+  }
+]

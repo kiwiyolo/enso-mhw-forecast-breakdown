@@ -1,0 +1,13 @@
+anchor,start_year,r,role
+forecast_2023,1994,0.4429879770707002,individual-event sensitivity only; main reference is composite-first
+forecast_2023,2002,0.6072912171441115,individual-event sensitivity only; main reference is composite-first
+forecast_2023,2004,0.1919933935318256,individual-event sensitivity only; main reference is composite-first
+forecast_2023,2006,0.478688183348994,individual-event sensitivity only; main reference is composite-first
+forecast_2023,2009,0.5315293084732946,individual-event sensitivity only; main reference is composite-first
+forecast_2023,2018,0.24878577435334281,individual-event sensitivity only; main reference is composite-first
+forecast_canonical,1994,0.45930134473767553,individual-event sensitivity only; main reference is composite-first
+forecast_canonical,2002,0.5679877929611459,individual-event sensitivity only; main reference is composite-first
+forecast_canonical,2004,0.08109414326339702,individual-event sensitivity only; main reference is composite-first
+forecast_canonical,2006,0.4527272033695302,individual-event sensitivity only; main reference is composite-first
+forecast_canonical,2009,0.6587191863699474,individual-event sensitivity only; main reference is composite-first
+forecast_canonical,2018,0.23663474392080702,individual-event sensitivity only; main reference is composite-first

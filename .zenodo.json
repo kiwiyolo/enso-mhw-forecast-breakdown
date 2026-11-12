@@ -1,17 +1,13 @@
 {
-  "title": "Code for Breakdown of El Nino-enhanced marine heatwave predictability in 2023-2024",
+  "title": "Code and derived data for Unexpectedly low marine heatwave forecast skill during the 2023-2024 El Niño",
   "upload_type": "software",
-  "description": "Calculation, diagnostic and plotting code for Figures 1-4 and supporting analyses in the manuscript Breakdown of El Nino-enhanced marine heatwave predictability in 2023-2024. The release includes lightweight derived products, provenance records and final figures; large third-party forecast and reanalysis archives are documented but not redistributed.",
+  "description": "November 2026 snapshot for the current manuscript, in releases/20261112. Includes four main figures, 17 supplementary figures, derived fields and tables, original calculation code, portable plotting code, software versions and checksum/visual validation. Four main figures and 16 supplementary figures were re-rendered with zero pixel differences against the retained final artwork; Supplementary Fig. 7 is retained unchanged. Large third-party forecast and reanalysis archives are not redistributed. Full raw-field recalculation requires provider inputs and path configuration. The archived SST initialization-selection limitation remains documented, and Fig. 4 allocations are statistical rather than causal. Older repository-root products and their contributor credits remain historical and should not be combined with this snapshot.",
   "creators": [
     {"name": "Luo, Qun"},
-    {"name": "Zhang, Meng"},
-    {"name": "Zhao, Yanan"},
-    {"name": "Jin, Yubin"},
-    {"name": "Jiang, Xin"},
     {"name": "Zeng, Zhenzhong"}
   ],
-  "version": "1.0.0",
-  "publication_date": "2026-08-19",
+  "version": "2.0.0",
+  "publication_date": "2026-11-12",
   "access_right": "open",
   "license": "mit",
   "language": "eng",

@@ -1,0 +1,7 @@
+domain,anchor,target,r,n_grid_cells,target_events,field_type,weight,status
+Global_60S_60N,forecast_2023,other_el_nino,0.8213848050072857,43560,6,DJF_mean_Z200_anomaly,cos(latitude),defined
+Global_60S_60N,forecast_2023,observed_canonical,0.7505730161095839,43560,2,DJF_mean_Z200_anomaly,cos(latitude),defined
+Global_60S_60N,forecast_2023,observed_2023,0.6648936208886452,43560,1,DJF_mean_Z200_anomaly,cos(latitude),defined
+Global_60S_60N,forecast_canonical,other_el_nino,0.8265327909158866,43560,6,DJF_mean_Z200_anomaly,cos(latitude),defined
+Global_60S_60N,forecast_canonical,observed_canonical,0.9154619537592288,43560,2,DJF_mean_Z200_anomaly,cos(latitude),defined
+Global_60S_60N,forecast_canonical,observed_2023,0.7128636924706473,43560,1,DJF_mean_Z200_anomaly,cos(latitude),defined

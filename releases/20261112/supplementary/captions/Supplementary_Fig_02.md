@@ -1,0 +1,5 @@
+# Supplementary Fig. 2 | ENSO-phase associations with MHW forecast skill
+
+a,b, Global MHW area under the ROC curve (AUC) against absolute Niño3.4 anomaly during El Niño and La Niña months, respectively. The thresholds are +0.5 °C and −0.5 °C; neutral months are outside this comparison. Lines are ordinary-least-squares fits and r is the monthly Pearson correlation. Both panels use the same AUC axis. The 95% correlation intervals are percentile intervals from 2,000 whole-calendar-year resamples; the same sampled years are used for both phases when estimating the slope difference. Months within years and successive ENSO months are dependent; they are not independent events. Year-block resampling addresses within-year dependence but may not capture the full duration of multiyear ENSO episodes. The 95% year-block intervals for the correlations are 0.31 to 0.78 for El Niño and −0.13 to 0.39 for La Niña. The El Niño minus La Niña slope difference is 0.062 AUC °C⁻¹ (95% year-block interval -0.011 to 0.128); the interval includes zero.
+
+All phase-eligible months are retained; no independent-month P values or multiple-comparison significance symbols are used.
